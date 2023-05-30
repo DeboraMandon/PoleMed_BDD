@@ -220,9 +220,9 @@ concatenated_df.sample(10)
 concatenated_df['Date'] = pd.to_datetime(concatenated_df['Date'])
 concatenated_df['Date'] = concatenated_df['Date'].dt.strftime("%d/%m/%Y")
 
-concatenated_df.to_csv('new_data.csv', index=False)
+concatenated_df.to_csv('Pole_Médical/PoleMed_BDD/new_data.csv', index=False)
 
-df1=pd.read_csv('Concat_df.csv')
+df1=pd.read_csv('Pole_Médical/PoleMed_BDD/Concat_df.csv')
 df2=concatenated_df
 
 dfs = [df1, df2]
@@ -254,4 +254,4 @@ data['Durée'] = pd.to_timedelta(data['Durée'])
 # Calculez la durée en heures décimales
 data['Durée'] = data['Durée'].dt.total_seconds() / 3600
 
-data.to_csv('BDD.csv', index=False)
+data.to_csv('Pole_Médical/PoleMed_BDD/BDD.csv', index=False)
