@@ -13,7 +13,8 @@ import re
 
 
 config = configparser.ConfigParser()
-config.read('Pole_Médical/PoleMed_BDD/cred.ini')
+#config.read('Pole_Médical/PoleMed_BDD/cred.ini')
+config.read('cred.ini')
 user_value = config.get('Credentials', 'user_planning')
 password_value = config.get('Credentials', 'mdp_planning')
 
@@ -94,7 +95,7 @@ time.sleep(1)
 
 driver.close()
 
-download_folder = 'C:/Users/debor/Downloads/'
+download_folder = 'C:/Users/d.mandon/Downloads/' # A modifier selon le PC
 excel_files = glob.glob(download_folder + 'export*.xlsx')
 
 df1=pd.read_excel(excel_files[0], header=None)
@@ -215,15 +216,13 @@ concatenated_df = pd.concat(dfs)
 # Réinitialisez l'index du DataFrame concaténé
 concatenated_df.reset_index(drop=True, inplace=True)
 
-concatenated_df.sample(10)
-
 concatenated_df['Date'] = pd.to_datetime(concatenated_df['Date'])
 concatenated_df['Date'] = concatenated_df['Date'].dt.strftime("%d/%m/%Y")
 
-concatenated_df.to_csv('Pole_Médical/PoleMed_BDD/new_data.csv', index=False)
+concatenated_df.to_csv('C:/Users/d.mandon/Documents/GitHub/PoleMed_BDD/new_data.csv', index=False)
 
-df1=pd.read_csv('Pole_Médical/PoleMed_BDD/Concat_df.csv')
-df2=concatenated_df
+df1=pd.read_csv('C:/Users/d.mandon/Documents/GitHub/PoleMed_BDD/Concat_df.csv')
+df2=pd.read_csv('C:/Users/d.mandon/Documents/GitHub/PoleMed_BDD/new_data.csv')
 
 dfs = [df1, df2]
 
@@ -246,12 +245,12 @@ data['Durée']=data['Durée'].astype(str)
 
 data['Durée']=data['Durée'].str.split().str[2]
 
-data['Durée'] = data['Durée'].str.replace("+ ", "")
-data['Durée'] = data['Durée'].str.replace("+", "")
+data['Durée'] = data['Durée'].str.replace("+", "", regex=False)
+data['Durée'] = data['Durée'].str.replace("+ ", "", regex=False)
 
 data['Durée'] = pd.to_timedelta(data['Durée'])
 
 # Calculez la durée en heures décimales
 data['Durée'] = data['Durée'].dt.total_seconds() / 3600
 
-data.to_csv('Pole_Médical/PoleMed_BDD/BDD.csv', index=False)
+data.to_csv('C:/Users/d.mandon/Documents/GitHub/PoleMed_BDD/BDD.csv', index=False)
