@@ -14,10 +14,10 @@ import configparser
 import numpy as np
 import re
 
+username = getpass.getuser()
 
 config = configparser.ConfigParser()
-#config.read('Pole_Médical/PoleMed_BDD/cred.ini')
-config.read('cred.ini')
+config.read('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/PoleMed_BDD/cred.ini')
 user_value = config.get('Credentials', 'user_planning')
 password_value = config.get('Credentials', 'mdp_planning')
 
@@ -60,7 +60,6 @@ tdg=driver.find_element(By.XPATH, "//*[@id='side-menu']/li[7]/ul/li[3]/a")
 tdg.click()
 scroll(100)
 
-username = getpass.getuser()
 #pour telecharger tous les excel du dernier TDG
 
 #PDS
@@ -161,31 +160,31 @@ df3=pd.read_csv('df_rru.csv')
 df4=pd.read_csv('df_art.csv')
 df5=pd.read_csv('df_pds.csv')
 
-correspondance_colonnes = {0 : 'Date',
-                          1: 'Associé',
-                          2: 'Nom',
-                          3 : 'Prénom',
-                          4 : 'mail',
-                          5 : 'Site',
-                          6 : 'Jour/Nuit',
-                          7: 'Date_Heure_Début',
-                          8 : 'Date_Heure_Fin'}
+correspondance_colonnes = {'0' : 'Date',
+                          '1': 'Associé',
+                          '2': 'Nom',
+                          '3' : 'Prénom',
+                          '4' : 'mail',
+                          '5' : 'Site',
+                          '6' : 'Jour/Nuit',
+                          '7': 'Date_Heure_Début',
+                          '8' : 'Date_Heure_Fin'}
 
 df1 = df1.rename(columns=correspondance_colonnes)
 df3 = df3.rename(columns=correspondance_colonnes)
 df4 = df4.rename(columns=correspondance_colonnes)
 
-correspondance_colonnes = {0: 'Date',
-                          1: 'Associé',
-                          2: 'Nom',
-                          3 : 'Prénom',
-                          4 : 'mail',
-                          5 : 'Site',
-                          6 : 'Jour/Nuit',
-                          7: 'Date_Heure_Début',
-                          8 : 'Date_Heure_Fin',
-                          9 : 'Chef',
-                          10 : 'Formation'}
+correspondance_colonnes = {'0': 'Date',
+                          '1': 'Associé',
+                          '2': 'Nom',
+                          '3' : 'Prénom',
+                          '4' : 'mail',
+                          '5' : 'Site',
+                          '6' : 'Jour/Nuit',
+                          '7': 'Date_Heure_Début',
+                          '8' : 'Date_Heure_Fin',
+                          '9' : 'Chef',
+                          '10' : 'Formation'}
 
 df2 = df2.rename(columns=correspondance_colonnes)
 df5 = df5.rename(columns=correspondance_colonnes)
