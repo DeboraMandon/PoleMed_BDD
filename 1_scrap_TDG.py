@@ -8,6 +8,8 @@ import time
 import configparser
 import getpass
 import os
+import glob
+import pandas as pd
 
 config = configparser.ConfigParser()
 config.read('cred.ini')
