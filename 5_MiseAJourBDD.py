@@ -74,6 +74,7 @@ time.sleep(1)
 generate=driver.find_element(By.ID, "generate")
 generate.click()
 time.sleep(2) 
+print("Le fichier PDS a été téléchargé.")
 
 download_folder = 'C:/Users/'+username+'/Downloads/'
 excel_files = glob.glob(download_folder + 'export*.xlsx')
@@ -97,6 +98,7 @@ df_ao=pd.read_excel(excel_files[0], header=None)
 df_ao.to_csv('df_ao.csv', index=False)
 
 os.remove(excel_files[0])
+print("Le fichier AO a été téléchargé.")
 
 #CDS
 cds=driver.find_element(By.XPATH, "//*[@id='excelDpt3']")
@@ -113,6 +115,7 @@ df_cds=pd.read_excel(excel_files[0], header=None)
 df_cds.to_csv('df_cds.csv', index=False)
 
 os.remove(excel_files[0])
+print("Le fichier CDS a été téléchargé.")
 
 #RRU
 rru=driver.find_element(By.XPATH, "//*[@id='excelDpt4']")
@@ -129,6 +132,7 @@ df_rru=pd.read_excel(excel_files[0], header=None)
 df_rru.to_csv('df_rru.csv', index=False)
 
 os.remove(excel_files[0])
+print("Le fichier RRU a été téléchargé.")
 
 #ART
 art=driver.find_element(By.XPATH, "//*[@id='excelDpt6']")
@@ -145,6 +149,7 @@ df_art=pd.read_excel(excel_files[0], header=None)
 df_art.to_csv('df_art.csv', index=False)
 
 os.remove(excel_files[0])
+print("Le fichier ART a été téléchargé.")
 
 #Fermer le générateur
 close=driver.find_element(By.XPATH, "//*[@id='excel']/div/div/div[3]/button[1]")
@@ -153,7 +158,17 @@ time.sleep(1)
 
 driver.close()
 
+# Spécifiez le chemin complet du fichier CSV à supprimer
+chemin_fichier = 'C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/PoleMed_BDD/new_data.csv'
 
+# Vérifiez si le fichier existe avant de le supprimer
+if os.path.exists(chemin_fichier):
+    os.remove(chemin_fichier)
+    print("Le fichier CSV new_data.csv a été supprimé avec succès.")
+else:
+    print("Le fichier CSV new_data.csv n'existe pas.")
+
+#Créer le nouveau fichier new_data
 df1=pd.read_csv('df_ao.csv')
 df2=pd.read_csv('df_cds.csv')
 df3=pd.read_csv('df_rru.csv')
@@ -276,6 +291,7 @@ concatenated_df['Date'] = pd.to_datetime(concatenated_df['Date'])
 concatenated_df['Date'] = concatenated_df['Date'].dt.strftime("%d/%m/%Y")
 
 concatenated_df.to_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/PoleMed_BDD/new_data.csv', index=False)
+print("Le fichier new_data a été mis à jour.")
 
 df1=pd.read_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/PoleMed_BDD/Concat_df.csv')
 df2=pd.read_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/PoleMed_BDD/new_data.csv')
@@ -297,7 +313,7 @@ data['Date_Heure_Début'] = pd.to_datetime(data['Date_Heure_Début'])
 
 data['Durée'] = data['Date_Heure_Fin'] - data['Date_Heure_Début']
 
-data=data.drop_duplicates()
+data=data.drop_duplicates(subset=['Nom_Prenom', 'Date', 'Horaire'], keep='last')
 
 data['Durée']=data['Durée'].astype(str)
 
@@ -312,3 +328,6 @@ data['Durée'] = pd.to_timedelta(data['Durée'])
 data['Durée'] = data['Durée'].dt.total_seconds() / 3600
 
 data.to_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/PoleMed_BDD/BDD.csv', index=False)
+data.to_excel('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/PoleMed_BDD/BDD.xlsx', index=False)
+print("La Base de Données du planning est désormais à jour.")
+print("FIN DU PROCESSSUS.")
