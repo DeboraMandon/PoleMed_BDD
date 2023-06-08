@@ -292,6 +292,7 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 05/06/2023,Associé,j.hissier@imadis.fr,Rennes,Nuit,2023-06-05 13:00:00,2023-06-05 18:00:00,Chef de CDS,,CDS,HISSIER Julien,13:00:00,18:00:00,13:00:00 - 18:00:00
 05/06/2023,Associé,s.asfari@imadis.fr,Lyon,Journée,2023-06-05 14:00:00,2023-06-05 18:00:00,,,CDS,ASFARI Stéphane,14:00:00,18:00:00,14:00:00 - 18:00:00
 05/06/2023,Thèsé,as.desmyttere@imadis.fr,Lyon,Nuit,2023-06-05 15:00:00,2023-06-05 18:00:00,,,CDS,DESMYTTERE Anne-solène,15:00:00,18:00:00,15:00:00 - 18:00:00
+05/06/2023,Associé,o.koubaity@imadis.fr,Lyon,Journée,2023-06-05 17:00:00,2023-06-05 18:00:00,,,CDS,KOUBAITY Omar,17:00:00,18:00:00,17:00:00 - 18:00:00
 06/06/2023,Associé,a.galan@imadis.fr,Lyon,Journée,2023-06-06 08:00:00,2023-06-06 13:00:00,Chef de CDS,,CDS,GALAN Alexandre,08:00:00,13:00:00,08:00:00 - 13:00:00
 06/06/2023,Associé,d.heidelberg@imadis.fr,Lyon,Journée,2023-06-06 08:00:00,2023-06-06 13:00:00,,,CDS,HEIDELBERG Damien,08:00:00,13:00:00,08:00:00 - 13:00:00
 06/06/2023,Associé,b.gianelli@imadis.fr,Rennes,Journée,2023-06-06 10:00:00,2023-06-06 18:00:00,,,CDS,GIANELLI Benoit,10:00:00,18:00:00,10:00:00 - 18:00:00
@@ -299,10 +300,10 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 06/06/2023,Associé,h.nivet@imadis.fr,Bordeaux,Nuit,2023-06-06 10:30:00,2023-06-06 14:00:00,,,CDS,NIVET Hubert,10:30:00,14:00:00,10:30:00 - 14:00:00
 06/06/2023,Interne,b.lepage@imadis.fr,Rennes,Nuit,2023-06-06 10:30:00,2023-06-06 14:00:00,,,CDS,LEPAGE Benoit,10:30:00,14:00:00,10:30:00 - 14:00:00
 06/06/2023,Associé,h.kizil@imadis.fr,Dijon,Journée,2023-06-06 11:00:00,2023-06-06 18:00:00,,,CDS,KIZIL Halime,11:00:00,18:00:00,11:00:00 - 18:00:00
-06/06/2023,Associé,o.koubaity@imadis.fr,Lyon,Journée,2023-06-06 12:00:00,2023-06-06 18:00:00,Chef de CDS,,CDS,KOUBAITY Omar,12:00:00,18:00:00,12:00:00 - 18:00:00
+06/06/2023,Interne,p.cixous@imadis.fr,St etienne,Journée,2023-06-06 12:00:00,2023-06-06 18:00:00,,,CDS,CIXOUS Pierre,12:00:00,18:00:00,12:00:00 - 18:00:00
 06/06/2023,Associé,d.fadli@imadis.fr,Bordeaux,Nuit,2023-06-06 13:00:00,2023-06-06 18:00:00,,,CDS,FADLI David,13:00:00,18:00:00,13:00:00 - 18:00:00
 06/06/2023,Interne,s.mezher@imadis.fr,Clermont-ferrand,Nuit,2023-06-06 13:00:00,2023-06-06 18:00:00,,,CDS,MEZHER Sami,13:00:00,18:00:00,13:00:00 - 18:00:00
-06/06/2023,Associé,s.dehbi@imadis.fr,Lyon,Nuit,2023-06-06 13:00:00,2023-06-06 18:00:00,,,CDS,DEHBI Sabrina,13:00:00,18:00:00,13:00:00 - 18:00:00
+06/06/2023,Associé,s.dehbi@imadis.fr,Lyon,Nuit,2023-06-06 13:00:00,2023-06-06 18:00:00,Chef de CDS,,CDS,DEHBI Sabrina,13:00:00,18:00:00,13:00:00 - 18:00:00
 06/06/2023,Associé,c.jalaber@imadis.fr,Rennes,Nuit,2023-06-06 13:00:00,2023-06-06 18:00:00,,,CDS,JALABER Carole,13:00:00,18:00:00,13:00:00 - 18:00:00
 06/06/2023,Associé,a.perrey@imadis.fr,Marseille,Nuit,2023-06-06 15:00:00,2023-06-06 18:00:00,,,CDS,PERREY Antoine,15:00:00,18:00:00,15:00:00 - 18:00:00
 07/06/2023,Interne,m.grenier@imadis.fr,Lyon,Journée,2023-06-07 08:00:00,2023-06-07 13:00:00,,,CDS,GRENIER Mathilde,08:00:00,13:00:00,08:00:00 - 13:00:00
@@ -311,11 +312,12 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 07/06/2023,Associé,e.bischoff@imadis.fr,Lyon,Journée,2023-06-07 09:00:00,2023-06-07 14:00:00,,,CDS,BISCHOFF-MERCIER Elodie,09:00:00,14:00:00,09:00:00 - 14:00:00
 07/06/2023,Associé,o.delache@imadis.fr,Rennes,Journée,2023-06-07 09:00:00,2023-06-07 14:00:00,,,CDS,DELACHE Ondine,09:00:00,14:00:00,09:00:00 - 14:00:00
 07/06/2023,Associé,l.perrier@imadis.fr,Lyon,Journée,2023-06-07 10:00:00,2023-06-07 18:00:00,Chef de CDS,,CDS,PERRIER Louis,10:00:00,18:00:00,10:00:00 - 18:00:00
+07/06/2023,Associé,c.chevalier@imadis.fr,St etienne,Nuit,2023-06-07 11:30:00,2023-06-07 12:00:00,,,CDS,CHEVALIER Clément,11:30:00,12:00:00,11:30:00 - 12:00:00
 07/06/2023,Interne,t.pacheco@imadis.fr,Clermont-ferrand,Journée,2023-06-07 12:00:00,2023-06-07 18:00:00,,,CDS,PACHECO Thomas,12:00:00,18:00:00,12:00:00 - 18:00:00
 07/06/2023,Associé,a.acquier@imadis.fr,Dijon,Nuit,2023-06-07 13:00:00,2023-06-07 18:00:00,,,CDS,ACQUIER Adrien,13:00:00,18:00:00,13:00:00 - 18:00:00
 07/06/2023,Interne,v.vadot@imadis.fr,Dijon,Nuit,2023-06-07 13:00:00,2023-06-07 18:00:00,,,CDS,VADOT Valentin,13:00:00,18:00:00,13:00:00 - 18:00:00
 07/06/2023,Associé,m.laubacher@imadis.fr,Lyon,Nuit,2023-06-07 13:00:00,2023-06-07 18:00:00,,,CDS,LAUBACHER Morgane,13:00:00,18:00:00,13:00:00 - 18:00:00
-07/06/2023,Associé,c.chevalier@imadis.fr,St etienne,Nuit,2023-06-07 13:00:00,2023-06-07 18:00:00,,,CDS,CHEVALIER Clément,13:00:00,18:00:00,13:00:00 - 18:00:00
+07/06/2023,Associé,c.chevalier@imadis.fr,St etienne,Journée,2023-06-07 13:00:00,2023-06-07 18:00:00,,,CDS,CHEVALIER Clément,13:00:00,18:00:00,13:00:00 - 18:00:00
 07/06/2023,Associé,g.chapas@imadis.fr,St etienne,Nuit,2023-06-07 13:00:00,2023-06-07 18:00:00,,,CDS,CHAPAS Gilles,13:00:00,18:00:00,13:00:00 - 18:00:00
 07/06/2023,Thèsé,c.dandache@imadis.fr,Lyon,Nuit,2023-06-07 15:00:00,2023-06-07 18:00:00,,,CDS,DANDACHE Celia,15:00:00,18:00:00,15:00:00 - 18:00:00
 08/06/2023,Thèsé,g.lienemann@imadis.fr,Clermont-ferrand,Journée,2023-06-08 08:00:00,2023-06-08 13:00:00,,,CDS,LIENEMANN Guillaume,08:00:00,13:00:00,08:00:00 - 13:00:00
@@ -344,28 +346,28 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 09/06/2023,Associé,j.balique@imadis.fr,Lyon,Nuit,2023-06-09 13:00:00,2023-06-09 18:00:00,,,CDS,BALIQUE Julien,13:00:00,18:00:00,13:00:00 - 18:00:00
 09/06/2023,Thèsé,c.seiler@imadis.fr,Marseille,Nuit,2023-06-09 13:00:00,2023-06-09 18:00:00,,,CDS,SEILER Charlotte,13:00:00,18:00:00,13:00:00 - 18:00:00
 09/06/2023,Associé,o.preteseille@imadis.fr,St etienne,Nuit,2023-06-09 13:00:00,2023-06-09 18:00:00,,,CDS,PRETESEILLE Olivier,13:00:00,18:00:00,13:00:00 - 18:00:00
-09/06/2023,,,,Nuit,2023-06-09 15:00:00,2023-06-09 18:00:00,,,CDS,A POURVOIR A pourvoir,15:00:00,18:00:00,15:00:00 - 18:00:00
 09/06/2023,Thèsé,f.deleau@imadis.fr,Bordeaux,Nuit,2023-06-09 15:00:00,2023-06-09 18:00:00,,,CDS,DELEAU Florian,15:00:00,18:00:00,15:00:00 - 18:00:00
+09/06/2023,Associé,r.peyre@imadis.fr,Marseille,Nuit,2023-06-09 15:00:00,2023-06-09 18:00:00,,,CDS,PEYRE Rémi,15:00:00,18:00:00,15:00:00 - 18:00:00
 12/06/2023,Associé,a.bencheikh@imadis.fr,Lyon,Journée,2023-06-12 08:00:00,2023-06-12 12:00:00,,,CDS,BEN CHEIKH Alexandre,08:00:00,12:00:00,08:00:00 - 12:00:00
 12/06/2023,Associé,p.etchart@imadis.fr,Bordeaux,Journée,2023-06-12 08:00:00,2023-06-12 13:00:00,,,CDS,ETCHART Paul,08:00:00,13:00:00,08:00:00 - 13:00:00
-12/06/2023,Associé,f.petitpierre@imadis.fr,Bordeaux,Journée,2023-06-12 08:00:00,2023-06-12 13:00:00,,,CDS,PETITPIERRE Francois,08:00:00,13:00:00,08:00:00 - 13:00:00
+12/06/2023,Associé,f.petitpierre@imadis.fr,Bordeaux,Journée,2023-06-12 08:00:00,2023-06-12 13:00:00,Chef de site,,CDS,PETITPIERRE Francois,08:00:00,13:00:00,08:00:00 - 13:00:00
 12/06/2023,Interne,a.ducatel@imadis.fr,Bordeaux,Journée,2023-06-12 09:00:00,2023-06-12 14:00:00,,,CDS,DUCATEL Arnaud,09:00:00,14:00:00,09:00:00 - 14:00:00
 12/06/2023,Thèsé,f.cadour@imadis.fr,Marseille,Journée,2023-06-12 09:00:00,2023-06-12 14:00:00,,,CDS,CADOUR Farah,09:00:00,14:00:00,09:00:00 - 14:00:00
 12/06/2023,Thèsé,s.akkari@imadis.fr,Marseille,Journée,2023-06-12 10:00:00,2023-06-12 18:00:00,,,CDS,AKKARI Samia,10:00:00,18:00:00,10:00:00 - 18:00:00
 12/06/2023,Associé,j.hissier@imadis.fr,Rennes,Journée,2023-06-12 12:00:00,2023-06-12 18:00:00,,,CDS,HISSIER Julien,12:00:00,18:00:00,12:00:00 - 18:00:00
 12/06/2023,Associé,m.fillon@imadis.fr,Lyon,Nuit,2023-06-12 13:00:00,2023-06-12 18:00:00,,,CDS,FILLON Marie,13:00:00,18:00:00,13:00:00 - 18:00:00
-12/06/2023,Associé,f.arnaud@imadis.fr,Marseille,Nuit,2023-06-12 13:00:00,2023-06-12 18:00:00,,,CDS,ARNAUD François,13:00:00,18:00:00,13:00:00 - 18:00:00
+12/06/2023,Associé,f.arnaud@imadis.fr,Marseille,Nuit,2023-06-12 13:00:00,2023-06-12 18:00:00,Chef de site,,CDS,ARNAUD François,13:00:00,18:00:00,13:00:00 - 18:00:00
 12/06/2023,Associé,a.poulin@imadis.fr,Rennes,Nuit,2023-06-12 13:00:00,2023-06-12 18:00:00,,,CDS,POULIN Alexandre,13:00:00,18:00:00,13:00:00 - 18:00:00
 12/06/2023,Interne,b.geoffroy@imadis.fr,St etienne,Nuit,2023-06-12 13:00:00,2023-06-12 18:00:00,,,CDS,GEOFFROY Bastien,13:00:00,18:00:00,13:00:00 - 18:00:00
 12/06/2023,Associé,g.chapas@imadis.fr,St etienne,Nuit,2023-06-12 13:00:00,2023-06-12 18:00:00,,,CDS,CHAPAS Gilles,13:00:00,18:00:00,13:00:00 - 18:00:00
 12/06/2023,Thèsé,s.roche@imadis.fr,Dijon,Nuit,2023-06-12 15:00:00,2023-06-12 18:00:00,,,CDS,ROCHE Stanislas,15:00:00,18:00:00,15:00:00 - 18:00:00
 13/06/2023,Associé,h.kizil@imadis.fr,Dijon,Journée,2023-06-13 08:00:00,2023-06-13 13:00:00,,,CDS,KIZIL Halime,08:00:00,13:00:00,08:00:00 - 13:00:00
 13/06/2023,Associé,f.poullain@imadis.fr,Marseille,Journée,2023-06-13 08:00:00,2023-06-13 13:00:00,,,CDS,POULLAIN François,08:00:00,13:00:00,08:00:00 - 13:00:00
-13/06/2023,Associé,a.poulin@imadis.fr,Rennes,Journée,2023-06-13 08:00:00,2023-06-13 13:00:00,,,CDS,POULIN Alexandre,08:00:00,13:00:00,08:00:00 - 13:00:00
+13/06/2023,Associé,a.poulin@imadis.fr,Rennes,Journée,2023-06-13 08:00:00,2023-06-13 13:00:00,Chef de CDS,,CDS,POULIN Alexandre,08:00:00,13:00:00,08:00:00 - 13:00:00
 13/06/2023,Associé,b.gianelli@imadis.fr,Rennes,Journée,2023-06-13 09:00:00,2023-06-13 14:00:00,,,CDS,GIANELLI Benoit,09:00:00,14:00:00,09:00:00 - 14:00:00
 13/06/2023,Associé,c.mehier@imadis.fr,Rennes,Journée,2023-06-13 09:00:00,2023-06-13 14:00:00,,,CDS,MEHIER Clement,09:00:00,14:00:00,09:00:00 - 14:00:00
 13/06/2023,Associé,s.dehbi@imadis.fr,Lyon,Journée,2023-06-13 10:00:00,2023-06-13 18:00:00,,,CDS,DEHBI Sabrina,10:00:00,18:00:00,10:00:00 - 18:00:00
-13/06/2023,Associé,s.asfari@imadis.fr,Lyon,Journée,2023-06-13 12:00:00,2023-06-13 18:00:00,,,CDS,ASFARI Stéphane,12:00:00,18:00:00,12:00:00 - 18:00:00
+13/06/2023,Associé,s.asfari@imadis.fr,Lyon,Journée,2023-06-13 12:00:00,2023-06-13 18:00:00,Chef de CDS,,CDS,ASFARI Stéphane,12:00:00,18:00:00,12:00:00 - 18:00:00
 13/06/2023,Associé,a.albat@imadis.fr,Bordeaux,Nuit,2023-06-13 13:00:00,2023-06-13 18:00:00,,,CDS,ALBAT Agnès,13:00:00,18:00:00,13:00:00 - 18:00:00
 13/06/2023,Thèsé,n.deabreu@imadis.fr,Clermont-ferrand,Nuit,2023-06-13 13:00:00,2023-06-13 18:00:00,,,CDS,DE ABREU Nicolas,13:00:00,18:00:00,13:00:00 - 18:00:00
 13/06/2023,Interne,a.braillon@imadis.fr,Lyon,Nuit,2023-06-13 13:00:00,2023-06-13 18:00:00,,,CDS,BRAILLON Alexandra,13:00:00,18:00:00,13:00:00 - 18:00:00
@@ -375,17 +377,17 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 14/06/2023,Associé,a.perrey@imadis.fr,Clermont-ferrand,Journée,2023-06-14 08:00:00,2023-06-14 13:00:00,,,CDS,PERREY Antoine,08:00:00,13:00:00,08:00:00 - 13:00:00
 14/06/2023,Associé,a.coulon@imadis.fr,Lyon,Journée,2023-06-14 08:00:00,2023-06-14 13:00:00,,,CDS,COULON Agnès,08:00:00,13:00:00,08:00:00 - 13:00:00
 14/06/2023,Thèsé,a.lablee@imadis.fr,Rennes,Journée,2023-06-14 08:00:00,2023-06-14 13:00:00,,,CDS,LABLEE Alexandre,08:00:00,13:00:00,08:00:00 - 13:00:00
-14/06/2023,Associé,o.delache@imadis.fr,Rennes,Journée,2023-06-14 09:00:00,2023-06-14 14:00:00,,,CDS,DELACHE Ondine,09:00:00,14:00:00,09:00:00 - 14:00:00
+14/06/2023,Associé,o.delache@imadis.fr,Rennes,Journée,2023-06-14 09:00:00,2023-06-14 14:00:00,Chef de site,,CDS,DELACHE Ondine,09:00:00,14:00:00,09:00:00 - 14:00:00
 14/06/2023,Associé,j.hissier@imadis.fr,Rennes,Journée,2023-06-14 09:00:00,2023-06-14 14:00:00,,,CDS,HISSIER Julien,09:00:00,14:00:00,09:00:00 - 14:00:00
 14/06/2023,Interne,v.siauve@imadis.fr,Dijon,Journée,2023-06-14 10:00:00,2023-06-14 18:00:00,,,CDS,SIAUVE Valentin,10:00:00,18:00:00,10:00:00 - 18:00:00
 14/06/2023,Thèsé,c.dandache@imadis.fr,Lyon,Journée,2023-06-14 12:00:00,2023-06-14 18:00:00,,,CDS,DANDACHE Celia,12:00:00,18:00:00,12:00:00 - 18:00:00
 14/06/2023,Associé,a.acquier@imadis.fr,Dijon,Nuit,2023-06-14 13:00:00,2023-06-14 18:00:00,,,CDS,ACQUIER Adrien,13:00:00,18:00:00,13:00:00 - 18:00:00
 14/06/2023,Interne,j.cali@imadis.fr,Dijon,Nuit,2023-06-14 13:00:00,2023-06-14 18:00:00,,,CDS,CALI  Jory,13:00:00,18:00:00,13:00:00 - 18:00:00
-14/06/2023,Associé,e.bischoff@imadis.fr,Lyon,Nuit,2023-06-14 13:00:00,2023-06-14 18:00:00,,,CDS,BISCHOFF-MERCIER Elodie,13:00:00,18:00:00,13:00:00 - 18:00:00
+14/06/2023,Associé,e.bischoff@imadis.fr,Lyon,Nuit,2023-06-14 13:00:00,2023-06-14 18:00:00,Chef de site,,CDS,BISCHOFF-MERCIER Elodie,13:00:00,18:00:00,13:00:00 - 18:00:00
 14/06/2023,Associé,m.dibisceglie@imadis.fr,Marseille,Nuit,2023-06-14 13:00:00,2023-06-14 18:00:00,,,CDS,DI BISCEGLIE Mathieu,13:00:00,18:00:00,13:00:00 - 18:00:00
 14/06/2023,Associé,g.chapas@imadis.fr,St etienne,Nuit,2023-06-14 13:00:00,2023-06-14 18:00:00,,,CDS,CHAPAS Gilles,13:00:00,18:00:00,13:00:00 - 18:00:00
 14/06/2023,Associé,a.allary@imadis.fr,Marseille,Nuit,2023-06-14 15:00:00,2023-06-14 18:00:00,,,CDS,ALLARY Alexandre,15:00:00,18:00:00,15:00:00 - 18:00:00
-15/06/2023,Associé,e.stephant@imadis.fr,Bordeaux,Journée,2023-06-15 08:00:00,2023-06-15 13:00:00,,,CDS,STEPHANT Eric,08:00:00,13:00:00,08:00:00 - 13:00:00
+15/06/2023,Associé,e.stephant@imadis.fr,Bordeaux,Journée,2023-06-15 08:00:00,2023-06-15 13:00:00,Chef de CDS,,CDS,STEPHANT Eric,08:00:00,13:00:00,08:00:00 - 13:00:00
 15/06/2023,Associé,c.boudinaud@imadis.fr,Clermont-ferrand,Journée,2023-06-15 08:00:00,2023-06-15 13:00:00,,,CDS,BOUDINAUD Claire,08:00:00,13:00:00,08:00:00 - 13:00:00
 15/06/2023,Associé,m.fontarensky@imadis.fr,Clermont-ferrand,Journée,2023-06-15 08:00:00,2023-06-15 13:00:00,,,CDS,FONTARENSKY Mikael,08:00:00,13:00:00,08:00:00 - 13:00:00
 15/06/2023,Thèsé,e.daguet@imadis.fr,Dijon,Journée,2023-06-15 09:00:00,2023-06-15 14:00:00,,,CDS,DAGUET Edouard,09:00:00,14:00:00,09:00:00 - 14:00:00
@@ -394,15 +396,15 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 15/06/2023,Thèsé,sophiedaubie@gmail.com,Lyon,Journée,2023-06-15 12:00:00,2023-06-15 18:00:00,,,CDS,DAUBIE Sophie,12:00:00,18:00:00,12:00:00 - 18:00:00
 15/06/2023,Associé,m.lanouziere@imadis.fr,Dijon,Nuit,2023-06-15 13:00:00,2023-06-15 18:00:00,,,CDS,LANOUZIERE Morgane,13:00:00,18:00:00,13:00:00 - 18:00:00
 15/06/2023,Interne,v.vadot@imadis.fr,Dijon,Nuit,2023-06-15 13:00:00,2023-06-15 18:00:00,,,CDS,VADOT Valentin,13:00:00,18:00:00,13:00:00 - 18:00:00
-15/06/2023,Associé,a.allary@imadis.fr,Marseille,Nuit,2023-06-15 13:00:00,2023-06-15 18:00:00,,,CDS,ALLARY Alexandre,13:00:00,18:00:00,13:00:00 - 18:00:00
+15/06/2023,Associé,a.allary@imadis.fr,Marseille,Nuit,2023-06-15 13:00:00,2023-06-15 18:00:00,Chef de CDS,,CDS,ALLARY Alexandre,13:00:00,18:00:00,13:00:00 - 18:00:00
 15/06/2023,Associé,t.laurendon@imadis.fr,Marseille,Nuit,2023-06-15 13:00:00,2023-06-15 18:00:00,,,CDS,LAURENDON Thomas,13:00:00,18:00:00,13:00:00 - 18:00:00
 15/06/2023,Associé,j.touati@imadis.fr,Marseille,Nuit,2023-06-15 13:00:00,2023-06-15 18:00:00,,,CDS,TOUATI Julian,13:00:00,18:00:00,13:00:00 - 18:00:00
 15/06/2023,Thèsé,s.roche@imadis.fr,Dijon,Nuit,2023-06-15 15:00:00,2023-06-15 18:00:00,,,CDS,ROCHE Stanislas,15:00:00,18:00:00,15:00:00 - 18:00:00
+16/06/2023,,,,Journée,2023-06-16 08:00:00,2023-06-16 13:00:00,,,CDS,A POURVOIR A pourvoir,08:00:00,13:00:00,08:00:00 - 13:00:00
 16/06/2023,Interne,t.bonnefoy@imadis.fr,Dijon,Journée,2023-06-16 08:00:00,2023-06-16 13:00:00,,,CDS,BONNEFOY  Théo,08:00:00,13:00:00,08:00:00 - 13:00:00
 16/06/2023,Thèsé,u.pirocca@imadis.fr,Dijon,Journée,2023-06-16 08:00:00,2023-06-16 13:00:00,,,CDS,PIROCCA Ugo,08:00:00,13:00:00,08:00:00 - 13:00:00
-16/06/2023,Thèsé,a.habchi-hamiane@imadis.fr,St etienne,Journée,2023-06-16 08:00:00,2023-06-16 13:00:00,,,CDS,HABCHI HAMIANE Asma,08:00:00,13:00:00,08:00:00 - 13:00:00
 16/06/2023,Thèsé,t.guyard@imadis.fr,Brest,Journée,2023-06-16 09:00:00,2023-06-16 14:00:00,,,CDS,GUYARD Thibaut,09:00:00,14:00:00,09:00:00 - 14:00:00
-16/06/2023,Associé,f.bratan@imadis.fr,Lyon,Journée,2023-06-16 09:00:00,2023-06-16 14:00:00,,,CDS,BRATAN Flavie,09:00:00,14:00:00,09:00:00 - 14:00:00
+16/06/2023,Associé,f.bratan@imadis.fr,Lyon,Journée,2023-06-16 09:00:00,2023-06-16 14:00:00,Chef de CDS,,CDS,BRATAN Flavie,09:00:00,14:00:00,09:00:00 - 14:00:00
 16/06/2023,Associé,b.gianelli@imadis.fr,Rennes,Journée,2023-06-16 10:00:00,2023-06-16 18:00:00,,,CDS,GIANELLI Benoit,10:00:00,18:00:00,10:00:00 - 18:00:00
 16/06/2023,Thèsé,as.guerard@imadis.fr,Rennes,Journée,2023-06-16 12:00:00,2023-06-16 18:00:00,,,CDS,GUERARD Anne-sophie,12:00:00,18:00:00,12:00:00 - 18:00:00
 16/06/2023,Associé,v.herreros@imadis.fr,Dijon,Nuit,2023-06-16 13:00:00,2023-06-16 18:00:00,,,CDS,HERREROS Victor,13:00:00,18:00:00,13:00:00 - 18:00:00
@@ -410,7 +412,7 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 16/06/2023,Associé,a.thibaut@imadis.fr,Lyon,Nuit,2023-06-16 13:00:00,2023-06-16 18:00:00,,,CDS,THIBAUT Antoine,13:00:00,18:00:00,13:00:00 - 18:00:00
 16/06/2023,Interne,h.monnier@imadis.fr,Marseille,Nuit,2023-06-16 13:00:00,2023-06-16 18:00:00,,,CDS,MONNIER Hippolyte,13:00:00,18:00:00,13:00:00 - 18:00:00
 16/06/2023,Associé,r.peyre@imadis.fr,Marseille,Nuit,2023-06-16 13:00:00,2023-06-16 18:00:00,,,CDS,PEYRE Rémi,13:00:00,18:00:00,13:00:00 - 18:00:00
-16/06/2023,Associé,c.erhart@imadis.fr,Rennes,Nuit,2023-06-16 13:00:00,2023-06-16 18:00:00,,,CDS,ERHART Charlélie,13:00:00,18:00:00,13:00:00 - 18:00:00
+16/06/2023,Associé,c.erhart@imadis.fr,Rennes,Nuit,2023-06-16 13:00:00,2023-06-16 18:00:00,Chef de CDS,,CDS,ERHART Charlélie,13:00:00,18:00:00,13:00:00 - 18:00:00
 16/06/2023,Interne,t.bonnefoy@imadis.fr,Dijon,Nuit,2023-06-16 15:00:00,2023-06-16 18:00:00,,,CDS,BONNEFOY  Théo,15:00:00,18:00:00,15:00:00 - 18:00:00
 16/06/2023,Interne,b.lode@imadis.fr,Rennes,Nuit,2023-06-16 15:00:00,2023-06-16 18:00:00,,,CDS,LODE Baptiste,15:00:00,18:00:00,15:00:00 - 18:00:00
 19/06/2023,Thèsé,e.daguet@imadis.fr,Dijon,Journée,2023-06-19 08:00:00,2023-06-19 13:00:00,,,CDS,DAGUET Edouard,08:00:00,13:00:00,08:00:00 - 13:00:00
@@ -470,7 +472,7 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 23/06/2023,Associé,a.perrey@imadis.fr,Marseille,Journée,2023-06-23 08:00:00,2023-06-23 13:00:00,,,CDS,PERREY Antoine,08:00:00,13:00:00,08:00:00 - 13:00:00
 23/06/2023,Associé,f.bratan@imadis.fr,Lyon,Journée,2023-06-23 09:00:00,2023-06-23 14:00:00,,,CDS,BRATAN Flavie,09:00:00,14:00:00,09:00:00 - 14:00:00
 23/06/2023,Associé,s.mvouama@imadis.fr,Dijon,Journée,2023-06-23 10:00:00,2023-06-23 18:00:00,,,CDS,MVOUAMA Ségolène,10:00:00,18:00:00,10:00:00 - 18:00:00
-23/06/2023,Thèsé,a.habchi-hamiane@imadis.fr,St etienne,Journée,2023-06-23 11:00:00,2023-06-23 14:00:00,,,CDS,HABCHI HAMIANE Asma,11:00:00,14:00:00,11:00:00 - 14:00:00
+23/06/2023,,,,Journée,2023-06-23 11:00:00,2023-06-23 14:00:00,,,CDS,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
 23/06/2023,Associé,f.difranco@imadis.fr,Lyon,Journée,2023-06-23 12:00:00,2023-06-23 18:00:00,,,CDS,DI FRANCO Florian,12:00:00,18:00:00,12:00:00 - 18:00:00
 23/06/2023,Thèsé,t.guyard@imadis.fr,Brest,Nuit,2023-06-23 13:00:00,2023-06-23 18:00:00,,,CDS,GUYARD Thibaut,13:00:00,18:00:00,13:00:00 - 18:00:00
 23/06/2023,Interne,j.cali@imadis.fr,Dijon,Nuit,2023-06-23 13:00:00,2023-06-23 18:00:00,,,CDS,CALI  Jory,13:00:00,18:00:00,13:00:00 - 18:00:00
@@ -478,8 +480,8 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 23/06/2023,Associé,a.bouhamama@imadis.fr,Lyon,Nuit,2023-06-23 13:00:00,2023-06-23 18:00:00,,,CDS,BOUHAMAMA Amine,13:00:00,18:00:00,13:00:00 - 18:00:00
 23/06/2023,Interne,d.mutin@imadis.fr,Lyon,Nuit,2023-06-23 13:00:00,2023-06-23 18:00:00,,,CDS,MUTIN David,13:00:00,18:00:00,13:00:00 - 18:00:00
 23/06/2023,Associé,t.laurendon@imadis.fr,Marseille,Nuit,2023-06-23 13:00:00,2023-06-23 18:00:00,,,CDS,LAURENDON Thomas,13:00:00,18:00:00,13:00:00 - 18:00:00
+23/06/2023,,,,Nuit,2023-06-23 15:00:00,2023-06-23 18:00:00,,,CDS,A POURVOIR A pourvoir,15:00:00,18:00:00,15:00:00 - 18:00:00
 23/06/2023,Interne,b.lode@imadis.fr,Rennes,Nuit,2023-06-23 15:00:00,2023-06-23 18:00:00,,,CDS,LODE Baptiste,15:00:00,18:00:00,15:00:00 - 18:00:00
-23/06/2023,Thèsé,a.habchi-hamiane@imadis.fr,St etienne,Nuit,2023-06-23 15:00:00,2023-06-23 18:00:00,,,CDS,HABCHI HAMIANE Asma,15:00:00,18:00:00,15:00:00 - 18:00:00
 26/06/2023,Associé,a.bencheikh@imadis.fr,Lyon,Journée,2023-06-26 08:00:00,2023-06-26 12:00:00,,,CDS,BEN CHEIKH Alexandre,08:00:00,12:00:00,08:00:00 - 12:00:00
 26/06/2023,Associé,f.alonzo@imadis.fr,Lyon,Journée,2023-06-26 08:00:00,2023-06-26 13:00:00,,,CDS,ALONZO LACROIX Florian,08:00:00,13:00:00,08:00:00 - 13:00:00
 26/06/2023,Associé,m.millon@imadis.fr,Lyon,Journée,2023-06-26 08:00:00,2023-06-26 13:00:00,,,CDS,DURIEUX-MILLON Marion,08:00:00,13:00:00,08:00:00 - 13:00:00
@@ -539,8 +541,8 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 30/06/2023,Associé,s.dehbi@imadis.fr,Lyon,Journée,2023-06-30 10:00:00,2023-06-30 18:00:00,,,CDS,DEHBI Sabrina,10:00:00,18:00:00,10:00:00 - 18:00:00
 30/06/2023,Associé,o.delache@imadis.fr,Rennes,Journée,2023-06-30 11:00:00,2023-06-30 14:00:00,,,CDS,DELACHE Ondine,11:00:00,14:00:00,11:00:00 - 14:00:00
 30/06/2023,Interne,s.bertholon@imadis.fr,St etienne,Journée,2023-06-30 12:00:00,2023-06-30 18:00:00,,,CDS,BERTHOLON Sylvain,12:00:00,18:00:00,12:00:00 - 18:00:00
+30/06/2023,,,,Nuit,2023-06-30 13:00:00,2023-06-30 18:00:00,,,CDS,A POURVOIR A pourvoir,13:00:00,18:00:00,13:00:00 - 18:00:00
 30/06/2023,Interne,t.bonnefoy@imadis.fr,Dijon,Nuit,2023-06-30 13:00:00,2023-06-30 18:00:00,,,CDS,BONNEFOY  Théo,13:00:00,18:00:00,13:00:00 - 18:00:00
-30/06/2023,Associé,v.herreros@imadis.fr,Dijon,Nuit,2023-06-30 13:00:00,2023-06-30 18:00:00,,,CDS,HERREROS Victor,13:00:00,18:00:00,13:00:00 - 18:00:00
 30/06/2023,Thèsé,ph.himpens@imadis.fr,Lyon,Nuit,2023-06-30 13:00:00,2023-06-30 18:00:00,,,CDS,HIMPENS Paul-henri,13:00:00,18:00:00,13:00:00 - 18:00:00
 30/06/2023,Thèsé,a.habchi-hamiane@imadis.fr,St etienne,Nuit,2023-06-30 13:00:00,2023-06-30 18:00:00,,,CDS,HABCHI HAMIANE Asma,13:00:00,18:00:00,13:00:00 - 18:00:00
 30/06/2023,Associé,g.chapas@imadis.fr,St etienne,Nuit,2023-06-30 13:00:00,2023-06-30 18:00:00,,,CDS,CHAPAS Gilles,13:00:00,18:00:00,13:00:00 - 18:00:00
@@ -824,11 +826,9 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 05/06/2023,Associé,g.chapas@imadis.fr,St etienne,Journée,2023-06-05 11:00:00,2023-06-05 14:00:00,,,RRU,CHAPAS Gilles,11:00:00,14:00:00,11:00:00 - 14:00:00
 05/06/2023,Associé,p.etchart@imadis.fr,Bordeaux,Nuit,2023-06-05 13:00:00,2023-06-05 15:00:00,,,RRU,ETCHART Paul,13:00:00,15:00:00,13:00:00 - 15:00:00
 05/06/2023,Associé,m.millon@imadis.fr,Lyon,Nuit,2023-06-05 13:00:00,2023-06-05 15:00:00,,,RRU,DURIEUX-MILLON Marion,13:00:00,15:00:00,13:00:00 - 15:00:00
-05/06/2023,Associé,jf.bergerot@imadis.fr,Lyon,Nuit,2023-06-05 13:00:00,2023-06-05 15:00:00,,,RRU,BERGEROT Jean-francois,13:00:00,15:00:00,13:00:00 - 15:00:00
 05/06/2023,Associé,j.hermant@imadis.fr,Lyon,Nuit,2023-06-05 13:00:00,2023-06-05 15:00:00,,,RRU,HERMANT Julien,13:00:00,15:00:00,13:00:00 - 15:00:00
 05/06/2023,Associé,q.ea@imadis.fr,Rennes,Nuit,2023-06-05 13:00:00,2023-06-05 15:00:00,,,RRU,EA Quentin,13:00:00,15:00:00,13:00:00 - 15:00:00
 06/06/2023,Associé,s.dehbi@imadis.fr,Lyon,Journée,2023-06-06 11:00:00,2023-06-06 13:00:00,,,RRU,DEHBI Sabrina,11:00:00,13:00:00,11:00:00 - 13:00:00
-06/06/2023,Associé,o.koubaity@imadis.fr,Lyon,Journée,2023-06-06 11:00:00,2023-06-06 13:00:00,,,RRU,KOUBAITY Omar,11:00:00,13:00:00,11:00:00 - 13:00:00
 06/06/2023,Associé,a.perrey@imadis.fr,Marseille,Journée,2023-06-06 11:00:00,2023-06-06 13:00:00,,,RRU,PERREY Antoine,11:00:00,13:00:00,11:00:00 - 13:00:00
 06/06/2023,Associé,b.gianelli@imadis.fr,Rennes,Journée,2023-06-06 11:00:00,2023-06-06 13:00:00,,,RRU,GIANELLI Benoit,11:00:00,13:00:00,11:00:00 - 13:00:00
 06/06/2023,Associé,c.jalaber@imadis.fr,Rennes,Journée,2023-06-06 11:00:00,2023-06-06 13:00:00,,,RRU,JALABER Carole,11:00:00,13:00:00,11:00:00 - 13:00:00
@@ -866,25 +866,26 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 09/06/2023,Associé,pf.chaillot@imadis.fr,Lyon,Journée,2023-06-09 11:00:00,2023-06-09 14:00:00,,,RRU,CHAILLOT Pierre-fleury,11:00:00,14:00:00,11:00:00 - 14:00:00
 09/06/2023,Associé,o.delache@imadis.fr,Rennes,Journée,2023-06-09 11:00:00,2023-06-09 14:00:00,,,RRU,DELACHE Ondine,11:00:00,14:00:00,11:00:00 - 14:00:00
 09/06/2023,Associé,a.coulon@imadis.fr,Lyon,Nuit,2023-06-09 13:00:00,2023-06-09 15:00:00,,,RRU,COULON Agnès,13:00:00,15:00:00,13:00:00 - 15:00:00
+09/06/2023,Associé,r.peyre@imadis.fr,Marseille,Nuit,2023-06-09 13:00:00,2023-06-09 15:00:00,,,RRU,PEYRE Rémi,13:00:00,15:00:00,13:00:00 - 15:00:00
 12/06/2023,Associé,m.fillon@imadis.fr,Lyon,Journée,2023-06-12 11:00:00,2023-06-12 13:00:00,,,RRU,FILLON Marie,11:00:00,13:00:00,11:00:00 - 13:00:00
 12/06/2023,Associé,f.arnaud@imadis.fr,Marseille,Journée,2023-06-12 11:00:00,2023-06-12 13:00:00,,,RRU,ARNAUD François,11:00:00,13:00:00,11:00:00 - 13:00:00
 12/06/2023,Associé,a.poulin@imadis.fr,Rennes,Journée,2023-06-12 11:00:00,2023-06-12 13:00:00,,,RRU,POULIN Alexandre,11:00:00,13:00:00,11:00:00 - 13:00:00
 12/06/2023,Associé,g.chapas@imadis.fr,St etienne,Journée,2023-06-12 11:00:00,2023-06-12 13:00:00,,,RRU,CHAPAS Gilles,11:00:00,13:00:00,11:00:00 - 13:00:00
-12/06/2023,,,,Journée,2023-06-12 11:00:00,2023-06-12 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
-12/06/2023,,,,Journée,2023-06-12 11:00:00,2023-06-12 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
-12/06/2023,,,,Journée,2023-06-12 11:00:00,2023-06-12 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
-12/06/2023,,,,Journée,2023-06-12 11:00:00,2023-06-12 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
-12/06/2023,,,,Journée,2023-06-12 11:00:00,2023-06-12 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
+12/06/2023,Associé,n.favard@imadis.fr,Lyon,Journée,2023-06-12 11:00:00,2023-06-12 14:00:00,,,RRU,FAVARD Nicolas,11:00:00,14:00:00,11:00:00 - 14:00:00
+12/06/2023,Associé,pf.chaillot@imadis.fr,Lyon,Journée,2023-06-12 11:00:00,2023-06-12 14:00:00,,,RRU,CHAILLOT Pierre-fleury,11:00:00,14:00:00,11:00:00 - 14:00:00
+12/06/2023,Associé,d.heidelberg@imadis.fr,Lyon,Journée,2023-06-12 11:00:00,2023-06-12 14:00:00,,,RRU,HEIDELBERG Damien,11:00:00,14:00:00,11:00:00 - 14:00:00
 12/06/2023,Associé,b.porta@imadis.fr,Lyon,Journée,2023-06-12 11:00:00,2023-06-12 14:00:00,,,RRU,PORTA Basile,11:00:00,14:00:00,11:00:00 - 14:00:00
 12/06/2023,Associé,v.thomson@imadis.fr,Lyon,Journée,2023-06-12 11:00:00,2023-06-12 14:00:00,,,RRU,THOMSON Vivien,11:00:00,14:00:00,11:00:00 - 14:00:00
+12/06/2023,Associé,a.perrey@imadis.fr,Marseille,Journée,2023-06-12 11:00:00,2023-06-12 14:00:00,,,RRU,PERREY Antoine,11:00:00,14:00:00,11:00:00 - 14:00:00
+12/06/2023,Associé,m.chassagneux@imadis.fr,St etienne,Journée,2023-06-12 11:00:00,2023-06-12 14:00:00,,,RRU,CHASSAGNEUX Mathilde,11:00:00,14:00:00,11:00:00 - 14:00:00
 12/06/2023,Associé,p.etchart@imadis.fr,Bordeaux,Nuit,2023-06-12 13:00:00,2023-06-12 15:00:00,,,RRU,ETCHART Paul,13:00:00,15:00:00,13:00:00 - 15:00:00
 12/06/2023,Associé,f.petitpierre@imadis.fr,Bordeaux,Nuit,2023-06-12 13:00:00,2023-06-12 15:00:00,,,RRU,PETITPIERRE Francois,13:00:00,15:00:00,13:00:00 - 15:00:00
 12/06/2023,Associé,a.bencheikh@imadis.fr,Lyon,Nuit,2023-06-12 13:00:00,2023-06-12 15:00:00,,,RRU,BEN CHEIKH Alexandre,13:00:00,15:00:00,13:00:00 - 15:00:00
 12/06/2023,Associé,j.hissier@imadis.fr,Rennes,Nuit,2023-06-12 13:00:00,2023-06-12 15:00:00,,,RRU,HISSIER Julien,13:00:00,15:00:00,13:00:00 - 15:00:00
 13/06/2023,Associé,s.dehbi@imadis.fr,Lyon,Journée,2023-06-13 11:00:00,2023-06-13 13:00:00,,,RRU,DEHBI Sabrina,11:00:00,13:00:00,11:00:00 - 13:00:00
 13/06/2023,Associé,b.gianelli@imadis.fr,Rennes,Journée,2023-06-13 11:00:00,2023-06-13 13:00:00,,,RRU,GIANELLI Benoit,11:00:00,13:00:00,11:00:00 - 13:00:00
-13/06/2023,,,,Journée,2023-06-13 11:00:00,2023-06-13 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
-13/06/2023,,,,Journée,2023-06-13 11:00:00,2023-06-13 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
+13/06/2023,Associé,b.delorme@imadis.fr,St etienne,Journée,2023-06-13 11:00:00,2023-06-13 14:00:00,,,RRU,DELORME Bérengère,11:00:00,14:00:00,11:00:00 - 14:00:00
+13/06/2023,Associé,t.annweiler@imadis.fr,St etienne,Journée,2023-06-13 11:00:00,2023-06-13 14:00:00,,,RRU,ANNWEILER Thierry,11:00:00,14:00:00,11:00:00 - 14:00:00
 13/06/2023,Associé,h.kizil@imadis.fr,Dijon,Nuit,2023-06-13 13:00:00,2023-06-13 15:00:00,,,RRU,KIZIL Halime,13:00:00,15:00:00,13:00:00 - 15:00:00
 13/06/2023,Associé,f.poullain@imadis.fr,Marseille,Nuit,2023-06-13 13:00:00,2023-06-13 15:00:00,,,RRU,POULLAIN François,13:00:00,15:00:00,13:00:00 - 15:00:00
 13/06/2023,Associé,c.mehier@imadis.fr,Rennes,Nuit,2023-06-13 13:00:00,2023-06-13 15:00:00,,,RRU,MEHIER Clement,13:00:00,15:00:00,13:00:00 - 15:00:00
@@ -893,8 +894,8 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 14/06/2023,Associé,e.bischoff@imadis.fr,Lyon,Journée,2023-06-14 11:00:00,2023-06-14 13:00:00,,,RRU,BISCHOFF-MERCIER Elodie,11:00:00,13:00:00,11:00:00 - 13:00:00
 14/06/2023,Associé,m.dibisceglie@imadis.fr,Marseille,Journée,2023-06-14 11:00:00,2023-06-14 13:00:00,,,RRU,DI BISCEGLIE Mathieu,11:00:00,13:00:00,11:00:00 - 13:00:00
 14/06/2023,Associé,g.chapas@imadis.fr,St etienne,Journée,2023-06-14 11:00:00,2023-06-14 13:00:00,,,RRU,CHAPAS Gilles,11:00:00,13:00:00,11:00:00 - 13:00:00
-14/06/2023,,,,Journée,2023-06-14 11:00:00,2023-06-14 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
-14/06/2023,,,,Journée,2023-06-14 11:00:00,2023-06-14 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
+14/06/2023,Associé,f.difranco@imadis.fr,Lyon,Journée,2023-06-14 11:00:00,2023-06-14 14:00:00,,,RRU,DI FRANCO Florian,11:00:00,14:00:00,11:00:00 - 14:00:00
+14/06/2023,Associé,e.youssof@imadis.fr,Lyon,Journée,2023-06-14 11:00:00,2023-06-14 14:00:00,,,RRU,YOUSSOF Emile,11:00:00,14:00:00,11:00:00 - 14:00:00
 14/06/2023,Associé,a.perrey@imadis.fr,Clermont-ferrand,Nuit,2023-06-14 13:00:00,2023-06-14 15:00:00,,,RRU,PERREY Antoine,13:00:00,15:00:00,13:00:00 - 15:00:00
 14/06/2023,Associé,a.coulon@imadis.fr,Lyon,Nuit,2023-06-14 13:00:00,2023-06-14 15:00:00,,,RRU,COULON Agnès,13:00:00,15:00:00,13:00:00 - 15:00:00
 14/06/2023,Associé,o.delache@imadis.fr,Rennes,Nuit,2023-06-14 13:00:00,2023-06-14 15:00:00,,,RRU,DELACHE Ondine,13:00:00,15:00:00,13:00:00 - 15:00:00
@@ -903,8 +904,8 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 15/06/2023,Associé,a.allary@imadis.fr,Marseille,Journée,2023-06-15 11:00:00,2023-06-15 13:00:00,,,RRU,ALLARY Alexandre,11:00:00,13:00:00,11:00:00 - 13:00:00
 15/06/2023,Associé,t.laurendon@imadis.fr,Marseille,Journée,2023-06-15 11:00:00,2023-06-15 13:00:00,,,RRU,LAURENDON Thomas,11:00:00,13:00:00,11:00:00 - 13:00:00
 15/06/2023,Associé,j.touati@imadis.fr,Marseille,Journée,2023-06-15 11:00:00,2023-06-15 13:00:00,,,RRU,TOUATI Julian,11:00:00,13:00:00,11:00:00 - 13:00:00
-15/06/2023,,,,Journée,2023-06-15 11:00:00,2023-06-15 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
-15/06/2023,,,,Journée,2023-06-15 11:00:00,2023-06-15 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
+15/06/2023,Associé,pf.lintingre@imadis.fr,Bordeaux,Journée,2023-06-15 11:00:00,2023-06-15 14:00:00,,,RRU,LINTINGRE Pierre-francois,11:00:00,14:00:00,11:00:00 - 14:00:00
+15/06/2023,Associé,c.robert@imadis.fr,Rennes,Journée,2023-06-15 11:00:00,2023-06-15 14:00:00,,,RRU,ROBERT Corentin,11:00:00,14:00:00,11:00:00 - 14:00:00
 15/06/2023,Associé,e.stephant@imadis.fr,Bordeaux,Nuit,2023-06-15 13:00:00,2023-06-15 15:00:00,,,RRU,STEPHANT Eric,13:00:00,15:00:00,13:00:00 - 15:00:00
 15/06/2023,Associé,c.boudinaud@imadis.fr,Clermont-ferrand,Nuit,2023-06-15 13:00:00,2023-06-15 15:00:00,,,RRU,BOUDINAUD Claire,13:00:00,15:00:00,13:00:00 - 15:00:00
 16/06/2023,Associé,v.herreros@imadis.fr,Dijon,Journée,2023-06-16 11:00:00,2023-06-16 13:00:00,,,RRU,HERREROS Victor,11:00:00,13:00:00,11:00:00 - 13:00:00
@@ -912,12 +913,18 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 16/06/2023,Associé,r.peyre@imadis.fr,Marseille,Journée,2023-06-16 11:00:00,2023-06-16 13:00:00,,,RRU,PEYRE Rémi,11:00:00,13:00:00,11:00:00 - 13:00:00
 16/06/2023,Associé,c.erhart@imadis.fr,Rennes,Journée,2023-06-16 11:00:00,2023-06-16 13:00:00,,,RRU,ERHART Charlélie,11:00:00,13:00:00,11:00:00 - 13:00:00
 16/06/2023,Associé,b.gianelli@imadis.fr,Rennes,Journée,2023-06-16 11:00:00,2023-06-16 13:00:00,,,RRU,GIANELLI Benoit,11:00:00,13:00:00,11:00:00 - 13:00:00
-16/06/2023,,,,Journée,2023-06-16 11:00:00,2023-06-16 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
-16/06/2023,,,,Journée,2023-06-16 11:00:00,2023-06-16 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
+16/06/2023,Associé,a.dabadie@imadis.fr,Marseille,Journée,2023-06-16 11:00:00,2023-06-16 14:00:00,,,RRU,DABADIE Alexia,11:00:00,14:00:00,11:00:00 - 14:00:00
+16/06/2023,Associé,o.delache@imadis.fr,Rennes,Journée,2023-06-16 11:00:00,2023-06-16 14:00:00,,,RRU,DELACHE Ondine,11:00:00,14:00:00,11:00:00 - 14:00:00
 19/06/2023,Associé,n.ghelis@imadis.fr,Clermont-ferrand,Journée,2023-06-19 11:00:00,2023-06-19 13:00:00,,,RRU,GHELIS Nil,11:00:00,13:00:00,11:00:00 - 13:00:00
 19/06/2023,Associé,f.alonzo@imadis.fr,Lyon,Journée,2023-06-19 11:00:00,2023-06-19 13:00:00,,,RRU,ALONZO LACROIX Florian,11:00:00,13:00:00,11:00:00 - 13:00:00
 19/06/2023,Associé,m.cuinet@imadis.fr,Lyon,Journée,2023-06-19 11:00:00,2023-06-19 13:00:00,,,RRU,CUINET Marie,11:00:00,13:00:00,11:00:00 - 13:00:00
 19/06/2023,Associé,f.arnaud@imadis.fr,Marseille,Journée,2023-06-19 11:00:00,2023-06-19 13:00:00,,,RRU,ARNAUD François,11:00:00,13:00:00,11:00:00 - 13:00:00
+19/06/2023,,,,Journée,2023-06-19 11:00:00,2023-06-19 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
+19/06/2023,,,,Journée,2023-06-19 11:00:00,2023-06-19 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
+19/06/2023,,,,Journée,2023-06-19 11:00:00,2023-06-19 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
+19/06/2023,,,,Journée,2023-06-19 11:00:00,2023-06-19 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
+19/06/2023,,,,Journée,2023-06-19 11:00:00,2023-06-19 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
+19/06/2023,,,,Journée,2023-06-19 11:00:00,2023-06-19 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
 19/06/2023,Associé,e.youssof@imadis.fr,Lyon,Journée,2023-06-19 11:00:00,2023-06-19 14:00:00,,,RRU,YOUSSOF Emile,11:00:00,14:00:00,11:00:00 - 14:00:00
 19/06/2023,Associé,e.stephant@imadis.fr,Bordeaux,Nuit,2023-06-19 13:00:00,2023-06-19 15:00:00,,,RRU,STEPHANT Eric,13:00:00,15:00:00,13:00:00 - 15:00:00
 19/06/2023,Associé,v.herreros@imadis.fr,Dijon,Nuit,2023-06-19 13:00:00,2023-06-19 15:00:00,,,RRU,HERREROS Victor,13:00:00,15:00:00,13:00:00 - 15:00:00
@@ -927,6 +934,7 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 20/06/2023,Associé,s.dehbi@imadis.fr,Lyon,Journée,2023-06-20 11:00:00,2023-06-20 13:00:00,,,RRU,DEHBI Sabrina,11:00:00,13:00:00,11:00:00 - 13:00:00
 20/06/2023,Associé,l.malaureille@imadis.fr,Lyon,Journée,2023-06-20 11:00:00,2023-06-20 13:00:00,,,RRU,MALAUREILLE Lison,11:00:00,13:00:00,11:00:00 - 13:00:00
 20/06/2023,Associé,r.peyre@imadis.fr,Marseille,Journée,2023-06-20 11:00:00,2023-06-20 13:00:00,,,RRU,PEYRE Rémi,11:00:00,13:00:00,11:00:00 - 13:00:00
+20/06/2023,,,,Journée,2023-06-20 11:00:00,2023-06-20 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
 20/06/2023,Associé,a.galan@imadis.fr,Lyon,Journée,2023-06-20 11:00:00,2023-06-20 14:00:00,,,RRU,GALAN Alexandre,11:00:00,14:00:00,11:00:00 - 14:00:00
 20/06/2023,Associé,m.fillon@imadis.fr,Lyon,Nuit,2023-06-20 13:00:00,2023-06-20 15:00:00,,,RRU,FILLON Marie,13:00:00,15:00:00,13:00:00 - 15:00:00
 20/06/2023,Associé,g.bouquet@imadis.fr,Lyon,Nuit,2023-06-20 13:00:00,2023-06-20 15:00:00,,,RRU,BOUQUET Gregoire,13:00:00,15:00:00,13:00:00 - 15:00:00
@@ -940,6 +948,8 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 21/06/2023,Associé,a.allary@imadis.fr,Marseille,Journée,2023-06-21 11:00:00,2023-06-21 13:00:00,,,RRU,ALLARY Alexandre,11:00:00,13:00:00,11:00:00 - 13:00:00
 21/06/2023,Associé,m.dibisceglie@imadis.fr,Marseille,Journée,2023-06-21 11:00:00,2023-06-21 13:00:00,,,RRU,DI BISCEGLIE Mathieu,11:00:00,13:00:00,11:00:00 - 13:00:00
 21/06/2023,Associé,c.chevalier@imadis.fr,St etienne,Journée,2023-06-21 11:00:00,2023-06-21 13:00:00,,,RRU,CHEVALIER Clément,11:00:00,13:00:00,11:00:00 - 13:00:00
+21/06/2023,,,,Journée,2023-06-21 11:00:00,2023-06-21 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
+21/06/2023,,,,Journée,2023-06-21 11:00:00,2023-06-21 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
 21/06/2023,Associé,a.coulon@imadis.fr,Lyon,Nuit,2023-06-21 13:00:00,2023-06-21 15:00:00,,,RRU,COULON Agnès,13:00:00,15:00:00,13:00:00 - 15:00:00
 21/06/2023,Associé,pf.chaillot@imadis.fr,Lyon,Nuit,2023-06-21 13:00:00,2023-06-21 15:00:00,,,RRU,CHAILLOT Pierre-fleury,13:00:00,15:00:00,13:00:00 - 15:00:00
 21/06/2023,Associé,o.delache@imadis.fr,Rennes,Nuit,2023-06-21 13:00:00,2023-06-21 15:00:00,,,RRU,DELACHE Ondine,13:00:00,15:00:00,13:00:00 - 15:00:00
@@ -947,6 +957,8 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 22/06/2023,Associé,m.cuinet@imadis.fr,Lyon,Journée,2023-06-22 11:00:00,2023-06-22 13:00:00,,,RRU,CUINET Marie,11:00:00,13:00:00,11:00:00 - 13:00:00
 22/06/2023,Associé,l.malaureille@imadis.fr,Lyon,Journée,2023-06-22 11:00:00,2023-06-22 13:00:00,,,RRU,MALAUREILLE Lison,11:00:00,13:00:00,11:00:00 - 13:00:00
 22/06/2023,Associé,j.touati@imadis.fr,Marseille,Journée,2023-06-22 11:00:00,2023-06-22 13:00:00,,,RRU,TOUATI Julian,11:00:00,13:00:00,11:00:00 - 13:00:00
+22/06/2023,,,,Journée,2023-06-22 11:00:00,2023-06-22 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
+22/06/2023,,,,Journée,2023-06-22 11:00:00,2023-06-22 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
 22/06/2023,Associé,p.etchart@imadis.fr,Bordeaux,Nuit,2023-06-22 13:00:00,2023-06-22 15:00:00,,,RRU,ETCHART Paul,13:00:00,15:00:00,13:00:00 - 15:00:00
 22/06/2023,Associé,c.boudinaud@imadis.fr,Clermont-ferrand,Nuit,2023-06-22 13:00:00,2023-06-22 15:00:00,,,RRU,BOUDINAUD Claire,13:00:00,15:00:00,13:00:00 - 15:00:00
 22/06/2023,Associé,m.fontarensky@imadis.fr,Clermont-ferrand,Nuit,2023-06-22 13:00:00,2023-06-22 15:00:00,,,RRU,FONTARENSKY Mikael,13:00:00,15:00:00,13:00:00 - 15:00:00
@@ -955,7 +967,10 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 23/06/2023,Associé,a.bouhamama@imadis.fr,Lyon,Journée,2023-06-23 11:00:00,2023-06-23 13:00:00,,,RRU,BOUHAMAMA Amine,11:00:00,13:00:00,11:00:00 - 13:00:00
 23/06/2023,Associé,f.difranco@imadis.fr,Lyon,Journée,2023-06-23 11:00:00,2023-06-23 13:00:00,,,RRU,DI FRANCO Florian,11:00:00,13:00:00,11:00:00 - 13:00:00
 23/06/2023,Associé,f.bratan@imadis.fr,Lyon,Journée,2023-06-23 11:00:00,2023-06-23 13:00:00,,,RRU,BRATAN Flavie,11:00:00,13:00:00,11:00:00 - 13:00:00
+23/06/2023,Associé,t.laurendon@imadis.fr,Marseille,Journée,2023-06-23 11:00:00,2023-06-23 13:00:00,,,RRU,LAURENDON Thomas,11:00:00,13:00:00,11:00:00 - 13:00:00
 23/06/2023,Associé,a.perrey@imadis.fr,Marseille,Journée,2023-06-23 11:00:00,2023-06-23 13:00:00,,,RRU,PERREY Antoine,11:00:00,13:00:00,11:00:00 - 13:00:00
+23/06/2023,,,,Journée,2023-06-23 11:00:00,2023-06-23 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
+23/06/2023,,,,Journée,2023-06-23 11:00:00,2023-06-23 14:00:00,,,RRU,A POURVOIR A pourvoir,11:00:00,14:00:00,11:00:00 - 14:00:00
 23/06/2023,Associé,a.coulon@imadis.fr,Lyon,Nuit,2023-06-23 13:00:00,2023-06-23 15:00:00,,,RRU,COULON Agnès,13:00:00,15:00:00,13:00:00 - 15:00:00
 26/06/2023,Associé,f.petitpierre@imadis.fr,Bordeaux,Journée,2023-06-26 11:00:00,2023-06-26 13:00:00,,,RRU,PETITPIERRE Francois,11:00:00,13:00:00,11:00:00 - 13:00:00
 26/06/2023,Associé,f.alonzo@imadis.fr,Lyon,Journée,2023-06-26 11:00:00,2023-06-26 13:00:00,,,RRU,ALONZO LACROIX Florian,11:00:00,13:00:00,11:00:00 - 13:00:00
@@ -984,6 +999,7 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 28/06/2023,Associé,pf.chaillot@imadis.fr,Lyon,Nuit,2023-06-28 13:00:00,2023-06-28 15:00:00,,,RRU,CHAILLOT Pierre-fleury,13:00:00,15:00:00,13:00:00 - 15:00:00
 28/06/2023,Associé,o.delache@imadis.fr,Rennes,Nuit,2023-06-28 13:00:00,2023-06-28 15:00:00,,,RRU,DELACHE Ondine,13:00:00,15:00:00,13:00:00 - 15:00:00
 29/06/2023,Associé,s.mvouama@imadis.fr,Dijon,Journée,2023-06-29 11:00:00,2023-06-29 13:00:00,,,RRU,MVOUAMA Ségolène,11:00:00,13:00:00,11:00:00 - 13:00:00
+29/06/2023,Associé,c.larchez@imadis.fr,Lyon,Journée,2023-06-29 11:00:00,2023-06-29 13:00:00,,,RRU,LARCHEZ Christophe,11:00:00,13:00:00,11:00:00 - 13:00:00
 29/06/2023,Associé,a.allary@imadis.fr,Marseille,Journée,2023-06-29 11:00:00,2023-06-29 13:00:00,,,RRU,ALLARY Alexandre,11:00:00,13:00:00,11:00:00 - 13:00:00
 29/06/2023,Associé,g.chapas@imadis.fr,St etienne,Journée,2023-06-29 11:00:00,2023-06-29 13:00:00,,,RRU,CHAPAS Gilles,11:00:00,13:00:00,11:00:00 - 13:00:00
 29/06/2023,Associé,e.stephant@imadis.fr,Bordeaux,Nuit,2023-06-29 13:00:00,2023-06-29 15:00:00,,,RRU,STEPHANT Eric,13:00:00,15:00:00,13:00:00 - 15:00:00
@@ -1122,11 +1138,11 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 06/06/2023,Interne,a.bouachba@imadis.fr,Marseille,Journée,2023-06-06 13:00:00,2023-06-06 19:00:00,,,ART,BOUACHBA Amine,13:00:00,19:00:00,13:00:00 - 19:00:00
 06/06/2023,Interne,t.bedague@imadis.fr,Bordeaux,Nuit,2023-06-06 19:00:00,2023-06-07 01:00:00,,,ART,BEDAGUE Théo,19:00:00,01:00:00,19:00:00 - 01:00:00
 07/06/2023,Interne,a.benabdallah@imadis.fr,Lyon,Journée,2023-06-07 08:00:00,2023-06-07 13:00:00,,,ART,BENABDALLAH Adam,08:00:00,13:00:00,08:00:00 - 13:00:00
-07/06/2023,,,,Journée,2023-06-07 13:00:00,2023-06-07 19:00:00,,,ART,A POURVOIR A pourvoir,13:00:00,19:00:00,13:00:00 - 19:00:00
-07/06/2023,Interne,l.colombani@imadis.fr,Marseille,Nuit,2023-06-07 19:00:00,2023-06-08 01:00:00,,,ART,COLOMBANI Laura,19:00:00,01:00:00,19:00:00 - 01:00:00
-08/06/2023,Interne,e.bonnet@imadis.fr,St etienne,Journée,2023-06-08 08:00:00,2023-06-08 13:00:00,,,ART,BONNET Emilie,08:00:00,13:00:00,08:00:00 - 13:00:00
+07/06/2023,Interne,l.colombani@imadis.fr,Marseille,Journée,2023-06-07 13:00:00,2023-06-07 19:00:00,,,ART,COLOMBANI Laura,13:00:00,19:00:00,13:00:00 - 19:00:00
+07/06/2023,Interne,r.rigaudeau@imadis.fr,Marseille,Nuit,2023-06-07 19:00:00,2023-06-08 01:00:00,,,ART,RIGAUDEAU Robin,19:00:00,01:00:00,19:00:00 - 01:00:00
+08/06/2023,,,,Journée,2023-06-08 08:00:00,2023-06-08 13:00:00,,,ART,A POURVOIR A pourvoir,08:00:00,13:00:00,08:00:00 - 13:00:00
 08/06/2023,Interne,c.grugnardi@imadis.fr,Marseille,Journée,2023-06-08 13:00:00,2023-06-08 19:00:00,,,ART,GRUGNARDI Cécile,13:00:00,19:00:00,13:00:00 - 19:00:00
-08/06/2023,,,,Nuit,2023-06-08 19:00:00,2023-06-09 01:00:00,,,ART,A POURVOIR A pourvoir,19:00:00,01:00:00,19:00:00 - 01:00:00
+08/06/2023,Interne,g.delecloy@imadis.fr,Marseille,Nuit,2023-06-08 19:00:00,2023-06-09 01:00:00,,,ART,DELECLOY Grégoire,19:00:00,01:00:00,19:00:00 - 01:00:00
 09/06/2023,Interne,r.rigaudeau@imadis.fr,Marseille,Journée,2023-06-09 08:00:00,2023-06-09 13:00:00,,,ART,RIGAUDEAU Robin,08:00:00,13:00:00,08:00:00 - 13:00:00
 09/06/2023,Interne,z.sahut@imadis.fr,Lyon,Journée,2023-06-09 13:00:00,2023-06-09 19:00:00,,,ART,SAHUT Zoé,13:00:00,19:00:00,13:00:00 - 19:00:00
 09/06/2023,Interne,a.garnaud@imadis.fr,Lyon,Nuit,2023-06-09 19:00:00,2023-06-10 02:00:00,,,ART,GARNAUD Alexandre,19:00:00,02:00:00,19:00:00 - 02:00:00
@@ -1136,19 +1152,19 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 11/06/2023,Interne,v.noailly@imadis.fr,Lyon,Journée,2023-06-11 08:00:00,2023-06-11 13:00:00,,,ART,NOAILLY Valentin,08:00:00,13:00:00,08:00:00 - 13:00:00
 11/06/2023,Interne,m.lafargue@imadis.fr,Bordeaux,Journée,2023-06-11 13:00:00,2023-06-11 19:00:00,,,ART,LAFARGUE Marine,13:00:00,19:00:00,13:00:00 - 19:00:00
 11/06/2023,Interne,r.rigaudeau@imadis.fr,Marseille,Nuit,2023-06-11 19:00:00,2023-06-12 01:00:00,,,ART,RIGAUDEAU Robin,19:00:00,01:00:00,19:00:00 - 01:00:00
-12/06/2023,,,,Journée,2023-06-12 08:00:00,2023-06-12 13:00:00,,,ART,A POURVOIR A pourvoir,08:00:00,13:00:00,08:00:00 - 13:00:00
+12/06/2023,Interne,t.buffard@imadis.fr,Lyon,Journée,2023-06-12 08:00:00,2023-06-12 13:00:00,,,ART,BUFFARD Théo,08:00:00,13:00:00,08:00:00 - 13:00:00
 12/06/2023,Interne,t.buffard@imadis.fr,Lyon,Journée,2023-06-12 13:00:00,2023-06-12 19:00:00,,,ART,BUFFARD Théo,13:00:00,19:00:00,13:00:00 - 19:00:00
 12/06/2023,Interne,m.bouchet@imadis.fr,Lyon,Nuit,2023-06-12 19:00:00,2023-06-13 01:00:00,,,ART,BOUCHET Marion,19:00:00,01:00:00,19:00:00 - 01:00:00
 13/06/2023,Interne,c.felicia@imadis.fr,Lyon,Journée,2023-06-13 08:00:00,2023-06-13 13:00:00,,,ART,FELICIA  Corentin,08:00:00,13:00:00,08:00:00 - 13:00:00
 13/06/2023,Interne,c.felicia@imadis.fr,Lyon,Journée,2023-06-13 13:00:00,2023-06-13 19:00:00,,,ART,FELICIA  Corentin,13:00:00,19:00:00,13:00:00 - 19:00:00
 13/06/2023,Interne,m.conjeaud@imadis.fr,St etienne,Nuit,2023-06-13 19:00:00,2023-06-14 01:00:00,,,ART,CONJEAUD Mathieu,19:00:00,01:00:00,19:00:00 - 01:00:00
-14/06/2023,Interne,z.sahut@imadis.fr,St etienne,Journée,2023-06-14 08:00:00,2023-06-14 13:00:00,,,ART,SAHUT Zoé,08:00:00,13:00:00,08:00:00 - 13:00:00
+14/06/2023,,,,Journée,2023-06-14 08:00:00,2023-06-14 13:00:00,,,ART,A POURVOIR A pourvoir,08:00:00,13:00:00,08:00:00 - 13:00:00
 14/06/2023,Interne,j.thon@imadis.fr,Marseille,Journée,2023-06-14 13:00:00,2023-06-14 19:00:00,,,ART,THON Jérémy,13:00:00,19:00:00,13:00:00 - 19:00:00
-14/06/2023,Interne,b.muselier@imadis.fr,Marseille,Nuit,2023-06-14 19:00:00,2023-06-15 01:00:00,,,ART,MUSELIER Baptiste,19:00:00,01:00:00,19:00:00 - 01:00:00
-15/06/2023,,,,Journée,2023-06-15 08:00:00,2023-06-15 13:00:00,,,ART,A POURVOIR A pourvoir,08:00:00,13:00:00,08:00:00 - 13:00:00
+14/06/2023,,,,Nuit,2023-06-14 19:00:00,2023-06-15 01:00:00,,,ART,A POURVOIR A pourvoir,19:00:00,01:00:00,19:00:00 - 01:00:00
+15/06/2023,Interne,n.pesin@imadis.fr,Bordeaux,Journée,2023-06-15 08:00:00,2023-06-15 13:00:00,,,ART,PESIN Nathan,08:00:00,13:00:00,08:00:00 - 13:00:00
 15/06/2023,Interne,e.leroux@imadis.fr,Bordeaux,Journée,2023-06-15 13:00:00,2023-06-15 19:00:00,,,ART,LEROUX Etienne,13:00:00,19:00:00,13:00:00 - 19:00:00
 15/06/2023,Interne,p.poirette@imadis.fr,Bordeaux,Nuit,2023-06-15 19:00:00,2023-06-16 01:00:00,,,ART,POIRETTE Pauline,19:00:00,01:00:00,19:00:00 - 01:00:00
-16/06/2023,,,,Journée,2023-06-16 08:00:00,2023-06-16 13:00:00,,,ART,A POURVOIR A pourvoir,08:00:00,13:00:00,08:00:00 - 13:00:00
+16/06/2023,Interne,a.selva@imadis.fr,Lyon,Journée,2023-06-16 08:00:00,2023-06-16 13:00:00,,,ART,SELVA Alexandre,08:00:00,13:00:00,08:00:00 - 13:00:00
 16/06/2023,Interne,e.bonnet@imadis.fr,St etienne,Journée,2023-06-16 13:00:00,2023-06-16 19:00:00,,,ART,BONNET Emilie,13:00:00,19:00:00,13:00:00 - 19:00:00
 16/06/2023,Interne,a.fournier@imadis.fr,Marseille,Nuit,2023-06-16 19:00:00,2023-06-17 02:00:00,,,ART,FOURNIER Alexandre,19:00:00,02:00:00,19:00:00 - 02:00:00
 17/06/2023,Interne,d.pasche@imadis.fr,Bordeaux,Journée,2023-06-17 08:00:00,2023-06-17 13:00:00,,,ART,PASCHE Daphné,08:00:00,13:00:00,08:00:00 - 13:00:00
@@ -1170,8 +1186,8 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 22/06/2023,Interne,t.buffard@imadis.fr,Lyon,Journée,2023-06-22 13:00:00,2023-06-22 19:00:00,,,ART,BUFFARD Théo,13:00:00,19:00:00,13:00:00 - 19:00:00
 22/06/2023,,,,Nuit,2023-06-22 19:00:00,2023-06-23 01:00:00,,,ART,A POURVOIR A pourvoir,19:00:00,01:00:00,19:00:00 - 01:00:00
 23/06/2023,Interne,z.sahut@imadis.fr,Lyon,Journée,2023-06-23 08:00:00,2023-06-23 13:00:00,,,ART,SAHUT Zoé,08:00:00,13:00:00,08:00:00 - 13:00:00
-23/06/2023,,,,Journée,2023-06-23 13:00:00,2023-06-23 19:00:00,,,ART,A POURVOIR A pourvoir,13:00:00,19:00:00,13:00:00 - 19:00:00
-23/06/2023,,,,Nuit,2023-06-23 19:00:00,2023-06-24 02:00:00,,,ART,A POURVOIR A pourvoir,19:00:00,02:00:00,19:00:00 - 02:00:00
+23/06/2023,Interne,v.noailly@imadis.fr,Lyon,Journée,2023-06-23 13:00:00,2023-06-23 19:00:00,,,ART,NOAILLY Valentin,13:00:00,19:00:00,13:00:00 - 19:00:00
+23/06/2023,Interne,v.noailly@imadis.fr,Lyon,Nuit,2023-06-23 19:00:00,2023-06-24 02:00:00,,,ART,NOAILLY Valentin,19:00:00,02:00:00,19:00:00 - 02:00:00
 24/06/2023,Interne,l.ramirez@imadis.fr,Lyon,Journée,2023-06-24 08:00:00,2023-06-24 13:00:00,,,ART,RAMIREZ Laura,08:00:00,13:00:00,08:00:00 - 13:00:00
 24/06/2023,Interne,t.bedague@imadis.fr,Bordeaux,Journée,2023-06-24 13:00:00,2023-06-24 19:00:00,,,ART,BEDAGUE Théo,13:00:00,19:00:00,13:00:00 - 19:00:00
 24/06/2023,,,,Nuit,2023-06-24 19:00:00,2023-06-25 02:00:00,,,ART,A POURVOIR A pourvoir,19:00:00,02:00:00,19:00:00 - 02:00:00
@@ -1184,17 +1200,17 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 27/06/2023,,,,Journée,2023-06-27 08:00:00,2023-06-27 13:00:00,,,ART,A POURVOIR A pourvoir,08:00:00,13:00:00,08:00:00 - 13:00:00
 27/06/2023,Interne,a.bouachba@imadis.fr,Marseille,Journée,2023-06-27 13:00:00,2023-06-27 19:00:00,,,ART,BOUACHBA Amine,13:00:00,19:00:00,13:00:00 - 19:00:00
 27/06/2023,Interne,arm.berberian@gmail.com,St etienne,Nuit,2023-06-27 19:00:00,2023-06-28 01:00:00,,,ART,BERBERIAN Armen,19:00:00,01:00:00,19:00:00 - 01:00:00
-28/06/2023,,,,Journée,2023-06-28 08:00:00,2023-06-28 13:00:00,,,ART,A POURVOIR A pourvoir,08:00:00,13:00:00,08:00:00 - 13:00:00
+28/06/2023,Interne,c.grugnardi@imadis.fr,Marseille,Journée,2023-06-28 08:00:00,2023-06-28 13:00:00,,,ART,GRUGNARDI Cécile,08:00:00,13:00:00,08:00:00 - 13:00:00
 28/06/2023,,,,Journée,2023-06-28 13:00:00,2023-06-28 19:00:00,,,ART,A POURVOIR A pourvoir,13:00:00,19:00:00,13:00:00 - 19:00:00
-28/06/2023,,,,Nuit,2023-06-28 19:00:00,2023-06-29 01:00:00,,,ART,A POURVOIR A pourvoir,19:00:00,01:00:00,19:00:00 - 01:00:00
+28/06/2023,Interne,m.bouchet@imadis.fr,Lyon,Nuit,2023-06-28 19:00:00,2023-06-29 01:00:00,,,ART,BOUCHET Marion,19:00:00,01:00:00,19:00:00 - 01:00:00
 29/06/2023,,,,Journée,2023-06-29 08:00:00,2023-06-29 13:00:00,,,ART,A POURVOIR A pourvoir,08:00:00,13:00:00,08:00:00 - 13:00:00
 29/06/2023,,,,Journée,2023-06-29 13:00:00,2023-06-29 19:00:00,,,ART,A POURVOIR A pourvoir,13:00:00,19:00:00,13:00:00 - 19:00:00
 29/06/2023,Interne,m.zhao@imadis.fr,Bordeaux,Nuit,2023-06-29 19:00:00,2023-06-30 01:00:00,,,ART,ZHAO Marguerite,19:00:00,01:00:00,19:00:00 - 01:00:00
 30/06/2023,Interne,m.dumetz@imadis.fr,St etienne,Journée,2023-06-30 08:00:00,2023-06-30 13:00:00,,,ART,DUMETZ Manon,08:00:00,13:00:00,08:00:00 - 13:00:00
-30/06/2023,,,,Journée,2023-06-30 13:00:00,2023-06-30 19:00:00,,,ART,A POURVOIR A pourvoir,13:00:00,19:00:00,13:00:00 - 19:00:00
+30/06/2023,Interne,arm.berberian@gmail.com,St etienne,Journée,2023-06-30 13:00:00,2023-06-30 19:00:00,,,ART,BERBERIAN Armen,13:00:00,19:00:00,13:00:00 - 19:00:00
 30/06/2023,Interne,l.peraldi@imadis.fr,Lyon,Nuit,2023-06-30 19:00:00,2023-07-01 02:00:00,,,ART,PERALDI Lucas,19:00:00,02:00:00,19:00:00 - 02:00:00
-01/07/2023,,,,Journée,2023-07-01 08:00:00,2023-07-01 13:00:00,,,ART,A POURVOIR A pourvoir,08:00:00,13:00:00,08:00:00 - 13:00:00
-01/07/2023,,,,Journée,2023-07-01 13:00:00,2023-07-01 19:00:00,,,ART,A POURVOIR A pourvoir,13:00:00,19:00:00,13:00:00 - 19:00:00
+01/07/2023,Interne,l.ramirez@imadis.fr,Lyon,Journée,2023-07-01 08:00:00,2023-07-01 13:00:00,,,ART,RAMIREZ Laura,08:00:00,13:00:00,08:00:00 - 13:00:00
+01/07/2023,Interne,v.noailly@imadis.fr,Lyon,Journée,2023-07-01 13:00:00,2023-07-01 19:00:00,,,ART,NOAILLY Valentin,13:00:00,19:00:00,13:00:00 - 19:00:00
 01/07/2023,Interne,a.fournier@imadis.fr,Marseille,Nuit,2023-07-01 19:00:00,2023-07-02 02:00:00,,,ART,FOURNIER Alexandre,19:00:00,02:00:00,19:00:00 - 02:00:00
 02/07/2023,Interne,l.ramirez@imadis.fr,Lyon,Journée,2023-07-02 08:00:00,2023-07-02 13:00:00,,,ART,RAMIREZ Laura,08:00:00,13:00:00,08:00:00 - 13:00:00
 02/07/2023,Interne,a.fournet@imadis.fr,Bordeaux,Journée,2023-07-02 13:00:00,2023-07-02 19:00:00,,,ART,FOURNET Arthur,13:00:00,19:00:00,13:00:00 - 19:00:00
@@ -1202,10 +1218,10 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 03/07/2023,Interne,e.bonnet@imadis.fr,St etienne,Journée,2023-07-03 08:00:00,2023-07-03 13:00:00,,,ART,BONNET Emilie,08:00:00,13:00:00,08:00:00 - 13:00:00
 03/07/2023,,,,Journée,2023-07-03 13:00:00,2023-07-03 19:00:00,,,ART,A POURVOIR A pourvoir,13:00:00,19:00:00,13:00:00 - 19:00:00
 03/07/2023,Interne,e.leroux@imadis.fr,Bordeaux,Nuit,2023-07-03 19:00:00,2023-07-04 01:00:00,,,ART,LEROUX Etienne,19:00:00,01:00:00,19:00:00 - 01:00:00
-04/07/2023,,,,Journée,2023-07-04 08:00:00,2023-07-04 13:00:00,,,ART,A POURVOIR A pourvoir,08:00:00,13:00:00,08:00:00 - 13:00:00
+04/07/2023,Interne,a.razimbaud@imadis.fr,Lyon,Journée,2023-07-04 08:00:00,2023-07-04 13:00:00,,,ART,RAZIMBAUD Anaëlle,08:00:00,13:00:00,08:00:00 - 13:00:00
 04/07/2023,,,,Journée,2023-07-04 13:00:00,2023-07-04 19:00:00,,,ART,A POURVOIR A pourvoir,13:00:00,19:00:00,13:00:00 - 19:00:00
 04/07/2023,Interne,t.bedague@imadis.fr,Bordeaux,Nuit,2023-07-04 19:00:00,2023-07-05 01:00:00,,,ART,BEDAGUE Théo,19:00:00,01:00:00,19:00:00 - 01:00:00
-05/07/2023,,,,Journée,2023-07-05 08:00:00,2023-07-05 13:00:00,,,ART,A POURVOIR A pourvoir,08:00:00,13:00:00,08:00:00 - 13:00:00
+05/07/2023,Interne,z.sahut@imadis.fr,St etienne,Journée,2023-07-05 08:00:00,2023-07-05 13:00:00,,,ART,SAHUT Zoé,08:00:00,13:00:00,08:00:00 - 13:00:00
 05/07/2023,Interne,m.bouchet@imadis.fr,Lyon,Journée,2023-07-05 13:00:00,2023-07-05 19:00:00,,,ART,BOUCHET Marion,13:00:00,19:00:00,13:00:00 - 19:00:00
 05/07/2023,Interne,j.thon@imadis.fr,Marseille,Nuit,2023-07-05 19:00:00,2023-07-06 01:00:00,,,ART,THON Jérémy,19:00:00,01:00:00,19:00:00 - 01:00:00
 06/07/2023,,,,Journée,2023-07-06 08:00:00,2023-07-06 13:00:00,,,ART,A POURVOIR A pourvoir,08:00:00,13:00:00,08:00:00 - 13:00:00
@@ -1216,7 +1232,7 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 07/07/2023,,,,Nuit,2023-07-07 19:00:00,2023-07-08 02:00:00,,,ART,A POURVOIR A pourvoir,19:00:00,02:00:00,19:00:00 - 02:00:00
 08/07/2023,,,,Journée,2023-07-08 08:00:00,2023-07-08 13:00:00,,,ART,A POURVOIR A pourvoir,08:00:00,13:00:00,08:00:00 - 13:00:00
 08/07/2023,,,,Journée,2023-07-08 13:00:00,2023-07-08 19:00:00,,,ART,A POURVOIR A pourvoir,13:00:00,19:00:00,13:00:00 - 19:00:00
-08/07/2023,,,,Nuit,2023-07-08 19:00:00,2023-07-09 02:00:00,,,ART,A POURVOIR A pourvoir,19:00:00,02:00:00,19:00:00 - 02:00:00
+08/07/2023,Interne,l.peraldi@imadis.fr,Lyon,Nuit,2023-07-08 19:00:00,2023-07-09 02:00:00,,,ART,PERALDI Lucas,19:00:00,02:00:00,19:00:00 - 02:00:00
 09/07/2023,Interne,m.lafargue@imadis.fr,Bordeaux,Journée,2023-07-09 08:00:00,2023-07-09 13:00:00,,,ART,LAFARGUE Marine,08:00:00,13:00:00,08:00:00 - 13:00:00
 09/07/2023,Interne,a.razimbaud@imadis.fr,Lyon,Journée,2023-07-09 13:00:00,2023-07-09 19:00:00,,,ART,RAZIMBAUD Anaëlle,13:00:00,19:00:00,13:00:00 - 19:00:00
 09/07/2023,Interne,v.noailly@imadis.fr,Lyon,Nuit,2023-07-09 19:00:00,2023-07-10 01:00:00,,,ART,NOAILLY Valentin,19:00:00,01:00:00,19:00:00 - 01:00:00
@@ -2017,11 +2033,11 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 04/06/2023,Associé,n.ghelis@imadis.fr,Clermont-ferrand,Journée,2023-06-04 08:00:00,2023-06-04 20:00:00,Chef de site,,PDS,GHELIS Nil,08:00:00,20:00:00,08:00:00 - 20:00:00
 04/06/2023,Interne,s.mezher@imadis.fr,Clermont-ferrand,Journée,2023-06-04 08:00:00,2023-06-04 20:00:00,,,PDS,MEZHER Sami,08:00:00,20:00:00,08:00:00 - 20:00:00
 04/06/2023,Associé,h.kizil@imadis.fr,Dijon,Journée,2023-06-04 08:00:00,2023-06-04 20:00:00,Chef de site,,PDS,KIZIL Halime,08:00:00,20:00:00,08:00:00 - 20:00:00
-04/06/2023,Associé,s.rabaste@imadis.fr,Lyon,Journée,2023-06-04 08:00:00,2023-06-04 20:00:00,Chef de site,,PDS,RABASTE Sylvain,08:00:00,20:00:00,08:00:00 - 20:00:00
+04/06/2023,Associé,s.rabaste@imadis.fr,Lyon,Journée,2023-06-04 08:00:00,2023-06-04 21:00:00,Chef de site,,PDS,RABASTE Sylvain,08:00:00,21:00:00,08:00:00 - 21:00:00
 04/06/2023,Associé,b.gianelli@imadis.fr,Rennes,Journée,2023-06-04 09:00:00,2023-06-04 19:00:00,,,PDS,GIANELLI Benoit,09:00:00,19:00:00,09:00:00 - 19:00:00
 04/06/2023,Associé,q.ea@imadis.fr,Rennes,Journée,2023-06-04 09:00:00,2023-06-04 20:00:00,Chef de garde,,PDS,EA Quentin,09:00:00,20:00:00,09:00:00 - 20:00:00
 04/06/2023,Thèsé,c.dandache@imadis.fr,Lyon,Journée,2023-06-04 10:00:00,2023-06-04 19:00:00,,,PDS,DANDACHE Celia,10:00:00,19:00:00,10:00:00 - 19:00:00
-04/06/2023,Interne,a.lefloch@imadis.fr,Bordeaux,Journée,2023-06-04 10:00:00,2023-06-04 20:00:00,,,PDS,LE FLOCH Agathe,10:00:00,20:00:00,10:00:00 - 20:00:00
+04/06/2023,Interne,a.lefloch@imadis.fr,Bordeaux,Journée,2023-06-04 10:00:00,2023-06-04 21:00:00,,,PDS,LE FLOCH Agathe,10:00:00,21:00:00,10:00:00 - 21:00:00
 04/06/2023,Interne,v.vadot@imadis.fr,Dijon,Journée,2023-06-04 12:00:00,2023-06-04 21:00:00,,,PDS,VADOT Valentin,12:00:00,21:00:00,12:00:00 - 21:00:00
 04/06/2023,Associé,jf.bergerot@imadis.fr,Lyon,Nuit,2023-06-04 18:00:00,2023-06-05 08:00:00,Chef de garde,,PDS,BERGEROT Jean-francois,18:00:00,08:00:00,18:00:00 - 08:00:00
 04/06/2023,Interne,p.baseilhac@imadis.fr,Lyon,Nuit,2023-06-04 19:00:00,2023-06-05 08:00:00,,,PDS,BASEILHAC Pierre,19:00:00,08:00:00,19:00:00 - 08:00:00
@@ -2034,11 +2050,11 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 04/06/2023,Interne,a.braillon@imadis.fr,Lyon,Nuit,2023-06-04 20:00:00,2023-06-05 02:00:00,,,PDS,BRAILLON Alexandra,20:00:00,02:00:00,20:00:00 - 02:00:00
 04/06/2023,Associé,m.martin@imadis.fr,Bordeaux,Nuit,2023-06-04 20:00:00,2023-06-05 08:00:00,Chef de site,,PDS,MARTIN Manuel,20:00:00,08:00:00,20:00:00 - 08:00:00
 04/06/2023,Interne,h.sans@imadis.fr,Bordeaux,Nuit,2023-06-04 20:00:00,2023-06-05 08:00:00,,,PDS,SANS Hugo,20:00:00,08:00:00,20:00:00 - 08:00:00
-04/06/2023,Thèsé,constanta.burnusus@gmail.com,Lyon,Nuit,2023-06-04 20:00:00,2023-06-05 08:00:00,,,PDS,BURNUSUS Constanta,20:00:00,08:00:00,20:00:00 - 08:00:00
 04/06/2023,Interne,a.mekki@imadis.fr,Lyon,Nuit,2023-06-04 20:00:00,2023-06-05 08:00:00,Chef de site,,PDS,MEKKI Amine,20:00:00,08:00:00,20:00:00 - 08:00:00
-04/06/2023,Thèsé,pl.moldovan@gmail.com,Lyon,Nuit,2023-06-04 20:00:00,2023-06-05 08:00:00,,,PDS,MOLDOVAN Paul,20:00:00,08:00:00,20:00:00 - 08:00:00
 04/06/2023,Thèsé,lea.zumbihl@gmail.com,Lyon,Nuit,2023-06-04 20:00:00,2023-06-05 08:00:00,,,PDS,ZUMBIHL Léa,20:00:00,08:00:00,20:00:00 - 08:00:00
 04/06/2023,Associé,b.gianelli@imadis.fr,Rennes,Nuit,2023-06-04 20:00:00,2023-06-05 08:00:00,Chef de site,,PDS,GIANELLI Benoit,20:00:00,08:00:00,20:00:00 - 08:00:00
+04/06/2023,Thèsé,constanta.burnusus@gmail.com,Lyon,Nuit,2023-06-04 20:20:00,2023-06-05 08:00:00,,,PDS,BURNUSUS Constanta,20:20:00,08:00:00,20:20:00 - 08:00:00
+04/06/2023,Thèsé,pl.moldovan@gmail.com,Lyon,Nuit,2023-06-04 20:20:00,2023-06-05 08:00:00,,,PDS,MOLDOVAN Paul,20:20:00,08:00:00,20:20:00 - 08:00:00
 05/06/2023,Interne,a.kanan@imadis.fr,Clermont-ferrand,Nuit,2023-06-05 18:00:00,2023-06-05 20:00:00,,,PDS,KANAN Achraf,18:00:00,20:00:00,18:00:00 - 20:00:00
 05/06/2023,Interne,f.gallissot@imadis.fr,Dijon,Nuit,2023-06-05 18:00:00,2023-06-05 20:00:00,,,PDS,GALLISSOT Felix,18:00:00,20:00:00,18:00:00 - 20:00:00
 05/06/2023,Interne,v.siauve@imadis.fr,Dijon,Nuit,2023-06-05 18:00:00,2023-06-05 20:00:00,,,PDS,SIAUVE Valentin,18:00:00,20:00:00,18:00:00 - 20:00:00
@@ -2071,32 +2087,34 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 06/06/2023,Interne,s.mezher@imadis.fr,Clermont-ferrand,Nuit,2023-06-06 18:00:00,2023-06-06 20:00:00,,,PDS,MEZHER Sami,18:00:00,20:00:00,18:00:00 - 20:00:00
 06/06/2023,Associé,h.kizil@imadis.fr,Dijon,Nuit,2023-06-06 18:00:00,2023-06-06 20:00:00,,,PDS,KIZIL Halime,18:00:00,20:00:00,18:00:00 - 20:00:00
 06/06/2023,Associé,s.dehbi@imadis.fr,Lyon,Nuit,2023-06-06 18:00:00,2023-06-06 20:00:00,,,PDS,DEHBI Sabrina,18:00:00,20:00:00,18:00:00 - 20:00:00
-06/06/2023,Interne,d.pavie@imadis.fr,Lyon,Nuit,2023-06-06 18:00:00,2023-06-06 20:00:00,,,PDS,PAVIE Dylan,18:00:00,20:00:00,18:00:00 - 20:00:00
 06/06/2023,Associé,v.thomson@imadis.fr,Lyon,Nuit,2023-06-06 18:00:00,2023-06-06 20:00:00,Chef de site,,PDS,THOMSON Vivien,18:00:00,20:00:00,18:00:00 - 20:00:00
 06/06/2023,Associé,b.gianelli@imadis.fr,Rennes,Nuit,2023-06-06 18:00:00,2023-06-06 20:00:00,,,PDS,GIANELLI Benoit,18:00:00,20:00:00,18:00:00 - 20:00:00
 06/06/2023,Interne,s.bertholon@imadis.fr,St etienne,Nuit,2023-06-06 18:00:00,2023-06-06 20:00:00,,,PDS,BERTHOLON Sylvain,18:00:00,20:00:00,18:00:00 - 20:00:00
 06/06/2023,Interne,b.geoffroy@imadis.fr,St etienne,Nuit,2023-06-06 18:00:00,2023-06-06 20:00:00,,,PDS,GEOFFROY Bastien,18:00:00,20:00:00,18:00:00 - 20:00:00
 06/06/2023,Thèsé,p.lapeine@imadis.fr,St etienne,Nuit,2023-06-06 18:00:00,2023-06-06 20:00:00,,,PDS,LAPEINE Philippe,18:00:00,20:00:00,18:00:00 - 20:00:00
+06/06/2023,Interne,d.pavie@imadis.fr,Lyon,Journée,2023-06-06 18:00:00,2023-06-06 21:00:00,,,PDS,PAVIE Dylan,18:00:00,21:00:00,18:00:00 - 21:00:00
 06/06/2023,Associé,q.ea@imadis.fr,Rennes,Nuit,2023-06-06 18:00:00,2023-06-06 21:00:00,,,PDS,EA Quentin,18:00:00,21:00:00,18:00:00 - 21:00:00
-06/06/2023,Associé,o.koubaity@imadis.fr,Lyon,Nuit,2023-06-06 19:00:00,2023-06-06 20:00:00,,,PDS,KOUBAITY Omar,19:00:00,20:00:00,19:00:00 - 20:00:00
-06/06/2023,Associé,v.thomson@imadis.fr,Lyon,Nuit,2023-06-06 20:00:00,2023-06-07 01:00:00,,,PDS,THOMSON Vivien,20:00:00,01:00:00,20:00:00 - 01:00:00
+06/06/2023,Interne,m.bouquerel@imadis.fr,Lyon,Nuit,2023-06-06 19:00:00,2023-06-06 20:00:00,,,PDS,BOUQUEREL Marie,19:00:00,20:00:00,19:00:00 - 20:00:00
+06/06/2023,Associé,v.thomson@imadis.fr,Lyon,Nuit,2023-06-06 20:00:00,2023-06-07 00:00:00,,,PDS,THOMSON Vivien,20:00:00,00:00:00,20:00:00 - 00:00:00
 06/06/2023,Associé,v.catena@imadis.fr,Bordeaux,Nuit,2023-06-06 20:00:00,2023-06-07 02:00:00,,,PDS,CATENA Vittorio,20:00:00,02:00:00,20:00:00 - 02:00:00
 06/06/2023,Associé,m.laubacher@imadis.fr,Lyon,Nuit,2023-06-06 20:00:00,2023-06-07 02:00:00,,,PDS,LAUBACHER Morgane,20:00:00,02:00:00,20:00:00 - 02:00:00
 06/06/2023,Associé,e.youssof@imadis.fr,Lyon,Nuit,2023-06-06 20:00:00,2023-06-07 02:00:00,,,PDS,YOUSSOF Emile,20:00:00,02:00:00,20:00:00 - 02:00:00
 06/06/2023,Associé,r.maaloum@imadis.fr,Bordeaux,Nuit,2023-06-06 20:00:00,2023-06-07 08:00:00,,,PDS,MAALOUM Rim,20:00:00,08:00:00,20:00:00 - 08:00:00
 06/06/2023,Associé,p.schuster@imadis.fr,Bordeaux,Nuit,2023-06-06 20:00:00,2023-06-07 08:00:00,Chef de site,,PDS,SCHUSTER Paul,20:00:00,08:00:00,20:00:00 - 08:00:00
 06/06/2023,Interne,m.bouquerel@imadis.fr,Lyon,Nuit,2023-06-06 20:00:00,2023-06-07 08:00:00,,,PDS,BOUQUEREL Marie,20:00:00,08:00:00,20:00:00 - 08:00:00
-06/06/2023,Associé,h.beji@imadis.fr,Lyon,Nuit,2023-06-06 20:00:00,2023-06-07 08:00:00,Chef de site,,PDS,BEJI Hedi,20:00:00,08:00:00,20:00:00 - 08:00:00
+06/06/2023,Associé,h.beji@imadis.fr,Lyon,Nuit,2023-06-06 20:00:00,2023-06-07 08:00:00,,,PDS,BEJI Hedi,20:00:00,08:00:00,20:00:00 - 08:00:00
 06/06/2023,Associé,j.coeur@imadis.fr,Lyon,Nuit,2023-06-06 20:00:00,2023-06-07 08:00:00,,,PDS,COEUR Jules,20:00:00,08:00:00,20:00:00 - 08:00:00
 06/06/2023,Thèsé,c.dandache@imadis.fr,Lyon,Nuit,2023-06-06 20:00:00,2023-06-07 08:00:00,,,PDS,DANDACHE Celia,20:00:00,08:00:00,20:00:00 - 08:00:00
 06/06/2023,Associé,o.koubaity@imadis.fr,Lyon,Nuit,2023-06-06 20:00:00,2023-06-07 08:00:00,Chef de garde,,PDS,KOUBAITY Omar,20:00:00,08:00:00,20:00:00 - 08:00:00
 06/06/2023,Thèsé,a.schleef@imadis.fr,Lyon,Nuit,2023-06-06 20:00:00,2023-06-07 08:00:00,,,PDS,SCHLEEF Arnaud,20:00:00,08:00:00,20:00:00 - 08:00:00
-06/06/2023,Associé,b.gianelli@imadis.fr,Rennes,Nuit,2023-06-06 20:00:00,2023-06-07 08:00:00,Chef de site,,PDS,GIANELLI Benoit,20:00:00,08:00:00,20:00:00 - 08:00:00
 06/06/2023,Interne,m.salem@imadis.fr,Rennes,Nuit,2023-06-06 20:00:00,2023-06-07 08:00:00,,,PDS,SALEM Marie,20:00:00,08:00:00,20:00:00 - 08:00:00
 06/06/2023,Interne,s.bertholon@imadis.fr,St etienne,Nuit,2023-06-06 20:00:00,2023-06-07 08:00:00,Chef de site,,PDS,BERTHOLON Sylvain,20:00:00,08:00:00,20:00:00 - 08:00:00
 06/06/2023,Thèsé,c.chapuis@imadis.fr,St etienne,Nuit,2023-06-06 20:00:00,2023-06-07 08:00:00,,,PDS,CHAPUIS Clemence,20:00:00,08:00:00,20:00:00 - 08:00:00
+06/06/2023,Associé,b.gianelli@imadis.fr,Rennes,Nuit,2023-06-06 21:00:00,2023-06-07 08:00:00,Chef de site,,PDS,GIANELLI Benoit,21:00:00,08:00:00,21:00:00 - 08:00:00
+07/06/2023,Interne,paul-cholley@orange.fr,Clermont-ferrand,Journée,2023-06-07 09:00:00,2023-06-07 13:00:00,,F2,PDS,CHOLLEY Paul,09:00:00,13:00:00,09:00:00 - 13:00:00
+07/06/2023,Associé,m.fontarensky@imadis.fr,Clermont-ferrand,Journée,2023-06-07 09:00:00,2023-06-07 13:00:00,,F2,PDS,FONTARENSKY Mikael,09:00:00,13:00:00,09:00:00 - 13:00:00
+07/06/2023,Interne,norman.roual@gmail.com,Clermont-ferrand,Journée,2023-06-07 09:00:00,2023-06-07 13:00:00,,F2,PDS,ROUAL Norman,09:00:00,13:00:00,09:00:00 - 13:00:00
 07/06/2023,Interne,t.pacheco@imadis.fr,Clermont-ferrand,Nuit,2023-06-07 18:00:00,2023-06-07 20:00:00,,,PDS,PACHECO Thomas,18:00:00,20:00:00,18:00:00 - 20:00:00
-07/06/2023,Associé,a.acquier@imadis.fr,Dijon,Nuit,2023-06-07 18:00:00,2023-06-07 20:00:00,,,PDS,ACQUIER Adrien,18:00:00,20:00:00,18:00:00 - 20:00:00
 07/06/2023,Interne,v.vadot@imadis.fr,Dijon,Nuit,2023-06-07 18:00:00,2023-06-07 20:00:00,,,PDS,VADOT Valentin,18:00:00,20:00:00,18:00:00 - 20:00:00
 07/06/2023,Interne,m.grenier@imadis.fr,Lyon,Nuit,2023-06-07 18:00:00,2023-06-07 20:00:00,,,PDS,GRENIER Mathilde,18:00:00,20:00:00,18:00:00 - 20:00:00
 07/06/2023,Thèsé,i.leonard-lorant@imadis.fr,Lyon,Nuit,2023-06-07 18:00:00,2023-06-07 20:00:00,,,PDS,LEONARD-LORANT Ian,18:00:00,20:00:00,18:00:00 - 20:00:00
@@ -2104,32 +2122,33 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 07/06/2023,Interne,d.pavie@imadis.fr,Lyon,Nuit,2023-06-07 18:00:00,2023-06-07 20:00:00,,,PDS,PAVIE Dylan,18:00:00,20:00:00,18:00:00 - 20:00:00
 07/06/2023,Thèsé,e.ruaux@imadis.fr,Lyon,Nuit,2023-06-07 18:00:00,2023-06-07 20:00:00,,,PDS,RUAUX Edouard,18:00:00,20:00:00,18:00:00 - 20:00:00
 07/06/2023,Thèsé,p.lapeine@imadis.fr,St etienne,Nuit,2023-06-07 18:00:00,2023-06-07 20:00:00,,,PDS,LAPEINE Philippe,18:00:00,20:00:00,18:00:00 - 20:00:00
+07/06/2023,Associé,a.acquier@imadis.fr,Dijon,Journée,2023-06-07 18:00:00,2023-06-07 21:00:00,,,PDS,ACQUIER Adrien,18:00:00,21:00:00,18:00:00 - 21:00:00
 07/06/2023,Interne,c.riviere@imadis.fr,Marseille,Nuit,2023-06-07 18:00:00,2023-06-07 21:00:00,,,PDS,RIVIERE Constance,18:00:00,21:00:00,18:00:00 - 21:00:00
 07/06/2023,Associé,q.ea@imadis.fr,Rennes,Journée,2023-06-07 18:00:00,2023-06-07 21:00:00,,,PDS,EA Quentin,18:00:00,21:00:00,18:00:00 - 21:00:00
 07/06/2023,Interne,a.martin@imadis.fr,Bordeaux,Nuit,2023-06-07 19:00:00,2023-06-07 20:00:00,,,PDS,MARTIN Antoine,19:00:00,20:00:00,19:00:00 - 20:00:00
 07/06/2023,Thèsé,pf.montoriol@imadis.fr,Clermont-ferrand,Nuit,2023-06-07 20:00:00,2023-06-08 01:00:00,,,PDS,MONTORIOL Pierre francois,20:00:00,01:00:00,20:00:00 - 01:00:00
 07/06/2023,Associé,b.copolata@imadis.fr,Bordeaux,Nuit,2023-06-07 20:00:00,2023-06-08 02:00:00,,,PDS,COPOLATA Benoit,20:00:00,02:00:00,20:00:00 - 02:00:00
-07/06/2023,Associé,m.fontarensky@imadis.fr,Clermont-ferrand,Nuit,2023-06-07 20:00:00,2023-06-08 02:00:00,Chef de site,,PDS,FONTARENSKY Mikael,20:00:00,02:00:00,20:00:00 - 02:00:00
 07/06/2023,Associé,m.chamakh@imadis.fr,Lyon,Nuit,2023-06-07 20:00:00,2023-06-08 02:00:00,,,PDS,CHAMAKH Mounir,20:00:00,02:00:00,20:00:00 - 02:00:00
-07/06/2023,,,,Nuit,2023-06-07 20:00:00,2023-06-08 08:00:00,,,PDS,A POURVOIR A pourvoir,20:00:00,08:00:00,20:00:00 - 08:00:00
 07/06/2023,Thèsé,r.dourmap@imadis.fr,Bordeaux,Nuit,2023-06-07 20:00:00,2023-06-08 08:00:00,,,PDS,DOURMAP Rachelle,20:00:00,08:00:00,20:00:00 - 08:00:00
 07/06/2023,Interne,a.martin@imadis.fr,Bordeaux,Nuit,2023-06-07 20:00:00,2023-06-08 08:00:00,,,PDS,MARTIN Antoine,20:00:00,08:00:00,20:00:00 - 08:00:00
 07/06/2023,Associé,l.chevallier@imadis.fr,Lyon,Nuit,2023-06-07 20:00:00,2023-06-08 08:00:00,,,PDS,CHEVALLIER Laurène,20:00:00,08:00:00,20:00:00 - 08:00:00
 07/06/2023,Thèsé,i.leonard-lorant@imadis.fr,Lyon,Nuit,2023-06-07 20:00:00,2023-06-08 08:00:00,,,PDS,LEONARD-LORANT Ian,20:00:00,08:00:00,20:00:00 - 08:00:00
 07/06/2023,Thèsé,e.ruaux@imadis.fr,Lyon,Nuit,2023-06-07 20:00:00,2023-06-08 08:00:00,,,PDS,RUAUX Edouard,20:00:00,08:00:00,20:00:00 - 08:00:00
 07/06/2023,Associé,a.chazot@imadis.fr,Lyon,Nuit,2023-06-07 20:00:00,2023-06-08 08:00:00,Chef de garde,,PDS,CHAZOT Alban,20:00:00,08:00:00,20:00:00 - 08:00:00
+07/06/2023,Interne,b.drikes@imadis.fr,Marseille,Nuit,2023-06-07 20:00:00,2023-06-08 08:00:00,,,PDS,DRIKES Benjamin,20:00:00,08:00:00,20:00:00 - 08:00:00
 07/06/2023,Interne,a.teston@imadis.fr,St etienne,Nuit,2023-06-07 20:00:00,2023-06-08 08:00:00,,,PDS,TESTON Anthony,20:00:00,08:00:00,20:00:00 - 08:00:00
 07/06/2023,Associé,t.annweiler@imadis.fr,St etienne,Nuit,2023-06-07 20:00:00,2023-06-08 08:00:00,Chef de site,,PDS,ANNWEILER Thierry,20:00:00,08:00:00,20:00:00 - 08:00:00
 07/06/2023,Associé,o.preteseille@imadis.fr,St etienne,Nuit,2023-06-07 20:00:00,2023-06-08 08:00:00,,,PDS,PRETESEILLE Olivier,20:00:00,08:00:00,20:00:00 - 08:00:00
+07/06/2023,Associé,m.fontarensky@imadis.fr,Clermont-ferrand,Nuit,2023-06-07 21:00:00,2023-06-08 02:00:00,Chef de site,,PDS,FONTARENSKY Mikael,21:00:00,02:00:00,21:00:00 - 02:00:00
 07/06/2023,Associé,j.etievant@imadis.fr,Marseille,Nuit,2023-06-07 21:00:00,2023-06-08 08:00:00,Chef de site,,PDS,ETIEVANT Johan,21:00:00,08:00:00,21:00:00 - 08:00:00
-08/06/2023,,,,Nuit,2023-06-08 18:00:00,2023-06-08 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
-08/06/2023,,,,Nuit,2023-06-08 18:00:00,2023-06-08 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 08/06/2023,Interne,t.linet@imadis.fr,Bordeaux,Nuit,2023-06-08 18:00:00,2023-06-08 20:00:00,,,PDS,LINET Thomas,18:00:00,20:00:00,18:00:00 - 20:00:00
 08/06/2023,Thèsé,sophiedaubie@gmail.com,Lyon,Nuit,2023-06-08 18:00:00,2023-06-08 20:00:00,,,PDS,DAUBIE Sophie,18:00:00,20:00:00,18:00:00 - 20:00:00
+08/06/2023,Associé,o.koubaity@imadis.fr,Lyon,Nuit,2023-06-08 18:00:00,2023-06-08 20:00:00,,,PDS,KOUBAITY Omar,18:00:00,20:00:00,18:00:00 - 20:00:00
 08/06/2023,Interne,f.tournes@imadis.fr,Lyon,Nuit,2023-06-08 18:00:00,2023-06-08 20:00:00,,,PDS,TOURNES Florent,18:00:00,20:00:00,18:00:00 - 20:00:00
 08/06/2023,Interne,m.escoffier@imadis.fr,Marseille,Nuit,2023-06-08 18:00:00,2023-06-08 20:00:00,,,PDS,ESCOFFIER Mélanie,18:00:00,20:00:00,18:00:00 - 20:00:00
 08/06/2023,Interne,c.gazagne@imadis.fr,Marseille,Nuit,2023-06-08 18:00:00,2023-06-08 20:00:00,,,PDS,GAZAGNE Camille,18:00:00,20:00:00,18:00:00 - 20:00:00
 08/06/2023,Associé,t.laurendon@imadis.fr,Marseille,Nuit,2023-06-08 18:00:00,2023-06-08 20:00:00,,,PDS,LAURENDON Thomas,18:00:00,20:00:00,18:00:00 - 20:00:00
+08/06/2023,Associé,b.gianelli@imadis.fr,Rennes,Nuit,2023-06-08 18:00:00,2023-06-08 20:00:00,,,PDS,GIANELLI Benoit,18:00:00,20:00:00,18:00:00 - 20:00:00
 08/06/2023,Interne,c.laplaud@imadis.fr,Rennes,Nuit,2023-06-08 18:00:00,2023-06-08 20:00:00,,,PDS,LAPLAUD Clément,18:00:00,20:00:00,18:00:00 - 20:00:00
 08/06/2023,Interne,m.salem@imadis.fr,Rennes,Nuit,2023-06-08 18:00:00,2023-06-08 20:00:00,,,PDS,SALEM Marie,18:00:00,20:00:00,18:00:00 - 20:00:00
 08/06/2023,Associé,t.lapotre@imadis.fr,Rennes,Nuit,2023-06-08 18:00:00,2023-06-08 21:00:00,,,PDS,LAPOTRE Thibaut,18:00:00,21:00:00,18:00:00 - 21:00:00
@@ -2137,7 +2156,6 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 08/06/2023,Thèsé,a.asuncion@imadis.fr,Clermont-ferrand,Nuit,2023-06-08 20:00:00,2023-06-09 01:00:00,,,PDS,ASUNCION Audrey,20:00:00,01:00:00,20:00:00 - 01:00:00
 08/06/2023,Thèsé,d.da-ines@imadis.fr,Clermont-ferrand,Nuit,2023-06-08 20:00:00,2023-06-09 02:00:00,,,PDS,DA INES David,20:00:00,02:00:00,20:00:00 - 02:00:00
 08/06/2023,Thèsé,g.lienemann@imadis.fr,Clermont-ferrand,Nuit,2023-06-08 20:00:00,2023-06-09 02:00:00,Chef de site,,PDS,LIENEMANN Guillaume,20:00:00,02:00:00,20:00:00 - 02:00:00
-08/06/2023,Associé,t.jurkovic@imadis.fr,Lyon,Nuit,2023-06-08 20:00:00,2023-06-09 02:00:00,,,PDS,JURKOVIC Thomas,20:00:00,02:00:00,20:00:00 - 02:00:00
 08/06/2023,Interne,p.maas@imadis.fr,Bordeaux,Nuit,2023-06-08 20:00:00,2023-06-09 08:00:00,,,PDS,MAAS Philippe,20:00:00,08:00:00,20:00:00 - 08:00:00
 08/06/2023,Associé,b.meunier@imadis.fr,Bordeaux,Nuit,2023-06-08 20:00:00,2023-06-09 08:00:00,Chef de site,,PDS,MEUNIER Benjamin,20:00:00,08:00:00,20:00:00 - 08:00:00
 08/06/2023,Thèsé,sophiedaubie@gmail.com,Lyon,Nuit,2023-06-08 20:00:00,2023-06-09 08:00:00,,,PDS,DAUBIE Sophie,20:00:00,08:00:00,20:00:00 - 08:00:00
@@ -2167,12 +2185,12 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 09/06/2023,Interne,t.pacheco@imadis.fr,Clermont-ferrand,Nuit,2023-06-09 20:00:00,2023-06-10 01:00:00,,,PDS,PACHECO Thomas,20:00:00,01:00:00,20:00:00 - 01:00:00
 09/06/2023,Associé,v.herreros@imadis.fr,Dijon,Nuit,2023-06-09 20:00:00,2023-06-10 02:00:00,Chef de site,,PDS,HERREROS Victor,20:00:00,02:00:00,20:00:00 - 02:00:00
 09/06/2023,Interne,v.pinguet@imadis.fr,Dijon,Nuit,2023-06-09 20:00:00,2023-06-10 02:00:00,,,PDS,PINGUET Valentin,20:00:00,02:00:00,20:00:00 - 02:00:00
+09/06/2023,,,,Nuit,2023-06-09 20:00:00,2023-06-10 08:00:00,,,PDS,A POURVOIR A pourvoir,20:00:00,08:00:00,20:00:00 - 08:00:00
 09/06/2023,Interne,s.benhenda@imadis.fr,Bordeaux,Nuit,2023-06-09 20:00:00,2023-06-10 08:00:00,,,PDS,BENHENDA Samy,20:00:00,08:00:00,20:00:00 - 08:00:00
 09/06/2023,Associé,h.nivet@imadis.fr,Bordeaux,Nuit,2023-06-09 20:00:00,2023-06-10 08:00:00,Chef de garde,,PDS,NIVET Hubert,20:00:00,08:00:00,20:00:00 - 08:00:00
 09/06/2023,Associé,a.bouhamama@imadis.fr,Lyon,Nuit,2023-06-09 20:00:00,2023-06-10 08:00:00,Chef de site,,PDS,BOUHAMAMA Amine,20:00:00,08:00:00,20:00:00 - 08:00:00
 09/06/2023,Interne,s.pivet@imadis.fr,Lyon,Nuit,2023-06-09 20:00:00,2023-06-10 08:00:00,,,PDS,PIVET Sébastien,20:00:00,08:00:00,20:00:00 - 08:00:00
 09/06/2023,Associé,a.tavernier@imadis.fr,Lyon,Nuit,2023-06-09 20:00:00,2023-06-10 08:00:00,,,PDS,TAVERNIER Alexandra,20:00:00,08:00:00,20:00:00 - 08:00:00
-09/06/2023,Thèsé,r.ameli@imadis.fr,Lyon,Nuit,2023-06-09 20:00:00,2023-06-10 08:00:00,,,PDS,AMELI Roxana,20:00:00,08:00:00,20:00:00 - 08:00:00
 09/06/2023,Interne,b.marchi@imadis.fr,Marseille,Nuit,2023-06-09 20:00:00,2023-06-10 08:00:00,,,PDS,MARCHI Baptiste,20:00:00,08:00:00,20:00:00 - 08:00:00
 09/06/2023,Interne,a.planche@imadis.fr,Marseille,Nuit,2023-06-09 20:00:00,2023-06-10 08:00:00,Chef de site,,PDS,PLANCHE Antoine,20:00:00,08:00:00,20:00:00 - 08:00:00
 09/06/2023,Interne,m.le-floch@imadis.fr,Rennes,Nuit,2023-06-09 20:00:00,2023-06-10 08:00:00,,,PDS,LE FLOCH Mathilde,20:00:00,08:00:00,20:00:00 - 08:00:00
@@ -2181,21 +2199,22 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 09/06/2023,Associé,p.boureille@imadis.fr,St etienne,Nuit,2023-06-09 20:00:00,2023-06-10 08:00:00,,,PDS,BOUREILLE Pierre,20:00:00,08:00:00,20:00:00 - 08:00:00
 09/06/2023,Associé,b.delorme@imadis.fr,St etienne,Nuit,2023-06-09 20:00:00,2023-06-10 08:00:00,Chef de site,,PDS,DELORME Bérengère,20:00:00,08:00:00,20:00:00 - 08:00:00
 09/06/2023,Associé,o.delache@imadis.fr,Rennes,Nuit,2023-06-09 21:00:00,2023-06-10 08:00:00,Chef de site,,PDS,DELACHE Ondine,21:00:00,08:00:00,21:00:00 - 08:00:00
-10/06/2023,Associé,n.magand@imadis.fr,St etienne,Journée,2023-06-10 07:00:00,2023-06-10 12:00:00,Chef de garde,,PDS,MAGAND Nicolas,07:00:00,12:00:00,07:00:00 - 12:00:00
-10/06/2023,,,,Journée,2023-06-10 07:00:00,2023-06-10 13:00:00,,,PDS,A POURVOIR A pourvoir,07:00:00,13:00:00,07:00:00 - 13:00:00
+10/06/2023,,,,Journée,2023-06-10 07:00:00,2023-06-10 12:00:00,,,PDS,A POURVOIR A pourvoir,07:00:00,12:00:00,07:00:00 - 12:00:00
+10/06/2023,Associé,b.gianelli@imadis.fr,Rennes,Journée,2023-06-10 07:00:00,2023-06-10 13:00:00,,,PDS,GIANELLI Benoit,07:00:00,13:00:00,07:00:00 - 13:00:00
 10/06/2023,Associé,j.hermant@imadis.fr,Lyon,Journée,2023-06-10 08:00:00,2023-06-10 18:00:00,Chef de garde,,PDS,HERMANT Julien,08:00:00,18:00:00,08:00:00 - 18:00:00
 10/06/2023,Thèsé,n.deabreu@imadis.fr,Clermont-ferrand,Journée,2023-06-10 08:00:00,2023-06-10 20:00:00,Chef de site,,PDS,DE ABREU Nicolas,08:00:00,20:00:00,08:00:00 - 20:00:00
 10/06/2023,Thèsé,m.paillet@imadis.fr,Clermont-ferrand,Journée,2023-06-10 08:00:00,2023-06-10 20:00:00,,,PDS,PAILLET Mathilde,08:00:00,20:00:00,08:00:00 - 20:00:00
 10/06/2023,Interne,f.gallissot@imadis.fr,Dijon,Journée,2023-06-10 08:00:00,2023-06-10 20:00:00,,,PDS,GALLISSOT Felix,08:00:00,20:00:00,08:00:00 - 20:00:00
 10/06/2023,Associé,m.lanouziere@imadis.fr,Dijon,Journée,2023-06-10 08:00:00,2023-06-10 20:00:00,Chef de site,,PDS,LANOUZIERE Morgane,08:00:00,20:00:00,08:00:00 - 20:00:00
 10/06/2023,Thèsé,a.belassein@imadis.fr,Lyon,Journée,2023-06-10 08:00:00,2023-06-10 20:00:00,,,PDS,BELASSEIN Abigael,08:00:00,20:00:00,08:00:00 - 20:00:00
-10/06/2023,,,,Journée,2023-06-10 09:00:00,2023-06-10 13:00:00,,,PDS,A POURVOIR A pourvoir,09:00:00,13:00:00,09:00:00 - 13:00:00
 10/06/2023,Interne,m.gargiulo@imadis.fr,Marseille,Journée,2023-06-10 09:00:00,2023-06-10 13:00:00,,F2,PDS,GARGIULO Manuel,09:00:00,13:00:00,09:00:00 - 13:00:00
+10/06/2023,Interne,j.panneau@imadis.fr,Marseille,Journée,2023-06-10 09:00:00,2023-06-10 13:00:00,,,PDS,PANNEAU Julien,09:00:00,13:00:00,09:00:00 - 13:00:00
 10/06/2023,Associé,r.peyre@imadis.fr,Marseille,Journée,2023-06-10 09:00:00,2023-06-10 13:00:00,,F2,PDS,PEYRE Rémi,09:00:00,13:00:00,09:00:00 - 13:00:00
 10/06/2023,Thèsé,f.cadour@imadis.fr,Marseille,Journée,2023-06-10 09:00:00,2023-06-10 20:00:00,Chef de site,,PDS,CADOUR Farah,09:00:00,20:00:00,09:00:00 - 20:00:00
 10/06/2023,Associé,p.lemardele@imadis.fr,Bordeaux,Journée,2023-06-10 10:00:00,2023-06-10 19:00:00,Chef de site,,PDS,LEMARDELE Pierre,10:00:00,19:00:00,10:00:00 - 19:00:00
-10/06/2023,,,Bordeaux,Journée,2023-06-10 10:00:00,2023-06-10 20:00:00,,,PDS,A POURVOIR A pourvoir,10:00:00,20:00:00,10:00:00 - 20:00:00
+10/06/2023,Thèsé,c.dandache@imadis.fr,Lyon,Journée,2023-06-10 10:00:00,2023-06-10 20:00:00,,,PDS,DANDACHE Celia,10:00:00,20:00:00,10:00:00 - 20:00:00
 10/06/2023,Thèsé,christine.renault_saillard@yahoo.fr,Lyon,Journée,2023-06-10 12:00:00,2023-06-10 21:00:00,,,PDS,RENAULT Christine,12:00:00,21:00:00,12:00:00 - 21:00:00
+10/06/2023,,,,Journée,2023-06-10 13:00:00,2023-06-10 19:00:00,,,PDS,A POURVOIR A pourvoir,13:00:00,19:00:00,13:00:00 - 19:00:00
 10/06/2023,Associé,r.peyre@imadis.fr,Marseille,Journée,2023-06-10 13:00:00,2023-06-10 19:00:00,,,PDS,PEYRE Rémi,13:00:00,19:00:00,13:00:00 - 19:00:00
 10/06/2023,Interne,m.gargiulo@imadis.fr,Marseille,Journée,2023-06-10 14:00:00,2023-06-10 19:00:00,,F3,PDS,GARGIULO Manuel,14:00:00,19:00:00,14:00:00 - 19:00:00
 10/06/2023,Interne,i.messalti@imadis.fr,Lyon,Nuit,2023-06-10 18:00:00,2023-06-11 01:00:00,,,PDS,MESSALTI Inès,18:00:00,01:00:00,18:00:00 - 01:00:00
@@ -2225,8 +2244,8 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 11/06/2023,Interne,m.tas@imadis.fr,Rennes,Journée,2023-06-11 08:00:00,2023-06-11 20:00:00,,,PDS,TAS Marine,08:00:00,20:00:00,08:00:00 - 20:00:00
 11/06/2023,Associé,p.boureille@imadis.fr,St etienne,Journée,2023-06-11 09:00:00,2023-06-11 21:00:00,Chef de site,,PDS,BOUREILLE Pierre,09:00:00,21:00:00,09:00:00 - 21:00:00
 11/06/2023,Thèsé,a.habchi-hamiane@imadis.fr,St etienne,Journée,2023-06-11 09:00:00,2023-06-11 21:00:00,,,PDS,HABCHI HAMIANE Asma,09:00:00,21:00:00,09:00:00 - 21:00:00
-11/06/2023,Interne,j.cali@imadis.fr,Lyon,Journée,2023-06-11 10:00:00,2023-06-11 19:00:00,,,PDS,CALI  Jory,10:00:00,19:00:00,10:00:00 - 19:00:00
 11/06/2023,Associé,b.gianelli@imadis.fr,Rennes,Journée,2023-06-11 10:00:00,2023-06-11 19:00:00,,,PDS,GIANELLI Benoit,10:00:00,19:00:00,10:00:00 - 19:00:00
+11/06/2023,Interne,j.cali@imadis.fr,Lyon,Nuit,2023-06-11 10:30:00,2023-06-11 19:00:00,,,PDS,CALI  Jory,10:30:00,19:00:00,10:30:00 - 19:00:00
 11/06/2023,Associé,o.delache@imadis.fr,Rennes,Journée,2023-06-11 12:00:00,2023-06-11 19:00:00,,,PDS,DELACHE Ondine,12:00:00,19:00:00,12:00:00 - 19:00:00
 11/06/2023,Interne,p.baseilhac@imadis.fr,Lyon,Nuit,2023-06-11 18:00:00,2023-06-12 08:00:00,,,PDS,BASEILHAC Pierre,18:00:00,08:00:00,18:00:00 - 08:00:00
 11/06/2023,,,,Nuit,2023-06-11 19:00:00,2023-06-12 08:00:00,,,PDS,A POURVOIR A pourvoir,19:00:00,08:00:00,19:00:00 - 08:00:00
@@ -2241,8 +2260,8 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 11/06/2023,Interne,i.gallot@imadis.fr,Lyon,Nuit,2023-06-11 20:00:00,2023-06-12 08:00:00,,,PDS,GALLOT Ines,20:00:00,08:00:00,20:00:00 - 08:00:00
 11/06/2023,Associé,a.bencheikh@imadis.fr,Lyon,Nuit,2023-06-11 20:00:00,2023-06-12 08:00:00,,,PDS,BEN CHEIKH Alexandre,20:00:00,08:00:00,20:00:00 - 08:00:00
 11/06/2023,Associé,n.girouin@imadis.fr,Lyon,Nuit,2023-06-11 20:00:00,2023-06-12 08:00:00,Chef de garde,,PDS,GIROUIN Nicolas,20:00:00,08:00:00,20:00:00 - 08:00:00
-11/06/2023,,,Rennes,Nuit,2023-06-11 20:00:00,2023-06-12 08:00:00,,,PDS,A POURVOIR A pourvoir,20:00:00,08:00:00,20:00:00 - 08:00:00
 11/06/2023,Associé,b.gianelli@imadis.fr,Rennes,Nuit,2023-06-11 20:00:00,2023-06-12 08:00:00,Chef de site,,PDS,GIANELLI Benoit,20:00:00,08:00:00,20:00:00 - 08:00:00
+11/06/2023,Interne,b.lode@imadis.fr,Rennes,Nuit,2023-06-11 20:00:00,2023-06-12 08:00:00,,,PDS,LODE Baptiste,20:00:00,08:00:00,20:00:00 - 08:00:00
 11/06/2023,Thèsé,d.cohen@imadis.fr,Lyon,Nuit,2023-06-11 21:00:00,2023-06-12 08:00:00,,,PDS,COHEN David,21:00:00,08:00:00,21:00:00 - 08:00:00
 12/06/2023,,,,Nuit,2023-06-12 18:00:00,2023-06-12 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 12/06/2023,,,,Nuit,2023-06-12 18:00:00,2023-06-12 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
@@ -2252,32 +2271,33 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 12/06/2023,Interne,v.vadot@imadis.fr,Dijon,Nuit,2023-06-12 18:00:00,2023-06-12 20:00:00,,,PDS,VADOT Valentin,18:00:00,20:00:00,18:00:00 - 20:00:00
 12/06/2023,Interne,c.gazagne@imadis.fr,Marseille,Nuit,2023-06-12 18:00:00,2023-06-12 20:00:00,,,PDS,GAZAGNE Camille,18:00:00,20:00:00,18:00:00 - 20:00:00
 12/06/2023,Interne,m.stoppa@imadis.fr,Marseille,Nuit,2023-06-12 18:00:00,2023-06-12 20:00:00,,,PDS,STOPPA Margaux,18:00:00,20:00:00,18:00:00 - 20:00:00
-12/06/2023,Associé,j.hissier@imadis.fr,Rennes,Nuit,2023-06-12 18:00:00,2023-06-12 20:00:00,,,PDS,HISSIER Julien,18:00:00,20:00:00,18:00:00 - 20:00:00
+12/06/2023,Associé,j.hissier@imadis.fr,Rennes,Nuit,2023-06-12 18:00:00,2023-06-12 20:00:00,Chef de site,,PDS,HISSIER Julien,18:00:00,20:00:00,18:00:00 - 20:00:00
 12/06/2023,Interne,p.cixous@imadis.fr,St etienne,Nuit,2023-06-12 18:00:00,2023-06-12 20:00:00,,,PDS,CIXOUS Pierre,18:00:00,20:00:00,18:00:00 - 20:00:00
 12/06/2023,Interne,s.bencheikh@imadis.fr,Bordeaux,Nuit,2023-06-12 18:00:00,2023-06-12 21:00:00,,,PDS,BENCHEIKH Sami,18:00:00,21:00:00,18:00:00 - 21:00:00
 12/06/2023,Thèsé,as.guerard@imadis.fr,Rennes,Nuit,2023-06-12 19:00:00,2023-06-12 20:00:00,,,PDS,GUERARD Anne-sophie,19:00:00,20:00:00,19:00:00 - 20:00:00
-12/06/2023,Interne,n.erhart@imadis.fr,Rennes,Nuit,2023-06-12 20:00:00,2023-06-13 01:00:00,,,PDS,ERHART Nora,20:00:00,01:00:00,20:00:00 - 01:00:00
-12/06/2023,Associé,s.mvouama@imadis.fr,Dijon,Nuit,2023-06-12 20:00:00,2023-06-13 02:00:00,,,PDS,MVOUAMA Ségolène,20:00:00,02:00:00,20:00:00 - 02:00:00
+12/06/2023,Interne,n.erhart@imadis.fr,Rennes,Nuit,2023-06-12 20:00:00,2023-06-13 01:00:00,Chef de site,,PDS,ERHART Nora,20:00:00,01:00:00,20:00:00 - 01:00:00
+12/06/2023,Associé,s.mvouama@imadis.fr,Dijon,Nuit,2023-06-12 20:00:00,2023-06-13 02:00:00,Chef de site,,PDS,MVOUAMA Ségolène,20:00:00,02:00:00,20:00:00 - 02:00:00
 12/06/2023,Interne,v.vadot@imadis.fr,Dijon,Nuit,2023-06-12 20:00:00,2023-06-13 02:00:00,,,PDS,VADOT Valentin,20:00:00,02:00:00,20:00:00 - 02:00:00
 12/06/2023,Associé,f.grangeon@imadis.fr,Lyon,Nuit,2023-06-12 20:00:00,2023-06-13 02:00:00,,,PDS,GRANGEON Flavia,20:00:00,02:00:00,20:00:00 - 02:00:00
 12/06/2023,Interne,t.linet@imadis.fr,Bordeaux,Nuit,2023-06-12 20:00:00,2023-06-13 08:00:00,,,PDS,LINET Thomas,20:00:00,08:00:00,20:00:00 - 08:00:00
-12/06/2023,Thèsé,i.molina@imadis.fr,Bordeaux,Nuit,2023-06-12 20:00:00,2023-06-13 08:00:00,,,PDS,MOLINA Isabelle,20:00:00,08:00:00,20:00:00 - 08:00:00
+12/06/2023,Thèsé,i.molina@imadis.fr,Bordeaux,Nuit,2023-06-12 20:00:00,2023-06-13 08:00:00,Chef de site,,PDS,MOLINA Isabelle,20:00:00,08:00:00,20:00:00 - 08:00:00
 12/06/2023,Thèsé,j.delorme@imadis.fr,Lyon,Nuit,2023-06-12 20:00:00,2023-06-13 08:00:00,,,PDS,DELORME Jeff,20:00:00,08:00:00,20:00:00 - 08:00:00
 12/06/2023,Associé,m.fillon@imadis.fr,Lyon,Nuit,2023-06-12 20:00:00,2023-06-13 08:00:00,,,PDS,FILLON Marie,20:00:00,08:00:00,20:00:00 - 08:00:00
-12/06/2023,Associé,a.galan@imadis.fr,Lyon,Nuit,2023-06-12 20:00:00,2023-06-13 08:00:00,,,PDS,GALAN Alexandre,20:00:00,08:00:00,20:00:00 - 08:00:00
+12/06/2023,Associé,a.galan@imadis.fr,Lyon,Nuit,2023-06-12 20:00:00,2023-06-13 08:00:00,Chef de garde,,PDS,GALAN Alexandre,20:00:00,08:00:00,20:00:00 - 08:00:00
 12/06/2023,Associé,l.malaureille@imadis.fr,Lyon,Nuit,2023-06-12 20:00:00,2023-06-13 08:00:00,,,PDS,MALAUREILLE Lison,20:00:00,08:00:00,20:00:00 - 08:00:00
-12/06/2023,Associé,f.arnaud@imadis.fr,Marseille,Nuit,2023-06-12 20:00:00,2023-06-13 08:00:00,,,PDS,ARNAUD François,20:00:00,08:00:00,20:00:00 - 08:00:00
+12/06/2023,Associé,f.arnaud@imadis.fr,Marseille,Nuit,2023-06-12 20:00:00,2023-06-13 08:00:00,Chef de site,,PDS,ARNAUD François,20:00:00,08:00:00,20:00:00 - 08:00:00
 12/06/2023,Interne,c.riviere@imadis.fr,Marseille,Nuit,2023-06-12 20:00:00,2023-06-13 08:00:00,,,PDS,RIVIERE Constance,20:00:00,08:00:00,20:00:00 - 08:00:00
 12/06/2023,Thèsé,as.guerard@imadis.fr,Rennes,Nuit,2023-06-12 20:00:00,2023-06-13 08:00:00,,,PDS,GUERARD Anne-sophie,20:00:00,08:00:00,20:00:00 - 08:00:00
 12/06/2023,Interne,l.meinsohn@imadis.fr,Rennes,Nuit,2023-06-12 20:00:00,2023-06-13 08:00:00,,,PDS,MEINSOHN Ludwig,20:00:00,08:00:00,20:00:00 - 08:00:00
 12/06/2023,,,St etienne,Nuit,2023-06-12 20:00:00,2023-06-13 08:00:00,,,PDS,A POURVOIR A pourvoir,20:00:00,08:00:00,20:00:00 - 08:00:00
 12/06/2023,Interne,p.cixous@imadis.fr,St etienne,Nuit,2023-06-12 20:00:00,2023-06-13 08:00:00,,,PDS,CIXOUS Pierre,20:00:00,08:00:00,20:00:00 - 08:00:00
 13/06/2023,Associé,a.albat@imadis.fr,Bordeaux,Journée,2023-06-13 10:00:00,2023-06-13 12:00:00,,F5,PDS,ALBAT Agnès,10:00:00,12:00:00,10:00:00 - 12:00:00
+13/06/2023,Interne,s.bencheikh@imadis.fr,Bordeaux,Journée,2023-06-13 10:00:00,2023-06-13 12:00:00,,F5,PDS,BENCHEIKH Sami,10:00:00,12:00:00,10:00:00 - 12:00:00
 13/06/2023,Associé,h.nivet@imadis.fr,Bordeaux,Journée,2023-06-13 10:00:00,2023-06-13 12:00:00,,F5,PDS,NIVET Hubert,10:00:00,12:00:00,10:00:00 - 12:00:00
 13/06/2023,,,,Nuit,2023-06-13 18:00:00,2023-06-13 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 13/06/2023,,,,Nuit,2023-06-13 18:00:00,2023-06-13 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 13/06/2023,Associé,a.albat@imadis.fr,Bordeaux,Nuit,2023-06-13 18:00:00,2023-06-13 20:00:00,,,PDS,ALBAT Agnès,18:00:00,20:00:00,18:00:00 - 20:00:00
-13/06/2023,Associé,a.crombe@imadis.fr,Bordeaux,Nuit,2023-06-13 18:00:00,2023-06-13 20:00:00,,,PDS,CROMBE Amandine,18:00:00,20:00:00,18:00:00 - 20:00:00
+13/06/2023,Associé,a.crombe@imadis.fr,Bordeaux,Nuit,2023-06-13 18:00:00,2023-06-13 20:00:00,Chef de site,,PDS,CROMBE Amandine,18:00:00,20:00:00,18:00:00 - 20:00:00
 13/06/2023,Interne,a.braillon@imadis.fr,Lyon,Nuit,2023-06-13 18:00:00,2023-06-13 20:00:00,,,PDS,BRAILLON Alexandra,18:00:00,20:00:00,18:00:00 - 20:00:00
 13/06/2023,Associé,s.dehbi@imadis.fr,Lyon,Nuit,2023-06-13 18:00:00,2023-06-13 20:00:00,,,PDS,DEHBI Sabrina,18:00:00,20:00:00,18:00:00 - 20:00:00
 13/06/2023,Associé,b.gianelli@imadis.fr,Rennes,Nuit,2023-06-13 18:00:00,2023-06-13 20:00:00,,,PDS,GIANELLI Benoit,18:00:00,20:00:00,18:00:00 - 20:00:00
@@ -2286,12 +2306,12 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 13/06/2023,Interne,a.teston@imadis.fr,St etienne,Nuit,2023-06-13 18:00:00,2023-06-13 20:00:00,,,PDS,TESTON Anthony,18:00:00,20:00:00,18:00:00 - 20:00:00
 13/06/2023,Associé,s.asfari@imadis.fr,Lyon,Nuit,2023-06-13 18:00:00,2023-06-13 21:00:00,,,PDS,ASFARI Stéphane,18:00:00,21:00:00,18:00:00 - 21:00:00
 13/06/2023,,,,Nuit,2023-06-13 19:00:00,2023-06-13 20:00:00,,,PDS,A POURVOIR A pourvoir,19:00:00,20:00:00,19:00:00 - 20:00:00
-13/06/2023,Thèsé,a.asuncion@imadis.fr,Clermont-ferrand,Nuit,2023-06-13 20:00:00,2023-06-14 01:00:00,,,PDS,ASUNCION Audrey,20:00:00,01:00:00,20:00:00 - 01:00:00
+13/06/2023,Thèsé,a.asuncion@imadis.fr,Clermont-ferrand,Nuit,2023-06-13 20:00:00,2023-06-14 01:00:00,Chef de site,,PDS,ASUNCION Audrey,20:00:00,01:00:00,20:00:00 - 01:00:00
 13/06/2023,Interne,a.lefloch@imadis.fr,Bordeaux,Nuit,2023-06-13 20:00:00,2023-06-14 02:00:00,,,PDS,LE FLOCH Agathe,20:00:00,02:00:00,20:00:00 - 02:00:00
 13/06/2023,Thèsé,m.franz@imadis.fr,Clermont-ferrand,Nuit,2023-06-13 20:00:00,2023-06-14 02:00:00,,,PDS,FRANZ Martin,20:00:00,02:00:00,20:00:00 - 02:00:00
 13/06/2023,Associé,c.chevalier@imadis.fr,St etienne,Nuit,2023-06-13 20:00:00,2023-06-14 02:00:00,,,PDS,CHEVALIER Clément,20:00:00,02:00:00,20:00:00 - 02:00:00
 13/06/2023,Associé,a.crombe@imadis.fr,Bordeaux,Nuit,2023-06-13 20:00:00,2023-06-14 08:00:00,,,PDS,CROMBE Amandine,20:00:00,08:00:00,20:00:00 - 08:00:00
-13/06/2023,Associé,p.etchart@imadis.fr,Bordeaux,Nuit,2023-06-13 20:00:00,2023-06-14 08:00:00,,,PDS,ETCHART Paul,20:00:00,08:00:00,20:00:00 - 08:00:00
+13/06/2023,Associé,p.etchart@imadis.fr,Bordeaux,Nuit,2023-06-13 20:00:00,2023-06-14 08:00:00,Chef de site,,PDS,ETCHART Paul,20:00:00,08:00:00,20:00:00 - 08:00:00
 13/06/2023,Associé,d.fadli@imadis.fr,Bordeaux,Nuit,2023-06-13 20:00:00,2023-06-14 08:00:00,,,PDS,FADLI David,20:00:00,08:00:00,20:00:00 - 08:00:00
 13/06/2023,Interne,m.bouquerel@imadis.fr,Lyon,Nuit,2023-06-13 20:00:00,2023-06-14 08:00:00,,,PDS,BOUQUEREL Marie,20:00:00,08:00:00,20:00:00 - 08:00:00
 13/06/2023,Interne,a.cierco@imadis.fr,Lyon,Nuit,2023-06-13 20:00:00,2023-06-14 08:00:00,,,PDS,CIERCO Alexandra,20:00:00,08:00:00,20:00:00 - 08:00:00
@@ -2300,7 +2320,7 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 13/06/2023,Associé,m.laubacher@imadis.fr,Lyon,Nuit,2023-06-13 20:00:00,2023-06-14 08:00:00,,,PDS,LAUBACHER Morgane,20:00:00,08:00:00,20:00:00 - 08:00:00
 13/06/2023,Associé,b.porta@imadis.fr,Lyon,Nuit,2023-06-13 20:00:00,2023-06-14 08:00:00,Chef de garde,,PDS,PORTA Basile,20:00:00,08:00:00,20:00:00 - 08:00:00
 13/06/2023,Interne,l.grange@imadis.fr,St etienne,Nuit,2023-06-13 20:00:00,2023-06-14 08:00:00,,,PDS,GRANGE Loic,20:00:00,08:00:00,20:00:00 - 08:00:00
-13/06/2023,Associé,a.mayaud@imadis.fr,St etienne,Nuit,2023-06-13 20:00:00,2023-06-14 08:00:00,,,PDS,MAYAUD Alexandre,20:00:00,08:00:00,20:00:00 - 08:00:00
+13/06/2023,Associé,a.mayaud@imadis.fr,St etienne,Nuit,2023-06-13 20:00:00,2023-06-14 08:00:00,Chef de site,,PDS,MAYAUD Alexandre,20:00:00,08:00:00,20:00:00 - 08:00:00
 13/06/2023,Interne,a.teston@imadis.fr,St etienne,Nuit,2023-06-13 20:00:00,2023-06-14 08:00:00,,,PDS,TESTON Anthony,20:00:00,08:00:00,20:00:00 - 08:00:00
 14/06/2023,,,,Nuit,2023-06-14 18:00:00,2023-06-14 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 14/06/2023,,,,Nuit,2023-06-14 18:00:00,2023-06-14 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
@@ -2310,15 +2330,15 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 14/06/2023,Interne,v.michel@imadis.fr,Lyon,Nuit,2023-06-14 18:00:00,2023-06-14 20:00:00,,,PDS,MICHEL Vincent,18:00:00,20:00:00,18:00:00 - 20:00:00
 14/06/2023,Thèsé,e.ruaux@imadis.fr,Lyon,Nuit,2023-06-14 18:00:00,2023-06-14 20:00:00,,,PDS,RUAUX Edouard,18:00:00,20:00:00,18:00:00 - 20:00:00
 14/06/2023,Associé,a.bencheikh@imadis.fr,Lyon,Nuit,2023-06-14 18:00:00,2023-06-14 20:00:00,,,PDS,BEN CHEIKH Alexandre,18:00:00,20:00:00,18:00:00 - 20:00:00
-14/06/2023,Associé,pf.chaillot@imadis.fr,Lyon,Nuit,2023-06-14 18:00:00,2023-06-14 20:00:00,,,PDS,CHAILLOT Pierre-fleury,18:00:00,20:00:00,18:00:00 - 20:00:00
+14/06/2023,Associé,pf.chaillot@imadis.fr,Lyon,Nuit,2023-06-14 18:00:00,2023-06-14 20:00:00,Chef de site,,PDS,CHAILLOT Pierre-fleury,18:00:00,20:00:00,18:00:00 - 20:00:00
 14/06/2023,Interne,c.gazagne@imadis.fr,Marseille,Nuit,2023-06-14 18:00:00,2023-06-14 20:00:00,,,PDS,GAZAGNE Camille,18:00:00,20:00:00,18:00:00 - 20:00:00
 14/06/2023,,,,Nuit,2023-06-14 18:00:00,2023-06-14 21:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,21:00:00,18:00:00 - 21:00:00
 14/06/2023,,,,Nuit,2023-06-14 19:00:00,2023-06-14 20:00:00,,,PDS,A POURVOIR A pourvoir,19:00:00,20:00:00,19:00:00 - 20:00:00
-14/06/2023,Interne,j.cali@imadis.fr,Dijon,Nuit,2023-06-14 20:00:00,2023-06-15 01:00:00,,,PDS,CALI  Jory,20:00:00,01:00:00,20:00:00 - 01:00:00
+14/06/2023,Interne,j.cali@imadis.fr,Dijon,Nuit,2023-06-14 20:00:00,2023-06-15 01:00:00,Chef de site,,PDS,CALI  Jory,20:00:00,01:00:00,20:00:00 - 01:00:00
 14/06/2023,Interne,a.mitaine@imadis.fr,Dijon,Nuit,2023-06-14 20:00:00,2023-06-15 02:00:00,,,PDS,MITAINE Aurore,20:00:00,02:00:00,20:00:00 - 02:00:00
 14/06/2023,Associé,m.chamakh@imadis.fr,Lyon,Nuit,2023-06-14 20:00:00,2023-06-15 02:00:00,,,PDS,CHAMAKH Mounir,20:00:00,02:00:00,20:00:00 - 02:00:00
 14/06/2023,Associé,g.buisson@imadis.fr,Lyon,Nuit,2023-06-14 20:00:00,2023-06-15 02:00:00,,,PDS,BUISSON Guillaume,20:00:00,02:00:00,20:00:00 - 02:00:00
-14/06/2023,Associé,a.coussy@imadis.fr,Bordeaux,Nuit,2023-06-14 20:00:00,2023-06-15 08:00:00,,,PDS,COUSSY Alexis,20:00:00,08:00:00,20:00:00 - 08:00:00
+14/06/2023,Associé,a.coussy@imadis.fr,Bordeaux,Nuit,2023-06-14 20:00:00,2023-06-15 08:00:00,Chef de site,,PDS,COUSSY Alexis,20:00:00,08:00:00,20:00:00 - 08:00:00
 14/06/2023,Associé,e.salet@imadis.fr,Bordeaux,Nuit,2023-06-14 20:00:00,2023-06-15 08:00:00,,,PDS,SALET Etienne,20:00:00,08:00:00,20:00:00 - 08:00:00
 14/06/2023,Interne,d.gicquel@imadis.fr,Lyon,Nuit,2023-06-14 20:00:00,2023-06-15 08:00:00,,,PDS,GICQUEL David,20:00:00,08:00:00,20:00:00 - 08:00:00
 14/06/2023,Associé,o.koubaity@imadis.fr,Lyon,Nuit,2023-06-14 20:00:00,2023-06-15 08:00:00,,,PDS,KOUBAITY Omar,20:00:00,08:00:00,20:00:00 - 08:00:00
@@ -2328,74 +2348,73 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 14/06/2023,Associé,f.bratan@imadis.fr,Lyon,Nuit,2023-06-14 20:00:00,2023-06-15 08:00:00,Chef de garde,,PDS,BRATAN Flavie,20:00:00,08:00:00,20:00:00 - 08:00:00
 14/06/2023,Associé,e.souverain@imadis.fr,Lyon,Nuit,2023-06-14 20:00:00,2023-06-15 08:00:00,,,PDS,SOUVERAIN Elodie,20:00:00,08:00:00,20:00:00 - 08:00:00
 14/06/2023,Interne,t.agripnidis@imadis.fr,Marseille,Nuit,2023-06-14 20:00:00,2023-06-15 08:00:00,,,PDS,AGRIPNIDIS Thibault,20:00:00,08:00:00,20:00:00 - 08:00:00
-14/06/2023,Interne,r.sarkissian@imadis.fr,Marseille,Nuit,2023-06-14 20:00:00,2023-06-15 08:00:00,,,PDS,SARKISSIAN Robin,20:00:00,08:00:00,20:00:00 - 08:00:00
+14/06/2023,Interne,r.sarkissian@imadis.fr,Marseille,Nuit,2023-06-14 20:00:00,2023-06-15 08:00:00,Chef de site,,PDS,SARKISSIAN Robin,20:00:00,08:00:00,20:00:00 - 08:00:00
 14/06/2023,Interne,s.vingadassalom@imadis.fr,Marseille,Nuit,2023-06-14 20:00:00,2023-06-15 08:00:00,,,PDS,VINGADASSALOM Sivadji,20:00:00,08:00:00,20:00:00 - 08:00:00
 15/06/2023,,,,Nuit,2023-06-15 18:00:00,2023-06-15 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
+15/06/2023,,,,Journée,2023-06-15 18:00:00,2023-06-15 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 15/06/2023,,,,Nuit,2023-06-15 18:00:00,2023-06-15 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 15/06/2023,,,,Nuit,2023-06-15 18:00:00,2023-06-15 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 15/06/2023,,,,Nuit,2023-06-15 18:00:00,2023-06-15 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 15/06/2023,,,,Nuit,2023-06-15 18:00:00,2023-06-15 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 15/06/2023,,,,Nuit,2023-06-15 18:00:00,2023-06-15 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 15/06/2023,Interne,v.vadot@imadis.fr,Dijon,Nuit,2023-06-15 18:00:00,2023-06-15 20:00:00,,,PDS,VADOT Valentin,18:00:00,20:00:00,18:00:00 - 20:00:00
-15/06/2023,Associé,a.allary@imadis.fr,Marseille,Nuit,2023-06-15 18:00:00,2023-06-15 20:00:00,,,PDS,ALLARY Alexandre,18:00:00,20:00:00,18:00:00 - 20:00:00
 15/06/2023,Associé,t.laurendon@imadis.fr,Marseille,Nuit,2023-06-15 18:00:00,2023-06-15 20:00:00,,,PDS,LAURENDON Thomas,18:00:00,20:00:00,18:00:00 - 20:00:00
-15/06/2023,Associé,b.gianelli@imadis.fr,Rennes,Nuit,2023-06-15 18:00:00,2023-06-15 20:00:00,,,PDS,GIANELLI Benoit,18:00:00,20:00:00,18:00:00 - 20:00:00
+15/06/2023,Associé,b.gianelli@imadis.fr,Rennes,Nuit,2023-06-15 18:00:00,2023-06-15 20:00:00,Chef de site,,PDS,GIANELLI Benoit,18:00:00,20:00:00,18:00:00 - 20:00:00
 15/06/2023,Thèsé,f.cadour@imadis.fr,Marseille,Nuit,2023-06-15 18:00:00,2023-06-15 21:00:00,,,PDS,CADOUR Farah,18:00:00,21:00:00,18:00:00 - 21:00:00
-15/06/2023,Associé,m.glenat@imadis.fr,Lyon,Nuit,2023-06-15 19:00:00,2023-06-15 20:00:00,,,PDS,GLENAT Manfred,19:00:00,20:00:00,19:00:00 - 20:00:00
-15/06/2023,Thèsé,d.da-ines@imadis.fr,Clermont-ferrand,Nuit,2023-06-15 20:00:00,2023-06-16 01:00:00,,,PDS,DA INES David,20:00:00,01:00:00,20:00:00 - 01:00:00
+15/06/2023,Associé,a.allary@imadis.fr,Marseille,Nuit,2023-06-15 19:00:00,2023-06-16 08:00:00,Chef de site,,PDS,ALLARY Alexandre,19:00:00,08:00:00,19:00:00 - 08:00:00
+15/06/2023,Thèsé,d.da-ines@imadis.fr,Clermont-ferrand,Nuit,2023-06-15 20:00:00,2023-06-16 01:00:00,Chef de site,,PDS,DA INES David,20:00:00,01:00:00,20:00:00 - 01:00:00
+15/06/2023,,,,Nuit,2023-06-15 20:00:00,2023-06-16 02:00:00,,,PDS,A POURVOIR A pourvoir,20:00:00,02:00:00,20:00:00 - 02:00:00
 15/06/2023,Thèsé,pf.montoriol@imadis.fr,Clermont-ferrand,Nuit,2023-06-15 20:00:00,2023-06-16 02:00:00,,,PDS,MONTORIOL Pierre francois,20:00:00,02:00:00,20:00:00 - 02:00:00
 15/06/2023,Associé,n.favard@imadis.fr,Lyon,Nuit,2023-06-15 20:00:00,2023-06-16 02:00:00,,,PDS,FAVARD Nicolas,20:00:00,02:00:00,20:00:00 - 02:00:00
-15/06/2023,Associé,m.glenat@imadis.fr,Lyon,Nuit,2023-06-15 20:00:00,2023-06-16 02:00:00,,,PDS,GLENAT Manfred,20:00:00,02:00:00,20:00:00 - 02:00:00
 15/06/2023,Interne,p.maas@imadis.fr,Bordeaux,Nuit,2023-06-15 20:00:00,2023-06-16 08:00:00,,,PDS,MAAS Philippe,20:00:00,08:00:00,20:00:00 - 08:00:00
-15/06/2023,Associé,e.stephant@imadis.fr,Bordeaux,Nuit,2023-06-15 20:00:00,2023-06-16 08:00:00,,,PDS,STEPHANT Eric,20:00:00,08:00:00,20:00:00 - 08:00:00
+15/06/2023,Associé,e.stephant@imadis.fr,Bordeaux,Nuit,2023-06-15 20:00:00,2023-06-16 08:00:00,Chef de site,,PDS,STEPHANT Eric,20:00:00,08:00:00,20:00:00 - 08:00:00
 15/06/2023,Thèsé,a.belassein@imadis.fr,Lyon,Nuit,2023-06-15 20:00:00,2023-06-16 08:00:00,,,PDS,BELASSEIN Abigael,20:00:00,08:00:00,20:00:00 - 08:00:00
 15/06/2023,Interne,je.delpon@imadis.fr,Lyon,Nuit,2023-06-15 20:00:00,2023-06-16 08:00:00,,,PDS,DELPON Jean etienne,20:00:00,08:00:00,20:00:00 - 08:00:00
 15/06/2023,Associé,f.gay@imadis.fr,Lyon,Nuit,2023-06-15 20:00:00,2023-06-16 08:00:00,Chef de garde,,PDS,GAY Frédérique,20:00:00,08:00:00,20:00:00 - 08:00:00
 15/06/2023,Interne,m.trintignac@imadis.fr,Lyon,Nuit,2023-06-15 20:00:00,2023-06-16 08:00:00,,,PDS,TRINTIGNAC Mathilde,20:00:00,08:00:00,20:00:00 - 08:00:00
 15/06/2023,Associé,m.abihanna@imadis.fr,Lyon,Nuit,2023-06-15 20:00:00,2023-06-16 08:00:00,,,PDS,ABIHANNA Michel,20:00:00,08:00:00,20:00:00 - 08:00:00
-15/06/2023,Associé,a.allary@imadis.fr,Marseille,Nuit,2023-06-15 20:00:00,2023-06-16 08:00:00,,,PDS,ALLARY Alexandre,20:00:00,08:00:00,20:00:00 - 08:00:00
 15/06/2023,Associé,t.laurendon@imadis.fr,Marseille,Nuit,2023-06-15 20:00:00,2023-06-16 08:00:00,,,PDS,LAURENDON Thomas,20:00:00,08:00:00,20:00:00 - 08:00:00
 15/06/2023,Associé,j.touati@imadis.fr,Marseille,Nuit,2023-06-15 20:00:00,2023-06-16 08:00:00,,,PDS,TOUATI Julian,20:00:00,08:00:00,20:00:00 - 08:00:00
 15/06/2023,Associé,b.gianelli@imadis.fr,Rennes,Nuit,2023-06-15 20:00:00,2023-06-16 08:00:00,,,PDS,GIANELLI Benoit,20:00:00,08:00:00,20:00:00 - 08:00:00
-15/06/2023,Associé,a.poulin@imadis.fr,Rennes,Nuit,2023-06-15 20:00:00,2023-06-16 08:00:00,,,PDS,POULIN Alexandre,20:00:00,08:00:00,20:00:00 - 08:00:00
+15/06/2023,Associé,a.poulin@imadis.fr,Rennes,Nuit,2023-06-15 20:00:00,2023-06-16 08:00:00,Chef de site,,PDS,POULIN Alexandre,20:00:00,08:00:00,20:00:00 - 08:00:00
 16/06/2023,Interne,m.marchand@imadis.fr,Dijon,Nuit,2023-06-16 18:00:00,2023-06-17 01:00:00,,,PDS,MARCHAND Marc,18:00:00,01:00:00,18:00:00 - 01:00:00
-16/06/2023,,,,Nuit,2023-06-16 18:00:00,2023-06-16 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
-16/06/2023,,,,Nuit,2023-06-16 18:00:00,2023-06-16 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
-16/06/2023,,,,Nuit,2023-06-16 18:00:00,2023-06-16 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
-16/06/2023,,,,Nuit,2023-06-16 18:00:00,2023-06-16 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
-16/06/2023,Associé,v.herreros@imadis.fr,Dijon,Nuit,2023-06-16 18:00:00,2023-06-16 20:00:00,,,PDS,HERREROS Victor,18:00:00,20:00:00,18:00:00 - 20:00:00
+16/06/2023,Associé,v.herreros@imadis.fr,Dijon,Nuit,2023-06-16 18:00:00,2023-06-16 20:00:00,Chef de site,,PDS,HERREROS Victor,18:00:00,20:00:00,18:00:00 - 20:00:00
 16/06/2023,Interne,v.pinguet@imadis.fr,Dijon,Nuit,2023-06-16 18:00:00,2023-06-16 20:00:00,,,PDS,PINGUET Valentin,18:00:00,20:00:00,18:00:00 - 20:00:00
 16/06/2023,Thèsé,j.vatele@imadis.fr,Lyon,Nuit,2023-06-16 18:00:00,2023-06-16 20:00:00,,,PDS,VATELE Jordan,18:00:00,20:00:00,18:00:00 - 20:00:00
 16/06/2023,Interne,h.monnier@imadis.fr,Marseille,Nuit,2023-06-16 18:00:00,2023-06-16 20:00:00,,,PDS,MONNIER Hippolyte,18:00:00,20:00:00,18:00:00 - 20:00:00
 16/06/2023,Associé,r.peyre@imadis.fr,Marseille,Nuit,2023-06-16 18:00:00,2023-06-16 20:00:00,,,PDS,PEYRE Rémi,18:00:00,20:00:00,18:00:00 - 20:00:00
 16/06/2023,Thèsé,p.lapeine@imadis.fr,St etienne,Nuit,2023-06-16 18:00:00,2023-06-16 20:00:00,,,PDS,LAPEINE Philippe,18:00:00,20:00:00,18:00:00 - 20:00:00
 16/06/2023,Thèsé,v.monnerie@imadis.fr,St etienne,Nuit,2023-06-16 18:00:00,2023-06-16 20:00:00,,,PDS,MONNERIE Véronique,18:00:00,20:00:00,18:00:00 - 20:00:00
+16/06/2023,,,,Journée,2023-06-16 18:00:00,2023-06-16 21:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,21:00:00,18:00:00 - 21:00:00
 16/06/2023,,,,Nuit,2023-06-16 18:00:00,2023-06-16 21:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,21:00:00,18:00:00 - 21:00:00
+16/06/2023,,,,Journée,2023-06-16 18:00:00,2023-06-16 21:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,21:00:00,18:00:00 - 21:00:00
+16/06/2023,,,,Journée,2023-06-16 18:00:00,2023-06-16 21:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,21:00:00,18:00:00 - 21:00:00
+16/06/2023,,,,Journée,2023-06-16 18:00:00,2023-06-16 21:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,21:00:00,18:00:00 - 21:00:00
 16/06/2023,Interne,m.cheddad@imadis.fr,Brest,Nuit,2023-06-16 19:00:00,2023-06-16 20:00:00,,,PDS,CHEDDAD Mourad,19:00:00,20:00:00,19:00:00 - 20:00:00
 16/06/2023,Interne,q.patriat@imadis.fr,Dijon,Nuit,2023-06-16 20:00:00,2023-06-17 01:00:00,,,PDS,PATRIAT Quentin,20:00:00,01:00:00,20:00:00 - 01:00:00
-16/06/2023,Associé,v.herreros@imadis.fr,Dijon,Nuit,2023-06-16 20:00:00,2023-06-17 02:00:00,,,PDS,HERREROS Victor,20:00:00,02:00:00,20:00:00 - 02:00:00
-16/06/2023,Interne,v.pinguet@imadis.fr,Dijon,Nuit,2023-06-16 20:00:00,2023-06-17 02:00:00,,,PDS,PINGUET Valentin,20:00:00,02:00:00,20:00:00 - 02:00:00
 16/06/2023,Associé,pf.lintingre@imadis.fr,Bordeaux,Nuit,2023-06-16 20:00:00,2023-06-17 08:00:00,,,PDS,LINTINGRE Pierre-francois,20:00:00,08:00:00,20:00:00 - 08:00:00
 16/06/2023,Associé,n.lippa@imadis.fr,Bordeaux,Nuit,2023-06-16 20:00:00,2023-06-17 08:00:00,Chef de garde,,PDS,LIPPA Nicolas,20:00:00,08:00:00,20:00:00 - 08:00:00
 16/06/2023,Interne,jd.maes@imadis.fr,Bordeaux,Nuit,2023-06-16 20:00:00,2023-06-17 08:00:00,,,PDS,MAES Jean-david,20:00:00,08:00:00,20:00:00 - 08:00:00
 16/06/2023,Interne,d.planes@imadis.fr,Bordeaux,Nuit,2023-06-16 20:00:00,2023-06-17 08:00:00,,,PDS,PLANES David,20:00:00,08:00:00,20:00:00 - 08:00:00
 16/06/2023,Interne,manon-du-ragueneau@hotmail.fr,Bordeaux,Nuit,2023-06-16 20:00:00,2023-06-17 08:00:00,,,PDS,POUVREAU Manon,20:00:00,08:00:00,20:00:00 - 08:00:00
-16/06/2023,Thèsé,w.bran@imadis.fr,Brest,Nuit,2023-06-16 20:00:00,2023-06-17 08:00:00,,,PDS,BRAN William,20:00:00,08:00:00,20:00:00 - 08:00:00
+16/06/2023,Thèsé,w.bran@imadis.fr,Brest,Nuit,2023-06-16 20:00:00,2023-06-17 08:00:00,Chef de site,,PDS,BRAN William,20:00:00,08:00:00,20:00:00 - 08:00:00
 16/06/2023,Interne,m.cheddad@imadis.fr,Brest,Nuit,2023-06-16 20:00:00,2023-06-17 08:00:00,,,PDS,CHEDDAD Mourad,20:00:00,08:00:00,20:00:00 - 08:00:00
-16/06/2023,Associé,f.alonzo@imadis.fr,Lyon,Nuit,2023-06-16 20:00:00,2023-06-17 08:00:00,,,PDS,ALONZO LACROIX Florian,20:00:00,08:00:00,20:00:00 - 08:00:00
+16/06/2023,Associé,f.alonzo@imadis.fr,Lyon,Nuit,2023-06-16 20:00:00,2023-06-17 08:00:00,Chef de site,,PDS,ALONZO LACROIX Florian,20:00:00,08:00:00,20:00:00 - 08:00:00
 16/06/2023,Thèsé,t.de-misouard@imadis.fr,Lyon,Nuit,2023-06-16 20:00:00,2023-06-17 08:00:00,,,PDS,DE MISOUARD Thibaut,20:00:00,08:00:00,20:00:00 - 08:00:00
 16/06/2023,Interne,d.philippe@imadis.fr,Lyon,Nuit,2023-06-16 20:00:00,2023-06-17 08:00:00,,,PDS,PHILIPPE Diane,20:00:00,08:00:00,20:00:00 - 08:00:00
 16/06/2023,Thèsé,j.vatele@imadis.fr,Lyon,Nuit,2023-06-16 20:00:00,2023-06-17 08:00:00,,,PDS,VATELE Jordan,20:00:00,08:00:00,20:00:00 - 08:00:00
 16/06/2023,Interne,im.ben-rejeb@imadis.fr,Marseille,Nuit,2023-06-16 20:00:00,2023-06-17 08:00:00,,,PDS,BEN REJEB Ilyess mohamed,20:00:00,08:00:00,20:00:00 - 08:00:00
-16/06/2023,Interne,h.monnier@imadis.fr,Marseille,Nuit,2023-06-16 20:00:00,2023-06-17 08:00:00,,,PDS,MONNIER Hippolyte,20:00:00,08:00:00,20:00:00 - 08:00:00
-16/06/2023,Associé,r.peyre@imadis.fr,Marseille,Nuit,2023-06-16 20:00:00,2023-06-17 08:00:00,,,PDS,PEYRE Rémi,20:00:00,08:00:00,20:00:00 - 08:00:00
+16/06/2023,Associé,v.herreros@imadis.fr,Dijon,Nuit,2023-06-16 21:00:00,2023-06-17 02:00:00,Chef de site,,PDS,HERREROS Victor,21:00:00,02:00:00,21:00:00 - 02:00:00
+16/06/2023,Interne,v.pinguet@imadis.fr,Dijon,Nuit,2023-06-16 21:00:00,2023-06-17 02:00:00,,,PDS,PINGUET Valentin,21:00:00,02:00:00,21:00:00 - 02:00:00
+16/06/2023,Interne,h.monnier@imadis.fr,Marseille,Nuit,2023-06-16 21:00:00,2023-06-17 08:00:00,,,PDS,MONNIER Hippolyte,21:00:00,08:00:00,21:00:00 - 08:00:00
+16/06/2023,Associé,r.peyre@imadis.fr,Marseille,Nuit,2023-06-16 21:00:00,2023-06-17 08:00:00,Chef de site,,PDS,PEYRE Rémi,21:00:00,08:00:00,21:00:00 - 08:00:00
 17/06/2023,Associé,b.delorme@imadis.fr,St etienne,Journée,2023-06-17 07:00:00,2023-06-17 12:00:00,,,PDS,DELORME Bérengère,07:00:00,12:00:00,07:00:00 - 12:00:00
 17/06/2023,Associé,s.mvouama@imadis.fr,Dijon,Journée,2023-06-17 07:00:00,2023-06-17 13:00:00,,,PDS,MVOUAMA Ségolène,07:00:00,13:00:00,07:00:00 - 13:00:00
 17/06/2023,Interne,a.goetz@imadis.fr,Clermont-ferrand,Journée,2023-06-17 08:00:00,2023-06-17 19:00:00,,,PDS,GOETZ Arnaud,08:00:00,19:00:00,08:00:00 - 19:00:00
-17/06/2023,Thèsé,g.lienemann@imadis.fr,Clermont-ferrand,Journée,2023-06-17 08:00:00,2023-06-17 19:00:00,,,PDS,LIENEMANN Guillaume,08:00:00,19:00:00,08:00:00 - 19:00:00
+17/06/2023,Thèsé,g.lienemann@imadis.fr,Clermont-ferrand,Journée,2023-06-17 08:00:00,2023-06-17 19:00:00,Chef de site,,PDS,LIENEMANN Guillaume,08:00:00,19:00:00,08:00:00 - 19:00:00
 17/06/2023,Interne,s.mezher@imadis.fr,Clermont-ferrand,Journée,2023-06-17 08:00:00,2023-06-17 20:00:00,,,PDS,MEZHER Sami,08:00:00,20:00:00,08:00:00 - 20:00:00
-17/06/2023,Interne,t.bonnefoy@imadis.fr,Dijon,Journée,2023-06-17 08:00:00,2023-06-17 20:00:00,,,PDS,BONNEFOY  Théo,08:00:00,20:00:00,08:00:00 - 20:00:00
-17/06/2023,Associé,o.preteseille@imadis.fr,St etienne,Journée,2023-06-17 08:00:00,2023-06-17 20:00:00,,,PDS,PRETESEILLE Olivier,08:00:00,20:00:00,08:00:00 - 20:00:00
+17/06/2023,Interne,t.bonnefoy@imadis.fr,Dijon,Journée,2023-06-17 08:00:00,2023-06-17 20:00:00,Chef de site,,PDS,BONNEFOY  Théo,08:00:00,20:00:00,08:00:00 - 20:00:00
+17/06/2023,Associé,o.preteseille@imadis.fr,St etienne,Journée,2023-06-17 08:00:00,2023-06-17 20:00:00,Chef de site,,PDS,PRETESEILLE Olivier,08:00:00,20:00:00,08:00:00 - 20:00:00
 17/06/2023,Interne,a.mekki@imadis.fr,Lyon,Journée,2023-06-17 08:00:00,2023-06-17 21:00:00,,,PDS,MEKKI Amine,08:00:00,21:00:00,08:00:00 - 21:00:00
 17/06/2023,Associé,m.chamakh@imadis.fr,Lyon,Journée,2023-06-17 09:00:00,2023-06-17 18:00:00,Chef de garde,,PDS,CHAMAKH Mounir,09:00:00,18:00:00,09:00:00 - 18:00:00
 17/06/2023,Interne,m.maldinez@imadis.fr,Lyon,Journée,2023-06-17 09:00:00,2023-06-17 18:00:00,,,PDS,MALDINEZ Mickaël,09:00:00,18:00:00,09:00:00 - 18:00:00
@@ -2404,39 +2423,39 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 17/06/2023,Interne,r.bottero@imadis.fr,Lyon,Journée,2023-06-17 12:00:00,2023-06-17 19:00:00,,,PDS,BOTTERO Rodolphe,12:00:00,19:00:00,12:00:00 - 19:00:00
 17/06/2023,Interne,f.billard@imadis.fr,Rennes,Nuit,2023-06-17 18:00:00,2023-06-18 01:00:00,,,PDS,BILLARD Félix,18:00:00,01:00:00,18:00:00 - 01:00:00
 17/06/2023,,,Marseille,Nuit,2023-06-17 18:00:00,2023-06-18 08:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,08:00:00,18:00:00 - 08:00:00
-17/06/2023,Interne,jf.aita@imadis.fr,Marseille,Nuit,2023-06-17 18:00:00,2023-06-18 08:00:00,,,PDS,AITA Jean-françois,18:00:00,08:00:00,18:00:00 - 08:00:00
+17/06/2023,Interne,jf.aita@imadis.fr,Marseille,Nuit,2023-06-17 18:00:00,2023-06-18 08:00:00,Chef de site,,PDS,AITA Jean-françois,18:00:00,08:00:00,18:00:00 - 08:00:00
 17/06/2023,Interne,t.vivarrat-perrin@imadis.fr,Marseille,Nuit,2023-06-17 18:00:00,2023-06-18 08:00:00,,,PDS,VIVARRAT-PERRIN Thomas,18:00:00,08:00:00,18:00:00 - 08:00:00
 17/06/2023,Associé,m.chamakh@imadis.fr,Lyon,Nuit,2023-06-17 19:00:00,2023-06-18 08:00:00,Chef de garde,,PDS,CHAMAKH Mounir,19:00:00,08:00:00,19:00:00 - 08:00:00
 17/06/2023,Interne,m.maldinez@imadis.fr,Lyon,Nuit,2023-06-17 19:00:00,2023-06-18 08:00:00,,,PDS,MALDINEZ Mickaël,19:00:00,08:00:00,19:00:00 - 08:00:00
 17/06/2023,Interne,d.pavie@imadis.fr,Lyon,Nuit,2023-06-17 19:00:00,2023-06-18 08:00:00,,,PDS,PAVIE Dylan,19:00:00,08:00:00,19:00:00 - 08:00:00
 17/06/2023,Interne,julietteco1996@gmail.com,Rennes,Nuit,2023-06-17 19:00:00,2023-06-18 08:00:00,,,PDS,COUSIN Juliette,19:00:00,08:00:00,19:00:00 - 08:00:00
-17/06/2023,Associé,b.gianelli@imadis.fr,Rennes,Nuit,2023-06-17 19:00:00,2023-06-18 08:00:00,,,PDS,GIANELLI Benoit,19:00:00,08:00:00,19:00:00 - 08:00:00
+17/06/2023,Associé,b.gianelli@imadis.fr,Rennes,Nuit,2023-06-17 19:00:00,2023-06-18 08:00:00,Chef de site,,PDS,GIANELLI Benoit,19:00:00,08:00:00,19:00:00 - 08:00:00
 17/06/2023,Interne,a.goetz@imadis.fr,Clermont-ferrand,Nuit,2023-06-17 20:00:00,2023-06-18 01:00:00,,,PDS,GOETZ Arnaud,20:00:00,01:00:00,20:00:00 - 01:00:00
-17/06/2023,Thèsé,g.lienemann@imadis.fr,Clermont-ferrand,Nuit,2023-06-17 20:00:00,2023-06-18 02:00:00,,,PDS,LIENEMANN Guillaume,20:00:00,02:00:00,20:00:00 - 02:00:00
+17/06/2023,Thèsé,g.lienemann@imadis.fr,Clermont-ferrand,Nuit,2023-06-17 20:00:00,2023-06-18 02:00:00,Chef de site,,PDS,LIENEMANN Guillaume,20:00:00,02:00:00,20:00:00 - 02:00:00
 17/06/2023,Associé,m.beyragued@imadis.fr,Lyon,Nuit,2023-06-17 20:00:00,2023-06-18 02:00:00,,,PDS,BEYRAGUED Mehdi,20:00:00,02:00:00,20:00:00 - 02:00:00
+17/06/2023,,,,Nuit,2023-06-17 20:00:00,2023-06-18 08:00:00,,,PDS,A POURVOIR A pourvoir,20:00:00,08:00:00,20:00:00 - 08:00:00
 17/06/2023,Interne,r.bottero@imadis.fr,Lyon,Nuit,2023-06-17 20:00:00,2023-06-18 08:00:00,,,PDS,BOTTERO Rodolphe,20:00:00,08:00:00,20:00:00 - 08:00:00
 17/06/2023,Associé,n.banaste@imadis.fr,Lyon,Nuit,2023-06-17 20:00:00,2023-06-18 08:00:00,,,PDS,BANASTE Nathan,20:00:00,08:00:00,20:00:00 - 08:00:00
 17/06/2023,Interne,b.chalamet@imadis.fr,Lyon,Nuit,2023-06-17 20:00:00,2023-06-18 08:00:00,,,PDS,CHALAMET Bastien,20:00:00,08:00:00,20:00:00 - 08:00:00
-17/06/2023,Associé,l.malaureille@imadis.fr,Lyon,Nuit,2023-06-17 20:00:00,2023-06-18 08:00:00,,,PDS,MALAUREILLE Lison,20:00:00,08:00:00,20:00:00 - 08:00:00
 17/06/2023,Interne,a.quirantes@imadis.fr,Lyon,Nuit,2023-06-17 20:00:00,2023-06-18 08:00:00,,,PDS,QUIRANTES Alexis,20:00:00,08:00:00,20:00:00 - 08:00:00
 17/06/2023,Interne,n.stacoffe@imadis.fr,Lyon,Nuit,2023-06-17 20:00:00,2023-06-18 08:00:00,,,PDS,STACOFFE Nicolas,20:00:00,08:00:00,20:00:00 - 08:00:00
 18/06/2023,Thèsé,t.morcet-delattre@imadis.fr,Lyon,Journée,2023-06-18 07:00:00,2023-06-18 12:00:00,,,PDS,MORCET-DELATTRE Thibaud,07:00:00,12:00:00,07:00:00 - 12:00:00
 18/06/2023,Thèsé,d.benkhalifa@imadis.fr,Lyon,Journée,2023-06-18 08:00:00,2023-06-18 20:00:00,,,PDS,BENKHALIFA David,08:00:00,20:00:00,08:00:00 - 20:00:00
 18/06/2023,Interne,m.deiri@imadis.fr,Lyon,Journée,2023-06-18 08:00:00,2023-06-18 20:00:00,,,PDS,DEIRI Mays,08:00:00,20:00:00,08:00:00 - 20:00:00
 18/06/2023,Thèsé,j.vatele@imadis.fr,Lyon,Journée,2023-06-18 08:00:00,2023-06-18 20:00:00,,,PDS,VATELE Jordan,08:00:00,20:00:00,08:00:00 - 20:00:00
-18/06/2023,Interne,n.fabiani@imadis.fr,Marseille,Journée,2023-06-18 08:00:00,2023-06-18 20:00:00,,,PDS,FABIANI Noeline,08:00:00,20:00:00,08:00:00 - 20:00:00
+18/06/2023,Interne,n.fabiani@imadis.fr,Marseille,Journée,2023-06-18 08:00:00,2023-06-18 20:00:00,Chef de site,,PDS,FABIANI Noeline,08:00:00,20:00:00,08:00:00 - 20:00:00
 18/06/2023,Thèsé,v.crepin@imadis.fr,Rennes,Journée,2023-06-18 08:00:00,2023-06-18 20:00:00,,,PDS,CREPIN Valentine,08:00:00,20:00:00,08:00:00 - 20:00:00
-18/06/2023,Associé,j.hissier@imadis.fr,Rennes,Journée,2023-06-18 08:00:00,2023-06-18 20:00:00,,,PDS,HISSIER Julien,08:00:00,20:00:00,08:00:00 - 20:00:00
+18/06/2023,Associé,j.hissier@imadis.fr,Rennes,Journée,2023-06-18 08:00:00,2023-06-18 20:00:00,Chef de site,,PDS,HISSIER Julien,08:00:00,20:00:00,08:00:00 - 20:00:00
 18/06/2023,Associé,t.jurkovic@imadis.fr,Lyon,Journée,2023-06-18 09:00:00,2023-06-18 19:00:00,Chef de garde,,PDS,JURKOVIC Thomas,09:00:00,19:00:00,09:00:00 - 19:00:00
-18/06/2023,Interne,t.dos-santos@imadis.fr,Marseille,Journée,2023-06-18 09:00:00,2023-06-18 20:00:00,,,PDS,DOS SANTOS Thomas,09:00:00,20:00:00,09:00:00 - 20:00:00
+18/06/2023,,,Marseille,Journée,2023-06-18 09:00:00,2023-06-18 20:00:00,,,PDS,A POURVOIR A pourvoir,09:00:00,20:00:00,09:00:00 - 20:00:00
 18/06/2023,Thèsé,e.tommasino@imadis.fr,Lyon,Journée,2023-06-18 10:00:00,2023-06-18 19:00:00,,,PDS,TOMMASINO Emanuele,10:00:00,19:00:00,10:00:00 - 19:00:00
 18/06/2023,Interne,b.lode@imadis.fr,Rennes,Journée,2023-06-18 10:00:00,2023-06-18 20:00:00,,,PDS,LODE Baptiste,10:00:00,20:00:00,10:00:00 - 20:00:00
 18/06/2023,Thèsé,c.seiler@imadis.fr,Marseille,Journée,2023-06-18 12:00:00,2023-06-18 21:00:00,,,PDS,SEILER Charlotte,12:00:00,21:00:00,12:00:00 - 21:00:00
 18/06/2023,Interne,p.maas@imadis.fr,Bordeaux,Nuit,2023-06-18 18:00:00,2023-06-19 08:00:00,,,PDS,MAAS Philippe,18:00:00,08:00:00,18:00:00 - 08:00:00
 18/06/2023,Interne,h.sans@imadis.fr,Bordeaux,Nuit,2023-06-18 19:00:00,2023-06-19 08:00:00,,,PDS,SANS Hugo,19:00:00,08:00:00,19:00:00 - 08:00:00
 18/06/2023,Interne,m.serani@imadis.fr,Bordeaux,Nuit,2023-06-18 19:00:00,2023-06-19 08:00:00,,,PDS,SERANI Marina,19:00:00,08:00:00,19:00:00 - 08:00:00
-18/06/2023,Associé,v.herreros@imadis.fr,Dijon,Nuit,2023-06-18 20:00:00,2023-06-19 01:00:00,,,PDS,HERREROS Victor,20:00:00,01:00:00,20:00:00 - 01:00:00
-18/06/2023,Associé,p.etchart@imadis.fr,Bordeaux,Nuit,2023-06-18 20:00:00,2023-06-19 02:00:00,,,PDS,ETCHART Paul,20:00:00,02:00:00,20:00:00 - 02:00:00
+18/06/2023,Associé,v.herreros@imadis.fr,Dijon,Nuit,2023-06-18 20:00:00,2023-06-19 01:00:00,Chef de site,,PDS,HERREROS Victor,20:00:00,01:00:00,20:00:00 - 01:00:00
+18/06/2023,Associé,p.etchart@imadis.fr,Bordeaux,Nuit,2023-06-18 20:00:00,2023-06-19 02:00:00,Chef de site,,PDS,ETCHART Paul,20:00:00,02:00:00,20:00:00 - 02:00:00
 18/06/2023,Associé,a.acquier@imadis.fr,Dijon,Nuit,2023-06-18 20:00:00,2023-06-19 02:00:00,,,PDS,ACQUIER Adrien,20:00:00,02:00:00,20:00:00 - 02:00:00
 18/06/2023,Interne,r.sarkissian@imadis.fr,Marseille,Nuit,2023-06-18 20:00:00,2023-06-19 02:00:00,,,PDS,SARKISSIAN Robin,20:00:00,02:00:00,20:00:00 - 02:00:00
 18/06/2023,Interne,v.michel@imadis.fr,Lyon,Nuit,2023-06-18 20:00:00,2023-06-19 08:00:00,,,PDS,MICHEL Vincent,20:00:00,08:00:00,20:00:00 - 08:00:00
@@ -2445,7 +2464,7 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 18/06/2023,Thèsé,e.tommasino@imadis.fr,Lyon,Nuit,2023-06-18 20:00:00,2023-06-19 08:00:00,,,PDS,TOMMASINO Emanuele,20:00:00,08:00:00,20:00:00 - 08:00:00
 18/06/2023,Associé,g.bouquet@imadis.fr,Lyon,Nuit,2023-06-18 20:00:00,2023-06-19 08:00:00,,,PDS,BOUQUET Gregoire,20:00:00,08:00:00,20:00:00 - 08:00:00
 18/06/2023,Associé,t.jurkovic@imadis.fr,Lyon,Nuit,2023-06-18 20:00:00,2023-06-19 08:00:00,Chef de garde,,PDS,JURKOVIC Thomas,20:00:00,08:00:00,20:00:00 - 08:00:00
-18/06/2023,Associé,a.perrey@imadis.fr,Marseille,Nuit,2023-06-18 20:00:00,2023-06-19 08:00:00,,,PDS,PERREY Antoine,20:00:00,08:00:00,20:00:00 - 08:00:00
+18/06/2023,Associé,a.perrey@imadis.fr,Marseille,Nuit,2023-06-18 20:00:00,2023-06-19 08:00:00,Chef de site,,PDS,PERREY Antoine,20:00:00,08:00:00,20:00:00 - 08:00:00
 18/06/2023,Associé,j.touati@imadis.fr,Marseille,Nuit,2023-06-18 20:00:00,2023-06-19 08:00:00,,,PDS,TOUATI Julian,20:00:00,08:00:00,20:00:00 - 08:00:00
 18/06/2023,Thèsé,m.raykova@imadis.fr,Bordeaux,Nuit,2023-06-18 21:00:00,2023-06-19 08:00:00,,,PDS,RAYKOVA Mariya,21:00:00,08:00:00,21:00:00 - 08:00:00
 19/06/2023,,,,Nuit,2023-06-19 18:00:00,2023-06-19 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
@@ -2460,6 +2479,8 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 19/06/2023,Interne,b.lode@imadis.fr,Rennes,Nuit,2023-06-19 18:00:00,2023-06-19 20:00:00,,,PDS,LODE Baptiste,18:00:00,20:00:00,18:00:00 - 20:00:00
 19/06/2023,,,,Nuit,2023-06-19 18:00:00,2023-06-19 21:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,21:00:00,18:00:00 - 21:00:00
 19/06/2023,Thèsé,e.bardoux@imadis.fr,Bordeaux,Nuit,2023-06-19 19:00:00,2023-06-19 20:00:00,,,PDS,BARDOUX Elise,19:00:00,20:00:00,19:00:00 - 20:00:00
+19/06/2023,Interne,jf.aita@imadis.fr,Marseille,Journée,2023-06-19 19:00:00,2023-06-19 21:00:00,,F4,PDS,AITA Jean-françois,19:00:00,21:00:00,19:00:00 - 21:00:00
+19/06/2023,Associé,m.dibisceglie@imadis.fr,Marseille,Journée,2023-06-19 19:00:00,2023-06-19 21:00:00,,F4,PDS,DI BISCEGLIE Mathieu,19:00:00,21:00:00,19:00:00 - 21:00:00
 19/06/2023,Thèsé,a.asuncion@imadis.fr,Clermont-ferrand,Nuit,2023-06-19 20:00:00,2023-06-20 01:00:00,,,PDS,ASUNCION Audrey,20:00:00,01:00:00,20:00:00 - 01:00:00
 19/06/2023,Interne,a.cailler@imadis.fr,Clermont-ferrand,Nuit,2023-06-19 20:00:00,2023-06-20 02:00:00,,,PDS,CAILLER Alexis,20:00:00,02:00:00,20:00:00 - 02:00:00
 19/06/2023,Associé,a.dabadie@imadis.fr,Marseille,Nuit,2023-06-19 20:00:00,2023-06-20 02:00:00,,,PDS,DABADIE Alexia,20:00:00,02:00:00,20:00:00 - 02:00:00
@@ -2476,7 +2497,8 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 19/06/2023,Interne,b.lode@imadis.fr,Rennes,Nuit,2023-06-19 20:00:00,2023-06-20 08:00:00,,,PDS,LODE Baptiste,20:00:00,08:00:00,20:00:00 - 08:00:00
 19/06/2023,Interne,b.convers@imadis.fr,St etienne,Nuit,2023-06-19 20:00:00,2023-06-20 08:00:00,,,PDS,CONVERS Bérénice,20:00:00,08:00:00,20:00:00 - 08:00:00
 19/06/2023,Thèsé,c.extrat@imadis.fr,St etienne,Nuit,2023-06-19 20:00:00,2023-06-20 08:00:00,,,PDS,EXTRAT Chloé,20:00:00,08:00:00,20:00:00 - 08:00:00
-20/06/2023,,,,Nuit,2023-06-20 18:00:00,2023-06-20 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
+20/06/2023,Interne,t.affole@imadis.fr,Rennes,Journée,2023-06-20 12:00:00,2023-06-20 14:00:00,,F4,PDS,AFFOLE Thibaut,12:00:00,14:00:00,12:00:00 - 14:00:00
+20/06/2023,Associé,c.mehier@imadis.fr,Rennes,Journée,2023-06-20 12:00:00,2023-06-20 14:00:00,,F4,PDS,MEHIER Clement,12:00:00,14:00:00,12:00:00 - 14:00:00
 20/06/2023,,,,Nuit,2023-06-20 18:00:00,2023-06-20 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 20/06/2023,,,,Nuit,2023-06-20 18:00:00,2023-06-20 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 20/06/2023,,,,Nuit,2023-06-20 18:00:00,2023-06-20 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
@@ -2485,9 +2507,10 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 20/06/2023,Interne,q.letty@imadis.fr,Lyon,Nuit,2023-06-20 18:00:00,2023-06-20 20:00:00,,,PDS,LETTY Quentin,18:00:00,20:00:00,18:00:00 - 20:00:00
 20/06/2023,Associé,v.thomson@imadis.fr,Lyon,Nuit,2023-06-20 18:00:00,2023-06-20 20:00:00,,,PDS,THOMSON Vivien,18:00:00,20:00:00,18:00:00 - 20:00:00
 20/06/2023,Interne,c.gazagne@imadis.fr,Marseille,Nuit,2023-06-20 18:00:00,2023-06-20 20:00:00,,,PDS,GAZAGNE Camille,18:00:00,20:00:00,18:00:00 - 20:00:00
+20/06/2023,Associé,r.peyre@imadis.fr,Marseille,Nuit,2023-06-20 18:00:00,2023-06-20 20:00:00,,,PDS,PEYRE Rémi,18:00:00,20:00:00,18:00:00 - 20:00:00
 20/06/2023,Interne,b.lode@imadis.fr,Rennes,Nuit,2023-06-20 18:00:00,2023-06-20 20:00:00,,,PDS,LODE Baptiste,18:00:00,20:00:00,18:00:00 - 20:00:00
 20/06/2023,,,,Nuit,2023-06-20 18:00:00,2023-06-20 21:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,21:00:00,18:00:00 - 21:00:00
-20/06/2023,,,,Nuit,2023-06-20 19:00:00,2023-06-20 20:00:00,,,PDS,A POURVOIR A pourvoir,19:00:00,20:00:00,19:00:00 - 20:00:00
+20/06/2023,Interne,emilienjd@hotmail.fr,Lyon,Nuit,2023-06-20 19:00:00,2023-06-20 20:00:00,,,PDS,JUPIN-DELEVAUX Emilien,19:00:00,20:00:00,19:00:00 - 20:00:00
 20/06/2023,Associé,b.porta@imadis.fr,Lyon,Nuit,2023-06-20 20:00:00,2023-06-21 01:00:00,,,PDS,PORTA Basile,20:00:00,01:00:00,20:00:00 - 01:00:00
 20/06/2023,Thèsé,n.deabreu@imadis.fr,Clermont-ferrand,Nuit,2023-06-20 20:00:00,2023-06-21 02:00:00,,,PDS,DE ABREU Nicolas,20:00:00,02:00:00,20:00:00 - 02:00:00
 20/06/2023,Interne,a.kanan@imadis.fr,Clermont-ferrand,Nuit,2023-06-20 20:00:00,2023-06-21 02:00:00,,,PDS,KANAN Achraf,20:00:00,02:00:00,20:00:00 - 02:00:00
@@ -2509,12 +2532,12 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 21/06/2023,,,,Nuit,2023-06-21 18:00:00,2023-06-21 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 21/06/2023,,,,Nuit,2023-06-21 18:00:00,2023-06-21 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 21/06/2023,,,,Nuit,2023-06-21 18:00:00,2023-06-21 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
-21/06/2023,,,,Nuit,2023-06-21 18:00:00,2023-06-21 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 21/06/2023,Associé,a.crombe@imadis.fr,Bordeaux,Nuit,2023-06-21 18:00:00,2023-06-21 20:00:00,,,PDS,CROMBE Amandine,18:00:00,20:00:00,18:00:00 - 20:00:00
 21/06/2023,Associé,a.acquier@imadis.fr,Dijon,Nuit,2023-06-21 18:00:00,2023-06-21 20:00:00,,,PDS,ACQUIER Adrien,18:00:00,20:00:00,18:00:00 - 20:00:00
 21/06/2023,Interne,j.cali@imadis.fr,Dijon,Nuit,2023-06-21 18:00:00,2023-06-21 20:00:00,,,PDS,CALI  Jory,18:00:00,20:00:00,18:00:00 - 20:00:00
+21/06/2023,Associé,l.perrier@imadis.fr,Lyon,Nuit,2023-06-21 18:00:00,2023-06-21 20:00:00,,,PDS,PERRIER Louis,18:00:00,20:00:00,18:00:00 - 20:00:00
 21/06/2023,Interne,a.teston@imadis.fr,St etienne,Nuit,2023-06-21 18:00:00,2023-06-21 20:00:00,,,PDS,TESTON Anthony,18:00:00,20:00:00,18:00:00 - 20:00:00
-21/06/2023,,,,Nuit,2023-06-21 18:00:00,2023-06-21 21:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,21:00:00,18:00:00 - 21:00:00
+21/06/2023,Interne,b.lode@imadis.fr,Rennes,Nuit,2023-06-21 18:00:00,2023-06-21 21:00:00,,,PDS,LODE Baptiste,18:00:00,21:00:00,18:00:00 - 21:00:00
 21/06/2023,,,,Nuit,2023-06-21 19:00:00,2023-06-21 20:00:00,,,PDS,A POURVOIR A pourvoir,19:00:00,20:00:00,19:00:00 - 20:00:00
 21/06/2023,Interne,b.legghe@imadis.fr,Bordeaux,Nuit,2023-06-21 20:00:00,2023-06-22 01:00:00,,,PDS,LEGGHE Benoît,20:00:00,01:00:00,20:00:00 - 01:00:00
 21/06/2023,Associé,p.etchart@imadis.fr,Bordeaux,Nuit,2023-06-21 20:00:00,2023-06-22 02:00:00,,,PDS,ETCHART Paul,20:00:00,02:00:00,20:00:00 - 02:00:00
@@ -2540,16 +2563,16 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 22/06/2023,,,,Nuit,2023-06-22 18:00:00,2023-06-22 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 22/06/2023,,,,Nuit,2023-06-22 18:00:00,2023-06-22 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 22/06/2023,,,,Nuit,2023-06-22 18:00:00,2023-06-22 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
-22/06/2023,,,,Nuit,2023-06-22 18:00:00,2023-06-22 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 22/06/2023,Thèsé,a.schoettle@imadis.fr,Dijon,Nuit,2023-06-22 18:00:00,2023-06-22 20:00:00,,,PDS,SCHOETTLE Alexiane,18:00:00,20:00:00,18:00:00 - 20:00:00
 22/06/2023,Interne,v.siauve@imadis.fr,Dijon,Nuit,2023-06-22 18:00:00,2023-06-22 20:00:00,,,PDS,SIAUVE Valentin,18:00:00,20:00:00,18:00:00 - 20:00:00
+22/06/2023,Thèsé,e.ruaux@imadis.fr,Lyon,Nuit,2023-06-22 18:00:00,2023-06-22 20:00:00,,,PDS,RUAUX Edouard,18:00:00,20:00:00,18:00:00 - 20:00:00
 22/06/2023,Thèsé,c.extrat@imadis.fr,St etienne,Nuit,2023-06-22 18:00:00,2023-06-22 20:00:00,,,PDS,EXTRAT Chloé,18:00:00,20:00:00,18:00:00 - 20:00:00
 22/06/2023,Thèsé,s.roche@imadis.fr,Dijon,Nuit,2023-06-22 18:00:00,2023-06-22 21:00:00,,,PDS,ROCHE Stanislas,18:00:00,21:00:00,18:00:00 - 21:00:00
 22/06/2023,,,,Nuit,2023-06-22 19:00:00,2023-06-22 20:00:00,,,PDS,A POURVOIR A pourvoir,19:00:00,20:00:00,19:00:00 - 20:00:00
 22/06/2023,Associé,t.jurkovic@imadis.fr,Lyon,Nuit,2023-06-22 20:00:00,2023-06-23 01:00:00,,,PDS,JURKOVIC Thomas,20:00:00,01:00:00,20:00:00 - 01:00:00
+22/06/2023,,,,Nuit,2023-06-22 20:00:00,2023-06-23 02:00:00,,,PDS,A POURVOIR A pourvoir,20:00:00,02:00:00,20:00:00 - 02:00:00
 22/06/2023,Interne,m.marchand@imadis.fr,Dijon,Nuit,2023-06-22 20:00:00,2023-06-23 02:00:00,,,PDS,MARCHAND Marc,20:00:00,02:00:00,20:00:00 - 02:00:00
 22/06/2023,Thèsé,a.schoettle@imadis.fr,Dijon,Nuit,2023-06-22 20:00:00,2023-06-23 02:00:00,,,PDS,SCHOETTLE Alexiane,20:00:00,02:00:00,20:00:00 - 02:00:00
-22/06/2023,Associé,a.thivolet@imadis.fr,Lyon,Nuit,2023-06-22 20:00:00,2023-06-23 02:00:00,,,PDS,THIVOLET Arnaud,20:00:00,02:00:00,20:00:00 - 02:00:00
 22/06/2023,Interne,p.baseilhac@imadis.fr,Lyon,Nuit,2023-06-22 20:00:00,2023-06-23 08:00:00,,,PDS,BASEILHAC Pierre,20:00:00,08:00:00,20:00:00 - 08:00:00
 22/06/2023,Associé,l.chevallier@imadis.fr,Lyon,Nuit,2023-06-22 20:00:00,2023-06-23 08:00:00,,,PDS,CHEVALLIER Laurène,20:00:00,08:00:00,20:00:00 - 08:00:00
 22/06/2023,Interne,c.haeberle@imadis.fr,Lyon,Nuit,2023-06-22 20:00:00,2023-06-23 08:00:00,,,PDS,HAEBERLE Charles,20:00:00,08:00:00,20:00:00 - 08:00:00
@@ -2565,15 +2588,15 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 23/06/2023,Interne,a.mekki@imadis.fr,Lyon,Nuit,2023-06-23 18:00:00,2023-06-24 01:00:00,,,PDS,MEKKI Amine,18:00:00,01:00:00,18:00:00 - 01:00:00
 23/06/2023,,,,Nuit,2023-06-23 18:00:00,2023-06-23 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 23/06/2023,,,,Nuit,2023-06-23 18:00:00,2023-06-23 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
-23/06/2023,,,,Nuit,2023-06-23 18:00:00,2023-06-23 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
-23/06/2023,,,,Nuit,2023-06-23 18:00:00,2023-06-23 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
-23/06/2023,,,,Nuit,2023-06-23 18:00:00,2023-06-23 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 23/06/2023,Associé,m.martin@imadis.fr,Bordeaux,Nuit,2023-06-23 18:00:00,2023-06-23 20:00:00,,,PDS,MARTIN Manuel,18:00:00,20:00:00,18:00:00 - 20:00:00
 23/06/2023,Interne,a.cailler@imadis.fr,Clermont-ferrand,Nuit,2023-06-23 18:00:00,2023-06-23 20:00:00,,,PDS,CAILLER Alexis,18:00:00,20:00:00,18:00:00 - 20:00:00
 23/06/2023,Interne,j.cali@imadis.fr,Dijon,Nuit,2023-06-23 18:00:00,2023-06-23 20:00:00,,,PDS,CALI  Jory,18:00:00,20:00:00,18:00:00 - 20:00:00
 23/06/2023,Interne,a.branchu@imadis.fr,Lyon,Nuit,2023-06-23 18:00:00,2023-06-23 20:00:00,,,PDS,BRANCHU Arthur,18:00:00,20:00:00,18:00:00 - 20:00:00
 23/06/2023,Associé,t.laurendon@imadis.fr,Marseille,Nuit,2023-06-23 18:00:00,2023-06-23 20:00:00,,,PDS,LAURENDON Thomas,18:00:00,20:00:00,18:00:00 - 20:00:00
+23/06/2023,Interne,a.maurin@imadis.fr,Marseille,Nuit,2023-06-23 18:00:00,2023-06-23 20:00:00,,,PDS,MAURIN Arnaud,18:00:00,20:00:00,18:00:00 - 20:00:00
 23/06/2023,Interne,e.meneyrol@imadis.fr,Rennes,Nuit,2023-06-23 18:00:00,2023-06-23 20:00:00,,,PDS,MENEYROL Eric,18:00:00,20:00:00,18:00:00 - 20:00:00
+23/06/2023,Thèsé,p.lapeine@imadis.fr,St etienne,Nuit,2023-06-23 18:00:00,2023-06-23 20:00:00,,,PDS,LAPEINE Philippe,18:00:00,20:00:00,18:00:00 - 20:00:00
+23/06/2023,Thèsé,v.monnerie@imadis.fr,St etienne,Nuit,2023-06-23 18:00:00,2023-06-23 20:00:00,,,PDS,MONNERIE Véronique,18:00:00,20:00:00,18:00:00 - 20:00:00
 23/06/2023,Interne,q.patriat@imadis.fr,Dijon,Nuit,2023-06-23 18:00:00,2023-06-23 21:00:00,,,PDS,PATRIAT Quentin,18:00:00,21:00:00,18:00:00 - 21:00:00
 23/06/2023,Thèsé,a.lablee@imadis.fr,Rennes,Nuit,2023-06-23 19:00:00,2023-06-23 20:00:00,,,PDS,LABLEE Alexandre,19:00:00,20:00:00,19:00:00 - 20:00:00
 23/06/2023,Interne,a.cailler@imadis.fr,Clermont-ferrand,Nuit,2023-06-23 20:00:00,2023-06-24 01:00:00,,,PDS,CAILLER Alexis,20:00:00,01:00:00,20:00:00 - 01:00:00
@@ -2693,16 +2716,16 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 27/06/2023,Interne,s.bertholon@imadis.fr,St etienne,Nuit,2023-06-27 18:00:00,2023-06-27 20:00:00,,,PDS,BERTHOLON Sylvain,18:00:00,20:00:00,18:00:00 - 20:00:00
 27/06/2023,Thèsé,t.guyard@imadis.fr,Brest,Nuit,2023-06-27 18:00:00,2023-06-27 21:00:00,,,PDS,GUYARD Thibaut,18:00:00,21:00:00,18:00:00 - 21:00:00
 27/06/2023,Interne,h.monnier@imadis.fr,Marseille,Nuit,2023-06-27 19:00:00,2023-06-27 20:00:00,,,PDS,MONNIER Hippolyte,19:00:00,20:00:00,19:00:00 - 20:00:00
-27/06/2023,Associé,q.chuzel@imadis.fr,Lyon,Nuit,2023-06-27 20:00:00,2023-06-28 01:00:00,,,PDS,CHUZEL Quentin,20:00:00,01:00:00,20:00:00 - 01:00:00
+27/06/2023,,,,Nuit,2023-06-27 20:00:00,2023-06-28 01:00:00,,,PDS,A POURVOIR A pourvoir,20:00:00,01:00:00,20:00:00 - 01:00:00
 27/06/2023,Associé,j.coeur@imadis.fr,Lyon,Nuit,2023-06-27 20:00:00,2023-06-28 02:00:00,,,PDS,COEUR Jules,20:00:00,02:00:00,20:00:00 - 02:00:00
 27/06/2023,Interne,j.lavigne@imadis.fr,Lyon,Nuit,2023-06-27 20:00:00,2023-06-28 02:00:00,,,PDS,LAVIGNE Joris,20:00:00,02:00:00,20:00:00 - 02:00:00
 27/06/2023,Associé,c.chevalier@imadis.fr,St etienne,Nuit,2023-06-27 20:00:00,2023-06-28 02:00:00,,,PDS,CHEVALIER Clément,20:00:00,02:00:00,20:00:00 - 02:00:00
+27/06/2023,,,,Nuit,2023-06-27 20:00:00,2023-06-28 08:00:00,,,PDS,A POURVOIR A pourvoir,20:00:00,08:00:00,20:00:00 - 08:00:00
 27/06/2023,Interne,s.benhenda@imadis.fr,Bordeaux,Nuit,2023-06-27 20:00:00,2023-06-28 08:00:00,,,PDS,BENHENDA Samy,20:00:00,08:00:00,20:00:00 - 08:00:00
 27/06/2023,Associé,p.etchart@imadis.fr,Bordeaux,Nuit,2023-06-27 20:00:00,2023-06-28 08:00:00,Chef de garde,,PDS,ETCHART Paul,20:00:00,08:00:00,20:00:00 - 08:00:00
 27/06/2023,Associé,r.maaloum@imadis.fr,Bordeaux,Nuit,2023-06-27 20:00:00,2023-06-28 08:00:00,,,PDS,MAALOUM Rim,20:00:00,08:00:00,20:00:00 - 08:00:00
 27/06/2023,Associé,m.laubacher@imadis.fr,Lyon,Nuit,2023-06-27 20:00:00,2023-06-28 08:00:00,,,PDS,LAUBACHER Morgane,20:00:00,08:00:00,20:00:00 - 08:00:00
 27/06/2023,Interne,d.pavie@imadis.fr,Lyon,Nuit,2023-06-27 20:00:00,2023-06-28 08:00:00,,,PDS,PAVIE Dylan,20:00:00,08:00:00,20:00:00 - 08:00:00
-27/06/2023,Associé,c.schreiner@imadis.fr,Lyon,Nuit,2023-06-27 20:00:00,2023-06-28 08:00:00,,,PDS,SCHREINER Camille,20:00:00,08:00:00,20:00:00 - 08:00:00
 27/06/2023,Associé,a.tavernier@imadis.fr,Lyon,Nuit,2023-06-27 20:00:00,2023-06-28 08:00:00,,,PDS,TAVERNIER Alexandra,20:00:00,08:00:00,20:00:00 - 08:00:00
 27/06/2023,Associé,l.pourriol@imadis.fr,Lyon,Nuit,2023-06-27 20:00:00,2023-06-28 08:00:00,,,PDS,POURRIOL Laurent,20:00:00,08:00:00,20:00:00 - 08:00:00
 27/06/2023,Interne,b.marchi@imadis.fr,Marseille,Nuit,2023-06-27 20:00:00,2023-06-28 08:00:00,,,PDS,MARCHI Baptiste,20:00:00,08:00:00,20:00:00 - 08:00:00
@@ -2779,7 +2802,7 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 30/06/2023,,,,Nuit,2023-06-30 18:00:00,2023-06-30 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 30/06/2023,Associé,s.dehbi@imadis.fr,Lyon,Nuit,2023-06-30 18:00:00,2023-06-30 20:00:00,,,PDS,DEHBI Sabrina,18:00:00,20:00:00,18:00:00 - 20:00:00
 30/06/2023,Associé,e.youssof@imadis.fr,Lyon,Nuit,2023-06-30 18:00:00,2023-06-30 20:00:00,,,PDS,YOUSSOF Emile,18:00:00,20:00:00,18:00:00 - 20:00:00
-30/06/2023,Interne,m.gargiulo@imadis.fr,Marseille,Nuit,2023-06-30 18:00:00,2023-06-30 21:00:00,,,PDS,GARGIULO Manuel,18:00:00,21:00:00,18:00:00 - 21:00:00
+30/06/2023,,,,Nuit,2023-06-30 18:00:00,2023-06-30 21:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,21:00:00,18:00:00 - 21:00:00
 30/06/2023,Interne,m.cheddad@imadis.fr,Brest,Nuit,2023-06-30 19:00:00,2023-06-30 20:00:00,,,PDS,CHEDDAD Mourad,19:00:00,20:00:00,19:00:00 - 20:00:00
 30/06/2023,Interne,t.bonnefoy@imadis.fr,Dijon,Nuit,2023-06-30 20:00:00,2023-07-01 01:00:00,,,PDS,BONNEFOY  Théo,20:00:00,01:00:00,20:00:00 - 01:00:00
 30/06/2023,Interne,t.pacheco@imadis.fr,Clermont-ferrand,Nuit,2023-06-30 20:00:00,2023-07-01 02:00:00,,,PDS,PACHECO Thomas,20:00:00,02:00:00,20:00:00 - 02:00:00
@@ -2814,7 +2837,7 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 01/07/2023,Interne,v.siauve@imadis.fr,Dijon,Nuit,2023-07-01 18:00:00,2023-07-02 01:00:00,,,PDS,SIAUVE Valentin,18:00:00,01:00:00,18:00:00 - 01:00:00
 01/07/2023,,,Brest,Nuit,2023-07-01 18:00:00,2023-07-02 08:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,08:00:00,18:00:00 - 08:00:00
 01/07/2023,Thèsé,a.quenioux@imadis.fr,Brest,Nuit,2023-07-01 18:00:00,2023-07-02 08:00:00,,,PDS,QUENIOUX Armand,18:00:00,08:00:00,18:00:00 - 08:00:00
-01/07/2023,Thèsé,l.bensid@imadis.fr,Lyon,Nuit,2023-07-01 19:00:00,2023-07-02 08:00:00,,,PDS,BENSID Lounes,19:00:00,08:00:00,19:00:00 - 08:00:00
+01/07/2023,,,,Nuit,2023-07-01 19:00:00,2023-07-02 08:00:00,,,PDS,A POURVOIR A pourvoir,19:00:00,08:00:00,19:00:00 - 08:00:00
 01/07/2023,Associé,l.mille@imadis.fr,Lyon,Nuit,2023-07-01 19:00:00,2023-07-02 08:00:00,,,PDS,MILLE Laurène,19:00:00,08:00:00,19:00:00 - 08:00:00
 01/07/2023,Associé,p.boureille@imadis.fr,St etienne,Nuit,2023-07-01 19:00:00,2023-07-02 08:00:00,,,PDS,BOUREILLE Pierre,19:00:00,08:00:00,19:00:00 - 08:00:00
 01/07/2023,Interne,i.gallot@imadis.fr,St etienne,Nuit,2023-07-01 19:00:00,2023-07-02 08:00:00,,,PDS,GALLOT Ines,19:00:00,08:00:00,19:00:00 - 08:00:00
@@ -2905,8 +2928,8 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 04/07/2023,Associé,e.bischoff@imadis.fr,Lyon,Nuit,2023-07-04 20:00:00,2023-07-05 08:00:00,,,PDS,BISCHOFF-MERCIER Elodie,20:00:00,08:00:00,20:00:00 - 08:00:00
 04/07/2023,Interne,a.fleury@imadis.fr,Lyon,Nuit,2023-07-04 20:00:00,2023-07-05 08:00:00,,,PDS,FLEURY Andrea,20:00:00,08:00:00,20:00:00 - 08:00:00
 04/07/2023,Interne,a.mekki@imadis.fr,Lyon,Nuit,2023-07-04 20:00:00,2023-07-05 08:00:00,,,PDS,MEKKI Amine,20:00:00,08:00:00,20:00:00 - 08:00:00
-04/07/2023,Associé,c.schreiner@imadis.fr,Lyon,Nuit,2023-07-04 20:00:00,2023-07-05 08:00:00,,,PDS,SCHREINER Camille,20:00:00,08:00:00,20:00:00 - 08:00:00
 04/07/2023,Associé,pf.chaillot@imadis.fr,Lyon,Nuit,2023-07-04 20:00:00,2023-07-05 08:00:00,,,PDS,CHAILLOT Pierre-fleury,20:00:00,08:00:00,20:00:00 - 08:00:00
+04/07/2023,Associé,t.jurkovic@imadis.fr,Lyon,Nuit,2023-07-04 20:00:00,2023-07-05 08:00:00,,,PDS,JURKOVIC Thomas,20:00:00,08:00:00,20:00:00 - 08:00:00
 04/07/2023,Interne,t.agripnidis@imadis.fr,Marseille,Nuit,2023-07-04 20:00:00,2023-07-05 08:00:00,,,PDS,AGRIPNIDIS Thibault,20:00:00,08:00:00,20:00:00 - 08:00:00
 04/07/2023,Associé,m.dibisceglie@imadis.fr,Marseille,Nuit,2023-07-04 20:00:00,2023-07-05 08:00:00,,,PDS,DI BISCEGLIE Mathieu,20:00:00,08:00:00,20:00:00 - 08:00:00
 04/07/2023,Interne,a.ruimy@imadis.fr,Marseille,Nuit,2023-07-04 20:00:00,2023-07-05 08:00:00,,,PDS,RUIMY Alexis,20:00:00,08:00:00,20:00:00 - 08:00:00
@@ -2945,17 +2968,16 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 06/07/2023,,,,Nuit,2023-07-06 18:00:00,2023-07-06 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 06/07/2023,,,,Nuit,2023-07-06 18:00:00,2023-07-06 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 06/07/2023,,,,Nuit,2023-07-06 18:00:00,2023-07-06 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
-06/07/2023,,,,Nuit,2023-07-06 18:00:00,2023-07-06 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 06/07/2023,Interne,v.siauve@imadis.fr,Dijon,Nuit,2023-07-06 18:00:00,2023-07-06 20:00:00,,,PDS,SIAUVE Valentin,18:00:00,20:00:00,18:00:00 - 20:00:00
 06/07/2023,Associé,o.koubaity@imadis.fr,Lyon,Nuit,2023-07-06 18:00:00,2023-07-06 20:00:00,,,PDS,KOUBAITY Omar,18:00:00,20:00:00,18:00:00 - 20:00:00
 06/07/2023,Associé,t.laurendon@imadis.fr,Marseille,Nuit,2023-07-06 18:00:00,2023-07-06 20:00:00,,,PDS,LAURENDON Thomas,18:00:00,20:00:00,18:00:00 - 20:00:00
 06/07/2023,Associé,t.lapotre@imadis.fr,Rennes,Nuit,2023-07-06 18:00:00,2023-07-06 20:00:00,,,PDS,LAPOTRE Thibaut,18:00:00,20:00:00,18:00:00 - 20:00:00
+06/07/2023,,,,Journée,2023-07-06 18:00:00,2023-07-06 21:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,21:00:00,18:00:00 - 21:00:00
 06/07/2023,,,,Nuit,2023-07-06 18:00:00,2023-07-06 21:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,21:00:00,18:00:00 - 21:00:00
 06/07/2023,Associé,m.glenat@imadis.fr,Lyon,Nuit,2023-07-06 19:00:00,2023-07-06 20:00:00,,,PDS,GLENAT Manfred,19:00:00,20:00:00,19:00:00 - 20:00:00
 06/07/2023,Associé,c.chevalier@imadis.fr,St etienne,Nuit,2023-07-06 20:00:00,2023-07-07 01:00:00,,,PDS,CHEVALIER Clément,20:00:00,01:00:00,20:00:00 - 01:00:00
 06/07/2023,Associé,m.glenat@imadis.fr,Lyon,Nuit,2023-07-06 20:00:00,2023-07-07 02:00:00,,,PDS,GLENAT Manfred,20:00:00,02:00:00,20:00:00 - 02:00:00
 06/07/2023,Associé,l.mille@imadis.fr,Lyon,Nuit,2023-07-06 20:00:00,2023-07-07 02:00:00,,,PDS,MILLE Laurène,20:00:00,02:00:00,20:00:00 - 02:00:00
-06/07/2023,Associé,t.lapotre@imadis.fr,Rennes,Nuit,2023-07-06 20:00:00,2023-07-07 02:00:00,,,PDS,LAPOTRE Thibaut,20:00:00,02:00:00,20:00:00 - 02:00:00
 06/07/2023,Interne,f.bourhis@imadis.fr,Brest,Nuit,2023-07-06 20:00:00,2023-07-07 08:00:00,,,PDS,BOURHIS Fanny,20:00:00,08:00:00,20:00:00 - 08:00:00
 06/07/2023,Thèsé,t.guyard@imadis.fr,Brest,Nuit,2023-07-06 20:00:00,2023-07-07 08:00:00,,,PDS,GUYARD Thibaut,20:00:00,08:00:00,20:00:00 - 08:00:00
 06/07/2023,Interne,s.cadot@imadis.fr,Lyon,Nuit,2023-07-06 20:00:00,2023-07-07 08:00:00,,,PDS,CADOT Stéphane,20:00:00,08:00:00,20:00:00 - 08:00:00
@@ -2968,8 +2990,8 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 06/07/2023,Associé,j.touati@imadis.fr,Marseille,Nuit,2023-07-06 20:00:00,2023-07-07 08:00:00,,,PDS,TOUATI Julian,20:00:00,08:00:00,20:00:00 - 08:00:00
 06/07/2023,Associé,m.chassagneux@imadis.fr,St etienne,Nuit,2023-07-06 20:00:00,2023-07-07 08:00:00,,,PDS,CHASSAGNEUX Mathilde,20:00:00,08:00:00,20:00:00 - 08:00:00
 06/07/2023,Interne,n.lutz@imadis.fr,St etienne,Nuit,2023-07-06 20:00:00,2023-07-07 08:00:00,,,PDS,LUTZ Noémie,20:00:00,08:00:00,20:00:00 - 08:00:00
+06/07/2023,Associé,t.lapotre@imadis.fr,Rennes,Nuit,2023-07-06 21:00:00,2023-07-07 02:00:00,,,PDS,LAPOTRE Thibaut,21:00:00,02:00:00,21:00:00 - 02:00:00
 07/07/2023,Interne,a.mitaine@imadis.fr,Dijon,Nuit,2023-07-07 18:00:00,2023-07-08 01:00:00,,,PDS,MITAINE Aurore,18:00:00,01:00:00,18:00:00 - 01:00:00
-07/07/2023,,,,Nuit,2023-07-07 18:00:00,2023-07-07 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 07/07/2023,,,,Nuit,2023-07-07 18:00:00,2023-07-07 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 07/07/2023,,,,Nuit,2023-07-07 18:00:00,2023-07-07 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
 07/07/2023,,,,Nuit,2023-07-07 18:00:00,2023-07-07 20:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,20:00:00,18:00:00 - 20:00:00
@@ -2981,9 +3003,9 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 07/07/2023,Interne,l.grange@imadis.fr,St etienne,Nuit,2023-07-07 18:00:00,2023-07-07 20:00:00,,,PDS,GRANGE Loic,18:00:00,20:00:00,18:00:00 - 20:00:00
 07/07/2023,,,,Nuit,2023-07-07 18:00:00,2023-07-07 21:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,21:00:00,18:00:00 - 21:00:00
 07/07/2023,,,,Journée,2023-07-07 18:00:00,2023-07-07 21:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,21:00:00,18:00:00 - 21:00:00
+07/07/2023,,,,Journée,2023-07-07 18:00:00,2023-07-07 21:00:00,,,PDS,A POURVOIR A pourvoir,18:00:00,21:00:00,18:00:00 - 21:00:00
 07/07/2023,Interne,s.bertholon@imadis.fr,St etienne,Nuit,2023-07-07 19:00:00,2023-07-07 20:00:00,,,PDS,BERTHOLON Sylvain,19:00:00,20:00:00,19:00:00 - 20:00:00
 07/07/2023,Interne,p.cixous@imadis.fr,St etienne,Nuit,2023-07-07 20:00:00,2023-07-08 01:00:00,,,PDS,CIXOUS Pierre,20:00:00,01:00:00,20:00:00 - 01:00:00
-07/07/2023,Associé,v.herreros@imadis.fr,Dijon,Nuit,2023-07-07 20:00:00,2023-07-08 02:00:00,,,PDS,HERREROS Victor,20:00:00,02:00:00,20:00:00 - 02:00:00
 07/07/2023,Interne,q.patriat@imadis.fr,Dijon,Nuit,2023-07-07 20:00:00,2023-07-08 02:00:00,,,PDS,PATRIAT Quentin,20:00:00,02:00:00,20:00:00 - 02:00:00
 07/07/2023,Associé,h.nivet@imadis.fr,Bordeaux,Nuit,2023-07-07 20:00:00,2023-07-08 08:00:00,,,PDS,NIVET Hubert,20:00:00,08:00:00,20:00:00 - 08:00:00
 07/07/2023,Interne,manon-du-ragueneau@hotmail.fr,Bordeaux,Nuit,2023-07-07 20:00:00,2023-07-08 08:00:00,,,PDS,POUVREAU Manon,20:00:00,08:00:00,20:00:00 - 08:00:00
@@ -2999,6 +3021,7 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 07/07/2023,Associé,a.poulin@imadis.fr,Rennes,Nuit,2023-07-07 20:00:00,2023-07-08 08:00:00,,,PDS,POULIN Alexandre,20:00:00,08:00:00,20:00:00 - 08:00:00
 07/07/2023,Associé,b.delorme@imadis.fr,St etienne,Nuit,2023-07-07 20:00:00,2023-07-08 08:00:00,,,PDS,DELORME Bérengère,20:00:00,08:00:00,20:00:00 - 08:00:00
 07/07/2023,Interne,l.grange@imadis.fr,St etienne,Nuit,2023-07-07 20:00:00,2023-07-08 08:00:00,,,PDS,GRANGE Loic,20:00:00,08:00:00,20:00:00 - 08:00:00
+07/07/2023,Associé,v.herreros@imadis.fr,Dijon,Nuit,2023-07-07 21:00:00,2023-07-08 02:00:00,,,PDS,HERREROS Victor,21:00:00,02:00:00,21:00:00 - 02:00:00
 07/07/2023,Associé,o.delache@imadis.fr,Rennes,Nuit,2023-07-07 21:00:00,2023-07-08 08:00:00,,,PDS,DELACHE Ondine,21:00:00,08:00:00,21:00:00 - 08:00:00
 08/07/2023,Associé,s.mvouama@imadis.fr,Dijon,Journée,2023-07-08 07:00:00,2023-07-08 12:00:00,,,PDS,MVOUAMA Ségolène,07:00:00,12:00:00,07:00:00 - 12:00:00
 08/07/2023,Associé,m.millon@imadis.fr,Lyon,Journée,2023-07-08 07:00:00,2023-07-08 13:00:00,,,PDS,DURIEUX-MILLON Marion,07:00:00,13:00:00,07:00:00 - 13:00:00
@@ -3009,7 +3032,7 @@ Date,Associé,mail,Site,Jour/Nuit,Date_Heure_Début,Date_Heure_Fin,Chef,Formatio
 08/07/2023,Associé,h.kizil@imadis.fr,Dijon,Journée,2023-07-08 08:00:00,2023-07-08 20:00:00,,,PDS,KIZIL Halime,08:00:00,20:00:00,08:00:00 - 20:00:00
 08/07/2023,Thèsé,u.pirocca@imadis.fr,Dijon,Journée,2023-07-08 08:00:00,2023-07-08 20:00:00,,,PDS,PIROCCA Ugo,08:00:00,20:00:00,08:00:00 - 20:00:00
 08/07/2023,Interne,t.dos-santos@imadis.fr,Marseille,Journée,2023-07-08 09:00:00,2023-07-08 18:00:00,,,PDS,DOS SANTOS Thomas,09:00:00,18:00:00,09:00:00 - 18:00:00
-08/07/2023,Interne,c.hocine@imadis.fr,Marseille,Journée,2023-07-08 09:00:00,2023-07-08 20:00:00,,,PDS,HOCINE Chakir,09:00:00,20:00:00,09:00:00 - 20:00:00
+08/07/2023,Interne,c.hocine@imadis.fr,Marseille,Journée,2023-07-08 09:00:00,2023-07-08 19:00:00,,,PDS,HOCINE Chakir,09:00:00,19:00:00,09:00:00 - 19:00:00
 08/07/2023,Interne,n.erhart@imadis.fr,Rennes,Journée,2023-07-08 10:00:00,2023-07-08 19:00:00,,,PDS,ERHART Nora,10:00:00,19:00:00,10:00:00 - 19:00:00
 08/07/2023,Associé,c.erhart@imadis.fr,Rennes,Journée,2023-07-08 10:00:00,2023-07-08 19:00:00,,,PDS,ERHART Charlélie,10:00:00,19:00:00,10:00:00 - 19:00:00
 08/07/2023,Interne,a.braillon@imadis.fr,Lyon,Journée,2023-07-08 12:00:00,2023-07-08 21:00:00,,,PDS,BRAILLON Alexandra,12:00:00,21:00:00,12:00:00 - 21:00:00
