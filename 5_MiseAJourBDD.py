@@ -17,7 +17,7 @@ import re
 username = getpass.getuser()
 
 config = configparser.ConfigParser()
-config.read('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/PoleMed_BDD/cred.ini')
+config.read('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/cred.ini')
 user_value = config.get('Credentials', 'user_planning')
 password_value = config.get('Credentials', 'mdp_planning')
 
@@ -159,7 +159,7 @@ time.sleep(1)
 driver.close()
 
 # Spécifiez le chemin complet du fichier CSV à supprimer
-chemin_fichier = 'C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/PoleMed_BDD/new_data.csv'
+chemin_fichier = 'C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/data/new_data.csv'
 
 # Vérifiez si le fichier existe avant de le supprimer
 if os.path.exists(chemin_fichier):
@@ -290,11 +290,11 @@ concatenated_df.reset_index(drop=True, inplace=True)
 concatenated_df['Date'] = pd.to_datetime(concatenated_df['Date'])
 concatenated_df['Date'] = concatenated_df['Date'].dt.strftime("%d/%m/%Y")
 
-concatenated_df.to_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/PoleMed_BDD/new_data.csv', index=False)
+concatenated_df.to_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/data/new_data.csv', index=False)
 print("Le fichier new_data a été mis à jour.")
 
-df1=pd.read_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/PoleMed_BDD/Concat_df.csv')
-df2=pd.read_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/PoleMed_BDD/new_data.csv')
+df1=pd.read_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/data/Concat_df.csv')
+df2=pd.read_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/data/new_data.csv')
 
 dfs = [df1, df2]
 
@@ -327,7 +327,7 @@ data['Durée'] = pd.to_timedelta(data['Durée'])
 # Calculez la durée en heures décimales
 data['Durée'] = data['Durée'].dt.total_seconds() / 3600
 
-data.to_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/PoleMed_BDD/BDD.csv', index=False)
-data.to_excel('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/PoleMed_BDD/BDD.xlsx', index=False)
+data.to_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/data/BDD.csv', index=False)
+data.to_excel('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/data/BDD.xlsx', index=False)
 print("La Base de Données du planning est désormais à jour.")
 print("FIN DU PROCESSSUS! You Win!!!")
