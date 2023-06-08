@@ -74,14 +74,14 @@ time.sleep(1)
 generate=driver.find_element(By.ID, "generate")
 generate.click()
 time.sleep(2) 
-print("Le fichier PDS a été téléchargé.")
 
 download_folder = 'C:/Users/'+username+'/Downloads/'
 excel_files = glob.glob(download_folder + 'export*.xlsx')
 df_pds=pd.read_excel(excel_files[0], header=None)
-df_pds.to_csv('df_pds.csv', index=False)
+df_pds.to_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/data/df_pds.csv', index=False)
 
 os.remove(excel_files[0])
+print("Le fichier PDS a été téléchargé.")
 
 #AO
 ao=driver.find_element(By.XPATH, "//*[@id='excelDpt2']")
@@ -95,7 +95,7 @@ time.sleep(2)
 download_folder = 'C:/Users/'+username+'/Downloads/'
 excel_files = glob.glob(download_folder + 'export*.xlsx')
 df_ao=pd.read_excel(excel_files[0], header=None)
-df_ao.to_csv('df_ao.csv', index=False)
+df_ao.to_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/data/df_ao.csv', index=False)
 
 os.remove(excel_files[0])
 print("Le fichier AO a été téléchargé.")
@@ -112,7 +112,7 @@ time.sleep(2)
 download_folder = 'C:/Users/'+username+'/Downloads/'
 excel_files = glob.glob(download_folder + 'export*.xlsx')
 df_cds=pd.read_excel(excel_files[0], header=None)
-df_cds.to_csv('df_cds.csv', index=False)
+df_cds.to_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/data/df_cds.csv', index=False)
 
 os.remove(excel_files[0])
 print("Le fichier CDS a été téléchargé.")
@@ -129,7 +129,7 @@ time.sleep(2)
 download_folder = 'C:/Users/'+username+'/Downloads/'
 excel_files = glob.glob(download_folder + 'export*.xlsx')
 df_rru=pd.read_excel(excel_files[0], header=None)
-df_rru.to_csv('df_rru.csv', index=False)
+df_rru.to_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/data/df_rru.csv', index=False)
 
 os.remove(excel_files[0])
 print("Le fichier RRU a été téléchargé.")
@@ -146,7 +146,7 @@ time.sleep(2)
 download_folder = 'C:/Users/'+username+'/Downloads/'
 excel_files = glob.glob(download_folder + 'export*.xlsx')
 df_art=pd.read_excel(excel_files[0], header=None)
-df_art.to_csv('df_art.csv', index=False)
+df_art.to_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/data/df_art.csv', index=False)
 
 os.remove(excel_files[0])
 print("Le fichier ART a été téléchargé.")
