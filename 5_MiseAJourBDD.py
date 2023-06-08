@@ -14,19 +14,23 @@ import configparser
 import numpy as np
 import re
 
+# utilisateurs
 username = getpass.getuser()
 
+# credentials planning
 config = configparser.ConfigParser()
 config.read('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/cred.ini')
 user_value = config.get('Credentials', 'user_planning')
 password_value = config.get('Credentials', 'mdp_planning')
 
-
+# def scroll pour webscrapping
 def scroll(value): #Définition d'une fonction pour scroller automatiquement
     for _ in range(20):
         driver.execute_script(f"window.scrollBy(0, {value})")
         time.sleep(0.1) #Temps entre chaque scroll
 
+
+# Webscrpping du planning
 chrome_options = Options()
 chrome_options.add_argument("--headless=new")
 driver = webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options) # Ouvrir une page Google Chrome
@@ -169,11 +173,11 @@ else:
     print("Le fichier CSV new_data.csv n'existe pas.")
 
 #Créer le nouveau fichier new_data
-df1=pd.read_csv('df_ao.csv')
-df2=pd.read_csv('df_cds.csv')
-df3=pd.read_csv('df_rru.csv')
-df4=pd.read_csv('df_art.csv')
-df5=pd.read_csv('df_pds.csv')
+df1=pd.read_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/data/df_ao.csv')
+df2=pd.read_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/data/df_cds.csv')
+df3=pd.read_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/data/df_rru.csv')
+df4=pd.read_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/data/df_art.csv')
+df5=pd.read_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/data/df_pds.csv')
 
 correspondance_colonnes = {'0' : 'Date',
                           '1': 'Associé',
