@@ -330,4 +330,4 @@ data['Durée'] = data['Durée'].dt.total_seconds() / 3600
 data.to_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/PoleMed_BDD/BDD.csv', index=False)
 data.to_excel('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/PoleMed_BDD/BDD.xlsx', index=False)
 print("La Base de Données du planning est désormais à jour.")
-print("FIN DU PROCESSSUS.")
+print("FIN DU PROCESSSUS! You Win!!!")
