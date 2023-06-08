@@ -219,11 +219,9 @@
 ,Associé,CHAPAS,Gilles,g.chapas@imadis.fr,St etienne,Journée,05/06/2023 11:00:00,05/06/2023 14:00:00
 ,Associé,ETCHART,Paul,p.etchart@imadis.fr,Bordeaux,Nuit,05/06/2023 13:00:00,05/06/2023 15:00:00
 ,Associé,DURIEUX-MILLON,Marion,m.millon@imadis.fr,Lyon,Nuit,05/06/2023 13:00:00,05/06/2023 15:00:00
-,Associé,BERGEROT,Jean-francois,jf.bergerot@imadis.fr,Lyon,Nuit,05/06/2023 13:00:00,05/06/2023 15:00:00
 ,Associé,HERMANT,Julien,j.hermant@imadis.fr,Lyon,Nuit,05/06/2023 13:00:00,05/06/2023 15:00:00
 ,Associé,EA,Quentin,q.ea@imadis.fr,Rennes,Nuit,05/06/2023 13:00:00,05/06/2023 15:00:00
 06/06/2023,Associé,DEHBI,Sabrina,s.dehbi@imadis.fr,Lyon,Journée,06/06/2023 11:00:00,06/06/2023 13:00:00
-,Associé,KOUBAITY,Omar,o.koubaity@imadis.fr,Lyon,Journée,06/06/2023 11:00:00,06/06/2023 13:00:00
 ,Associé,PERREY,Antoine,a.perrey@imadis.fr,Marseille,Journée,06/06/2023 11:00:00,06/06/2023 13:00:00
 ,Associé,GIANELLI,Benoit,b.gianelli@imadis.fr,Rennes,Journée,06/06/2023 11:00:00,06/06/2023 13:00:00
 ,Associé,JALABER,Carole,c.jalaber@imadis.fr,Rennes,Journée,06/06/2023 11:00:00,06/06/2023 13:00:00
@@ -261,27 +259,28 @@
 ,Associé,CHAILLOT,Pierre-fleury,pf.chaillot@imadis.fr,Lyon,Journée,09/06/2023 11:00:00,09/06/2023 14:00:00
 ,Associé,DELACHE,Ondine,o.delache@imadis.fr,Rennes,Journée,09/06/2023 11:00:00,09/06/2023 14:00:00
 ,Associé,COULON,Agnès,a.coulon@imadis.fr,Lyon,Nuit,09/06/2023 13:00:00,09/06/2023 15:00:00
+,Associé,PEYRE,Rémi,r.peyre@imadis.fr,Marseille,Nuit,09/06/2023 13:00:00,09/06/2023 15:00:00
 ,,,,,,,,
 ,,,,,,,,
 12/06/2023,Associé,FILLON,Marie,m.fillon@imadis.fr,Lyon,Journée,12/06/2023 11:00:00,12/06/2023 13:00:00
 ,Associé,ARNAUD,François,f.arnaud@imadis.fr,Marseille,Journée,12/06/2023 11:00:00,12/06/2023 13:00:00
 ,Associé,POULIN,Alexandre,a.poulin@imadis.fr,Rennes,Journée,12/06/2023 11:00:00,12/06/2023 13:00:00
 ,Associé,CHAPAS,Gilles,g.chapas@imadis.fr,St etienne,Journée,12/06/2023 11:00:00,12/06/2023 13:00:00
-,,A POURVOIR,A pourvoir,,,Journée,12/06/2023 11:00:00,12/06/2023 14:00:00
-,,A POURVOIR,A pourvoir,,,Journée,12/06/2023 11:00:00,12/06/2023 14:00:00
-,,A POURVOIR,A pourvoir,,,Journée,12/06/2023 11:00:00,12/06/2023 14:00:00
-,,A POURVOIR,A pourvoir,,,Journée,12/06/2023 11:00:00,12/06/2023 14:00:00
-,,A POURVOIR,A pourvoir,,,Journée,12/06/2023 11:00:00,12/06/2023 14:00:00
+,Associé,FAVARD,Nicolas,n.favard@imadis.fr,Lyon,Journée,12/06/2023 11:00:00,12/06/2023 14:00:00
+,Associé,CHAILLOT,Pierre-fleury,pf.chaillot@imadis.fr,Lyon,Journée,12/06/2023 11:00:00,12/06/2023 14:00:00
+,Associé,HEIDELBERG,Damien,d.heidelberg@imadis.fr,Lyon,Journée,12/06/2023 11:00:00,12/06/2023 14:00:00
 ,Associé,PORTA,Basile,b.porta@imadis.fr,Lyon,Journée,12/06/2023 11:00:00,12/06/2023 14:00:00
 ,Associé,THOMSON,Vivien,v.thomson@imadis.fr,Lyon,Journée,12/06/2023 11:00:00,12/06/2023 14:00:00
+,Associé,PERREY,Antoine,a.perrey@imadis.fr,Marseille,Journée,12/06/2023 11:00:00,12/06/2023 14:00:00
+,Associé,CHASSAGNEUX,Mathilde,m.chassagneux@imadis.fr,St etienne,Journée,12/06/2023 11:00:00,12/06/2023 14:00:00
 ,Associé,ETCHART,Paul,p.etchart@imadis.fr,Bordeaux,Nuit,12/06/2023 13:00:00,12/06/2023 15:00:00
 ,Associé,PETITPIERRE,Francois,f.petitpierre@imadis.fr,Bordeaux,Nuit,12/06/2023 13:00:00,12/06/2023 15:00:00
 ,Associé,BEN CHEIKH,Alexandre,a.bencheikh@imadis.fr,Lyon,Nuit,12/06/2023 13:00:00,12/06/2023 15:00:00
 ,Associé,HISSIER,Julien,j.hissier@imadis.fr,Rennes,Nuit,12/06/2023 13:00:00,12/06/2023 15:00:00
 13/06/2023,Associé,DEHBI,Sabrina,s.dehbi@imadis.fr,Lyon,Journée,13/06/2023 11:00:00,13/06/2023 13:00:00
 ,Associé,GIANELLI,Benoit,b.gianelli@imadis.fr,Rennes,Journée,13/06/2023 11:00:00,13/06/2023 13:00:00
-,,A POURVOIR,A pourvoir,,,Journée,13/06/2023 11:00:00,13/06/2023 14:00:00
-,,A POURVOIR,A pourvoir,,,Journée,13/06/2023 11:00:00,13/06/2023 14:00:00
+,Associé,DELORME,Bérengère,b.delorme@imadis.fr,St etienne,Journée,13/06/2023 11:00:00,13/06/2023 14:00:00
+,Associé,ANNWEILER,Thierry,t.annweiler@imadis.fr,St etienne,Journée,13/06/2023 11:00:00,13/06/2023 14:00:00
 ,Associé,KIZIL,Halime,h.kizil@imadis.fr,Dijon,Nuit,13/06/2023 13:00:00,13/06/2023 15:00:00
 ,Associé,POULLAIN,François,f.poullain@imadis.fr,Marseille,Nuit,13/06/2023 13:00:00,13/06/2023 15:00:00
 ,Associé,MEHIER,Clement,c.mehier@imadis.fr,Rennes,Nuit,13/06/2023 13:00:00,13/06/2023 15:00:00
@@ -290,8 +289,8 @@
 ,Associé,BISCHOFF-MERCIER,Elodie,e.bischoff@imadis.fr,Lyon,Journée,14/06/2023 11:00:00,14/06/2023 13:00:00
 ,Associé,DI BISCEGLIE,Mathieu,m.dibisceglie@imadis.fr,Marseille,Journée,14/06/2023 11:00:00,14/06/2023 13:00:00
 ,Associé,CHAPAS,Gilles,g.chapas@imadis.fr,St etienne,Journée,14/06/2023 11:00:00,14/06/2023 13:00:00
-,,A POURVOIR,A pourvoir,,,Journée,14/06/2023 11:00:00,14/06/2023 14:00:00
-,,A POURVOIR,A pourvoir,,,Journée,14/06/2023 11:00:00,14/06/2023 14:00:00
+,Associé,DI FRANCO,Florian,f.difranco@imadis.fr,Lyon,Journée,14/06/2023 11:00:00,14/06/2023 14:00:00
+,Associé,YOUSSOF,Emile,e.youssof@imadis.fr,Lyon,Journée,14/06/2023 11:00:00,14/06/2023 14:00:00
 ,Associé,PERREY,Antoine,a.perrey@imadis.fr,Clermont-ferrand,Nuit,14/06/2023 13:00:00,14/06/2023 15:00:00
 ,Associé,COULON,Agnès,a.coulon@imadis.fr,Lyon,Nuit,14/06/2023 13:00:00,14/06/2023 15:00:00
 ,Associé,DELACHE,Ondine,o.delache@imadis.fr,Rennes,Nuit,14/06/2023 13:00:00,14/06/2023 15:00:00
@@ -300,8 +299,8 @@
 ,Associé,ALLARY,Alexandre,a.allary@imadis.fr,Marseille,Journée,15/06/2023 11:00:00,15/06/2023 13:00:00
 ,Associé,LAURENDON,Thomas,t.laurendon@imadis.fr,Marseille,Journée,15/06/2023 11:00:00,15/06/2023 13:00:00
 ,Associé,TOUATI,Julian,j.touati@imadis.fr,Marseille,Journée,15/06/2023 11:00:00,15/06/2023 13:00:00
-,,A POURVOIR,A pourvoir,,,Journée,15/06/2023 11:00:00,15/06/2023 14:00:00
-,,A POURVOIR,A pourvoir,,,Journée,15/06/2023 11:00:00,15/06/2023 14:00:00
+,Associé,LINTINGRE,Pierre-francois,pf.lintingre@imadis.fr,Bordeaux,Journée,15/06/2023 11:00:00,15/06/2023 14:00:00
+,Associé,ROBERT,Corentin,c.robert@imadis.fr,Rennes,Journée,15/06/2023 11:00:00,15/06/2023 14:00:00
 ,Associé,STEPHANT,Eric,e.stephant@imadis.fr,Bordeaux,Nuit,15/06/2023 13:00:00,15/06/2023 15:00:00
 ,Associé,BOUDINAUD,Claire,c.boudinaud@imadis.fr,Clermont-ferrand,Nuit,15/06/2023 13:00:00,15/06/2023 15:00:00
 16/06/2023,Associé,HERREROS,Victor,v.herreros@imadis.fr,Dijon,Journée,16/06/2023 11:00:00,16/06/2023 13:00:00
@@ -309,14 +308,20 @@
 ,Associé,PEYRE,Rémi,r.peyre@imadis.fr,Marseille,Journée,16/06/2023 11:00:00,16/06/2023 13:00:00
 ,Associé,ERHART,Charlélie,c.erhart@imadis.fr,Rennes,Journée,16/06/2023 11:00:00,16/06/2023 13:00:00
 ,Associé,GIANELLI,Benoit,b.gianelli@imadis.fr,Rennes,Journée,16/06/2023 11:00:00,16/06/2023 13:00:00
-,,A POURVOIR,A pourvoir,,,Journée,16/06/2023 11:00:00,16/06/2023 14:00:00
-,,A POURVOIR,A pourvoir,,,Journée,16/06/2023 11:00:00,16/06/2023 14:00:00
+,Associé,DABADIE,Alexia,a.dabadie@imadis.fr,Marseille,Journée,16/06/2023 11:00:00,16/06/2023 14:00:00
+,Associé,DELACHE,Ondine,o.delache@imadis.fr,Rennes,Journée,16/06/2023 11:00:00,16/06/2023 14:00:00
 ,,,,,,,,
 ,,,,,,,,
 19/06/2023,Associé,GHELIS,Nil,n.ghelis@imadis.fr,Clermont-ferrand,Journée,19/06/2023 11:00:00,19/06/2023 13:00:00
 ,Associé,ALONZO LACROIX,Florian,f.alonzo@imadis.fr,Lyon,Journée,19/06/2023 11:00:00,19/06/2023 13:00:00
 ,Associé,CUINET,Marie,m.cuinet@imadis.fr,Lyon,Journée,19/06/2023 11:00:00,19/06/2023 13:00:00
 ,Associé,ARNAUD,François,f.arnaud@imadis.fr,Marseille,Journée,19/06/2023 11:00:00,19/06/2023 13:00:00
+,,A POURVOIR,A pourvoir,,,Journée,19/06/2023 11:00:00,19/06/2023 14:00:00
+,,A POURVOIR,A pourvoir,,,Journée,19/06/2023 11:00:00,19/06/2023 14:00:00
+,,A POURVOIR,A pourvoir,,,Journée,19/06/2023 11:00:00,19/06/2023 14:00:00
+,,A POURVOIR,A pourvoir,,,Journée,19/06/2023 11:00:00,19/06/2023 14:00:00
+,,A POURVOIR,A pourvoir,,,Journée,19/06/2023 11:00:00,19/06/2023 14:00:00
+,,A POURVOIR,A pourvoir,,,Journée,19/06/2023 11:00:00,19/06/2023 14:00:00
 ,Associé,YOUSSOF,Emile,e.youssof@imadis.fr,Lyon,Journée,19/06/2023 11:00:00,19/06/2023 14:00:00
 ,Associé,STEPHANT,Eric,e.stephant@imadis.fr,Bordeaux,Nuit,19/06/2023 13:00:00,19/06/2023 15:00:00
 ,Associé,HERREROS,Victor,v.herreros@imadis.fr,Dijon,Nuit,19/06/2023 13:00:00,19/06/2023 15:00:00
@@ -326,6 +331,7 @@
 20/06/2023,Associé,DEHBI,Sabrina,s.dehbi@imadis.fr,Lyon,Journée,20/06/2023 11:00:00,20/06/2023 13:00:00
 ,Associé,MALAUREILLE,Lison,l.malaureille@imadis.fr,Lyon,Journée,20/06/2023 11:00:00,20/06/2023 13:00:00
 ,Associé,PEYRE,Rémi,r.peyre@imadis.fr,Marseille,Journée,20/06/2023 11:00:00,20/06/2023 13:00:00
+,,A POURVOIR,A pourvoir,,,Journée,20/06/2023 11:00:00,20/06/2023 14:00:00
 ,Associé,GALAN,Alexandre,a.galan@imadis.fr,Lyon,Journée,20/06/2023 11:00:00,20/06/2023 14:00:00
 ,Associé,FILLON,Marie,m.fillon@imadis.fr,Lyon,Nuit,20/06/2023 13:00:00,20/06/2023 15:00:00
 ,Associé,BOUQUET,Gregoire,g.bouquet@imadis.fr,Lyon,Nuit,20/06/2023 13:00:00,20/06/2023 15:00:00
@@ -339,6 +345,8 @@
 ,Associé,ALLARY,Alexandre,a.allary@imadis.fr,Marseille,Journée,21/06/2023 11:00:00,21/06/2023 13:00:00
 ,Associé,DI BISCEGLIE,Mathieu,m.dibisceglie@imadis.fr,Marseille,Journée,21/06/2023 11:00:00,21/06/2023 13:00:00
 ,Associé,CHEVALIER,Clément,c.chevalier@imadis.fr,St etienne,Journée,21/06/2023 11:00:00,21/06/2023 13:00:00
+,,A POURVOIR,A pourvoir,,,Journée,21/06/2023 11:00:00,21/06/2023 14:00:00
+,,A POURVOIR,A pourvoir,,,Journée,21/06/2023 11:00:00,21/06/2023 14:00:00
 ,Associé,COULON,Agnès,a.coulon@imadis.fr,Lyon,Nuit,21/06/2023 13:00:00,21/06/2023 15:00:00
 ,Associé,CHAILLOT,Pierre-fleury,pf.chaillot@imadis.fr,Lyon,Nuit,21/06/2023 13:00:00,21/06/2023 15:00:00
 ,Associé,DELACHE,Ondine,o.delache@imadis.fr,Rennes,Nuit,21/06/2023 13:00:00,21/06/2023 15:00:00
@@ -346,6 +354,8 @@
 22/06/2023,Associé,CUINET,Marie,m.cuinet@imadis.fr,Lyon,Journée,22/06/2023 11:00:00,22/06/2023 13:00:00
 ,Associé,MALAUREILLE,Lison,l.malaureille@imadis.fr,Lyon,Journée,22/06/2023 11:00:00,22/06/2023 13:00:00
 ,Associé,TOUATI,Julian,j.touati@imadis.fr,Marseille,Journée,22/06/2023 11:00:00,22/06/2023 13:00:00
+,,A POURVOIR,A pourvoir,,,Journée,22/06/2023 11:00:00,22/06/2023 14:00:00
+,,A POURVOIR,A pourvoir,,,Journée,22/06/2023 11:00:00,22/06/2023 14:00:00
 ,Associé,ETCHART,Paul,p.etchart@imadis.fr,Bordeaux,Nuit,22/06/2023 13:00:00,22/06/2023 15:00:00
 ,Associé,BOUDINAUD,Claire,c.boudinaud@imadis.fr,Clermont-ferrand,Nuit,22/06/2023 13:00:00,22/06/2023 15:00:00
 ,Associé,FONTARENSKY,Mikael,m.fontarensky@imadis.fr,Clermont-ferrand,Nuit,22/06/2023 13:00:00,22/06/2023 15:00:00
@@ -354,7 +364,10 @@
 ,Associé,BOUHAMAMA,Amine,a.bouhamama@imadis.fr,Lyon,Journée,23/06/2023 11:00:00,23/06/2023 13:00:00
 ,Associé,DI FRANCO,Florian,f.difranco@imadis.fr,Lyon,Journée,23/06/2023 11:00:00,23/06/2023 13:00:00
 ,Associé,BRATAN,Flavie,f.bratan@imadis.fr,Lyon,Journée,23/06/2023 11:00:00,23/06/2023 13:00:00
+,Associé,LAURENDON,Thomas,t.laurendon@imadis.fr,Marseille,Journée,23/06/2023 11:00:00,23/06/2023 13:00:00
 ,Associé,PERREY,Antoine,a.perrey@imadis.fr,Marseille,Journée,23/06/2023 11:00:00,23/06/2023 13:00:00
+,,A POURVOIR,A pourvoir,,,Journée,23/06/2023 11:00:00,23/06/2023 14:00:00
+,,A POURVOIR,A pourvoir,,,Journée,23/06/2023 11:00:00,23/06/2023 14:00:00
 ,Associé,COULON,Agnès,a.coulon@imadis.fr,Lyon,Nuit,23/06/2023 13:00:00,23/06/2023 15:00:00
 ,,,,,,,,
 ,,,,,,,,
@@ -385,6 +398,7 @@
 ,Associé,CHAILLOT,Pierre-fleury,pf.chaillot@imadis.fr,Lyon,Nuit,28/06/2023 13:00:00,28/06/2023 15:00:00
 ,Associé,DELACHE,Ondine,o.delache@imadis.fr,Rennes,Nuit,28/06/2023 13:00:00,28/06/2023 15:00:00
 29/06/2023,Associé,MVOUAMA,Ségolène,s.mvouama@imadis.fr,Dijon,Journée,29/06/2023 11:00:00,29/06/2023 13:00:00
+,Associé,LARCHEZ,Christophe,c.larchez@imadis.fr,Lyon,Journée,29/06/2023 11:00:00,29/06/2023 13:00:00
 ,Associé,ALLARY,Alexandre,a.allary@imadis.fr,Marseille,Journée,29/06/2023 11:00:00,29/06/2023 13:00:00
 ,Associé,CHAPAS,Gilles,g.chapas@imadis.fr,St etienne,Journée,29/06/2023 11:00:00,29/06/2023 13:00:00
 ,Associé,STEPHANT,Eric,e.stephant@imadis.fr,Bordeaux,Nuit,29/06/2023 13:00:00,29/06/2023 15:00:00
