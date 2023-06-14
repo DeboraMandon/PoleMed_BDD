@@ -192,7 +192,6 @@ correspondance_colonnes = {'0' : 'Date',
 
 df1 = df1.rename(columns=correspondance_colonnes)
 df3 = df3.rename(columns=correspondance_colonnes)
-df4 = df4.rename(columns=correspondance_colonnes)
 
 correspondance_colonnes = {'0': 'Date',
                           '1': 'Associé',
@@ -207,6 +206,7 @@ correspondance_colonnes = {'0': 'Date',
                           '10' : 'Formation'}
 
 df2 = df2.rename(columns=correspondance_colonnes)
+df4 = df4.rename(columns=correspondance_colonnes)
 df5 = df5.rename(columns=correspondance_colonnes)
 
 df1['Chef'] = np.nan
