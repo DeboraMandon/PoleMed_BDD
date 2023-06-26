@@ -249,10 +249,15 @@ df4=df4.drop(['Nom', 'Prénom'], axis=1)
 df5=df5.drop(['Nom', 'Prénom'], axis=1)
 
 df1['Date'] = pd.to_datetime(df1['Date'], format='%d/%m/%Y')
+df1['Date'] = df1['Date'].dt.strftime('%Y-%m-%d')
 df2['Date'] = pd.to_datetime(df2['Date'], format='%d/%m/%Y')
+df2['Date'] = df2['Date'].dt.strftime('%Y-%m-%d')
 df3['Date'] = pd.to_datetime(df3['Date'], format='%d/%m/%Y')
+df3['Date'] = df3['Date'].dt.strftime('%Y-%m-%d')
 df4['Date'] = pd.to_datetime(df4['Date'], format='%d/%m/%Y')
+df4['Date'] = df4['Date'].dt.strftime('%Y-%m-%d')
 df5['Date'] = pd.to_datetime(df5['Date'], format='%d/%m/%Y')
+df5['Date'] = df5['Date'].dt.strftime('%Y-%m-%d')
 
 df1['Date_Heure_Début'] = pd.to_datetime(df1['Date_Heure_Début'],format="%d/%m/%Y %H:%M:%S")
 df2['Date_Heure_Début'] = pd.to_datetime(df2['Date_Heure_Début'],format="%d/%m/%Y %H:%M:%S")
@@ -292,8 +297,8 @@ concatenated_df = pd.concat(dfs)
 # Réinitialisez l'index du DataFrame concaténé
 concatenated_df.reset_index(drop=True, inplace=True)
 
-concatenated_df['Date'] = pd.to_datetime(concatenated_df['Date'])
-concatenated_df['Date'] = concatenated_df['Date'].dt.strftime("%d/%m/%Y")
+#concatenated_df['Date'] = pd.to_datetime(concatenated_df['Date'])
+#concatenated_df['Date'] = concatenated_df['Date'].dt.strftime("%d/%m/%Y")
 
 concatenated_df.to_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/data/new_data.csv', index=False)
 print("Le fichier new_data a été mis à jour.")
@@ -321,12 +326,9 @@ data['Durée'] = data['Date_Heure_Fin'] - data['Date_Heure_Début']
 data=data.drop_duplicates(subset=['Nom_Prenom', 'Date', 'Horaire'], keep='last')
 
 data['Durée']=data['Durée'].astype(str)
-
 data['Durée']=data['Durée'].str.split().str[2]
-
 data['Durée'] = data['Durée'].str.replace("+", "", regex=False)
 data['Durée'] = data['Durée'].str.replace("+ ", "", regex=False)
-
 data['Durée'] = pd.to_timedelta(data['Durée'])
 
 # Calculez la durée en heures décimales
@@ -336,6 +338,7 @@ data.to_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUA
 data.to_excel('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/data/BDD.xlsx', index=False)
 print("La Base de Données du planning est désormais à jour.")
 
+'''
 #création du df indicateurs
 df_planning=data.copy()
 df_planning = df_planning[df_planning['Source'].isin(['PDS', 'CDS'])]
@@ -363,6 +366,7 @@ df_planning.to_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMA
 df_planning.to_excel('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/data/Indic.xlsx')
 
 print("Le fichier Indic a été mis à jour.")
+'''
 
 df_old2=pd.read_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/data/BDD.csv')
 df_new2=pd.read_csv('C:/Users/'+username+'/Imadis Téléradiologie/INTRANET - IMADIS/QUALITE/7- RHM/15 - DMA/GitHub/data/new_data.csv')
