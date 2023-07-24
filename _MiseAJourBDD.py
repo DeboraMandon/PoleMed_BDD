@@ -68,7 +68,7 @@ scroll(100)
 #pour telecharger tous les excel du dernier TDG
 
 #PDS
-excel=driver.find_element(By.CSS_SELECTOR, '#top > div > table > tbody > tr:nth-child(3) > td:nth-child(7) > button.excel.btn.btn-default.btn-outline.btn-sm')
+excel=driver.find_element(By.CSS_SELECTOR, '#top > div > table > tbody > tr:nth-child(2) > td:nth-child(7) > button.excel.btn.btn-default.btn-outline.btn-sm')
 excel.click()
 time.sleep(1) 
 
@@ -328,7 +328,7 @@ data=data.drop_duplicates(subset=['Nom_Prenom', 'Date', 'Horaire'], keep='last')
 data['Durée']=data['Durée'].astype(str)
 data['Durée']=data['Durée'].str.split().str[2]
 data['Durée'] = data['Durée'].str.replace("+", "", regex=False)
-data['Durée'] = data['Durée'].str.replace("+ ", "", regex=False)
+#data['Durée'] = data['Durée'].str.replace("+ ", "", regex=False)
 data['Durée'] = pd.to_timedelta(data['Durée'])
 
 # Calculez la durée en heures décimales
