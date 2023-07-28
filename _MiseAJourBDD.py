@@ -34,7 +34,10 @@ def scroll(value): #Définition d'une fonction pour scroller automatiquement
 # Webscrpping du planning
 chrome_options = Options()
 chrome_options.add_argument("--headless=new")
-driver = webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options) # Ouvrir une page Google Chrome
+
+chrome_driver_path = 'C:/Users/'+username+'/chromedriver-win32/chromedriver-win32/chromedriver.exe'  # Spécifiez le chemin d'accès complet ici        
+driver = webdriver.Chrome(executable_path=chrome_driver_path, options=chrome_options) # Ouvrir une page Google Chrome
+#driver = webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options) # Ouvrir une page Google Chrome
 
 time.sleep(2) 
 driver.get('https://www.planning-imadis.fr/planning_gestion.php?d=1&t=1548025200') # Ouvrir l'adresse du site web
@@ -63,12 +66,13 @@ admin.click()
 time.sleep(2)
 tdg=driver.find_element(By.XPATH, "//*[@id='side-menu']/li[7]/ul/li[3]/a")
 tdg.click()
-scroll(100)
+scroll(80)
+time.sleep(2)   
 
 #pour telecharger tous les excel du dernier TDG
 
 #PDS
-excel=driver.find_element(By.CSS_SELECTOR, '#top > div > table > tbody > tr:nth-child(2) > td:nth-child(7) > button.excel.btn.btn-default.btn-outline.btn-sm')
+excel=driver.find_element(By.XPATH, '//*[@id="top"]/div/table/tbody/tr[2]/td[7]/button[1]')
 excel.click()
 time.sleep(1) 
 
